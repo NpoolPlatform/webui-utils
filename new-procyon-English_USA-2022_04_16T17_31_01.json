@@ -532,7 +532,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_SECURITY",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "SECURITY",
+            "Message": "Security",
             "BatchGet": false
         },
         {
@@ -1396,7 +1396,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_EMAIL_VERIFICATION_CAPTION",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "Please enter the verification code we set to your email,",
+            "Message": "Please enter the verification code we sent to your email",
             "BatchGet": false
         },
         {
@@ -1827,994 +1827,994 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_CURRENCIES",
-            "Message": "TO BE FILLED",
+            "Message": "Get currencies",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_CURRENCIES_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get currencies",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COINS",
-            "Message": "TO BE FILLED",
+            "Message": "Get coins",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COINS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get coins",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOODS",
-            "Message": "TO BE FILLED",
+            "Message": "Get goods",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOODS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get goods",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_PROMOTIONS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get good promotions",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_APP_GOODS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get app goods",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_APP_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get app",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR",
-            "Message": "TO BE FILLED",
+            "Message": "Setup Google Authenticator",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "Setup Two-Factor authentication with Google Authenticator (or your favorite TOTP app) to ensure the security of your account.",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_TWO_FACTOR_AUTH",
-            "Message": "TO BE FILLED",
+            "Message": "Setup Two-Factor Auth",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "MessageID": "MSG_SETUP_LAYTER",
-            "Message": "TO BE FILLED",
+            "MessageID": "MSG_SETUP_LATER",
+            "Message": "Setup Later",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_KYC",
-            "Message": "TO BE FILLED",
+            "Message": "Setup KYC",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_KYC_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "Enter your personal information (KYC) to ensure the security of your account. Certain features are locked until KYC is approved.",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PROCEED_KYC_SETUP",
-            "Message": "TO BE FILLED",
+            "Message": "Proceed to KYC Setup",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "MessageID": "MSG_SETUP_KYC_LAYTER",
-            "Message": "TO BE FILLED",
+            "MessageID": "MSG_SETUP_KYC_LATER",
+            "Message": "Setup KYC Later",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ADD_MOBILE_NUMBER",
-            "Message": "TO BE FILLED",
+            "Message": "Add Mobile Number",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ADD_MOBILE_NUMBER_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "Please add your mobile number to ensure the security of your account. You can use your phone number to recover your account in case your cannot access your email.",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_MOBILE_NUMBER",
-            "Message": "TO BE FILLED",
+            "Message": "Setup Mobile Number",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "MessageID": "MSG_SET_MOBILE_LAYTER",
-            "Message": "TO BE FILLED",
+            "MessageID": "MSG_SET_MOBILE_LATER",
+            "Message": "Setup Later",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GOOGLE_VERIFICATION_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "Google Verification Code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_ACCOUNT",
-            "Message": "TO BE FILLED",
+            "Message": "Update account",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_ACCOUNT_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update account",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_VERIFY_GOOGLE_AUTHENTICATION",
-            "Message": "TO BE FILLED",
+            "Message": "Verify google authentication",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_VERIFY_GOOGLE_AUTHENTICATION_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to verify google authentication",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_EMAIL_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update email",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_MOBILE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update mobile number",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_PASSWORD_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update password",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_KYC_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get kyc",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_LOGOUT_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to logout",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOOGLE_TOKEN",
-            "Message": "TO BE FILLED",
+            "Message": "Get google token",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOOGLE_TOKEN_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get google token",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SIGNIN_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to signin",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_INVITATION_CODE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get invitation code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SET_WITHDRAW_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "Set withdraw address",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SET_WITHDRAW_ADDRESS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to set withdraw address",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CONFIRM_PASSWORD_TIP",
-            "Message": "TO BE FILLED",
+            "Message": "Please enter a password 8-20 alphanumeric characters",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_INVITATION_CODE_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AGREE",
-            "Message": "TO BE FILLED",
+            "Message": "Agree",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CANCEL",
-            "Message": "TO BE FILLED",
+            "Message": "Cancel",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SIGNUP",
-            "Message": "TO BE FILLED",
+            "Message": "Signup",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SIGNUP_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to signup",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION",
-            "Message": "TO BE FILLED",
+            "Message": "Setup google authentication",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to setup google authentication",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SEND_EMAIL_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to send email",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COMPRESS_IMAGE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to compress image",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_FIRST_NAME_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_LAST_NAME_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_POSTAL_CODE_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PROVINCE_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_STREET1_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_STREET2_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COUNTRY_TIP",
-            "Message": "TO BE FILLED",
+            "Message": " ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_EXTRA",
-            "Message": "TO BE FILLED",
+            "Message": "Create user extra",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_EXTRA_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to create user extra",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_EXTRA",
-            "Message": "TO BE FILLED",
+            "Message": "Update extra",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_EXTRA_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "failed to update extra",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_ORDERS",
-            "Message": "TO BE FILLED",
+            "Message": "Get orders",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_ORDERS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get orders",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_BENEFITS",
-            "Message": "TO BE FILLED",
+            "Message": "Get benefits",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_BENEFITS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get benefits",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_TRANSACTIONS",
-            "Message": "TO BE FILLED",
+            "Message": "Get transactions",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_TRANSACTIONS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get transactions",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_WITHDRAWS",
-            "Message": "TO BE FILLED",
+            "Message": "Get withdraws",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_WITHDRAWS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get withdraws",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REFERRAL",
-            "Message": "TO BE FILLED",
+            "Message": "Referral",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_USER_CONTROL_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Update user control",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LOGIN_HISTORIES_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get login history",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_MOBILE_VERIFICATION",
-            "Message": "TO BE FILLED",
+            "Message": "Mobile Verification",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_MOBILE_VERIFICATION_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "Please enter the verification code we sent to your mobile",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_RECOMMENDS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get recommends",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LANG_MESSAGES",
-            "Message": "TO BE FILLED",
+            "Message": "Get frontend messages",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LANG_MESSAGES_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get frontend messages",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LANGS",
-            "Message": "TO BE FILLED",
+            "Message": "Get langs",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LANGS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get langs",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COUNTRIES_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "Get countries",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COUNTRIES_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed get countries",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "Payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TIME_REMAINING",
-            "Message": "TO BE FILLED",
+            "Message": "Time Remaining",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PROCEED_TO_DASHBOARD",
-            "Message": "TO BE FILLED",
+            "Message": "Proceed to Dashboard",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_OFFICIAL_SPECS",
-            "Message": "TO BE FILLED",
+            "Message": "Official Specs",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOOD",
-            "Message": "TO BE FILLED",
+            "Message": "Get good",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_GOOD_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get good",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COIN_DESCRIPTION",
-            "Message": "TO BE FILLED",
+            "Message": "Get coin description",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COIN_DESCRIPTION_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get coin description",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_ORDER",
-            "Message": "TO BE FILLED",
+            "Message": "Create order",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_ORDER_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to create order",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "Create payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_PAYMENT_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to create payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_ID",
-            "Message": "TO BE FILLED",
+            "Message": "Order ID",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AMOUNT_DUE",
-            "Message": "TO BE FILLED",
+            "Message": "Amount Due",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TIME_REMAIN",
-            "Message": "TO BE FILLED",
+            "Message": "Time Remain",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PAYMENT_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "Receiving Address",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_IMPORTANT_INFORMATION",
-            "Message": "TO BE FILLED",
+            "Message": "Important Information",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SCAN_QR_CODE_TO_PAY",
-            "Message": "TO BE FILLED",
+            "Message": "can QR Code to Pay",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PAYMENT_COMPLETED",
-            "Message": "TO BE FILLED",
+            "Message": "Payment Completed",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PAY_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "Pay Later",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_COMPLETE",
-            "Message": "TO BE FILLED",
+            "Message": "Order Complete",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REVIEW_ORDER",
-            "Message": "TO BE FILLED",
+            "Message": "You can review this order on your dashboard.",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COMPLETE",
-            "Message": "TO BE FILLED",
+            "Message": "Complete",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_TIMEOUT",
-            "Message": "TO BE FILLED",
+            "Message": "Order Timeout",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TIMEOUT",
-            "Message": "TO BE FILLED",
+            "Message": "Timeout",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_ORDER",
-            "Message": "TO BE FILLED",
+            "Message": "Get order",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_ORDER_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get order",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "Update payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_PAYMENT_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_PENDING",
-            "Message": "TO BE FILLED",
+            "Message": "Order Pending",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_PAYMENT_AWAITING",
-            "Message": "TO BE FILLED",
+            "Message": "We are awaiting the arrival of your payment. It may take up to 10 minutes. You can review this order on your dashboard.",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PENDING",
-            "Message": "TO BE FILLED",
+            "Message": "Pending",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ORDER_PAY_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "Pay Later",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_NOT_PAID",
-            "Message": "TO BE FILLED",
+            "Message": "Not Paid",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ASSET_WITHDRAWAL",
-            "Message": "TO BE FILLED",
+            "Message": "Asset Withdrawal",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
-            "Message": "TO BE FILLED",
+            "Message": "Available for Withdraw",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AMOUNT_TO_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "Amount to Withdraw",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SELECT_RECIPIENT_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "Select Recipient Address",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GUIDE_AND_FAQ",
-            "Message": "TO BE FILLED",
+            "Message": "GUIDE &amp; FAQ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SUBMIT_WITHDRAW_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to submit withdraw",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_WITHDRAW_ACCOUNTS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get withdraw accounts",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REMOVE",
-            "Message": "TO BE FILLED",
+            "Message": "Remove",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_DELETE_WITHDRAW_ACCOUNT_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to delete withdraw account",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "Withdraw",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_KYC_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update kyc",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_CREATE_KYC_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to create kyc",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UPDATE_KYC_IMAGE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to update kyc image",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REJECTED",
-            "Message": "TO BE FILLED",
+            "Message": "Rejected",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UNDER_REVIEW",
-            "Message": "TO BE FILLED",
+            "Message": "Under Review",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_KYC_FRONT_IMAGE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get kyc front image",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_KYC_HANDING_IMAGE_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get kyc handing image",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "MessageID": "MSG_EREFERRAL_CODE",
-            "Message": "TO BE FILLED",
+            "MessageID": "MSG_REFERRAL_CODE",
+            "Message": "Referral Code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COPY_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "Copy Code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AFFILIATE_TREE",
-            "Message": "TO BE FILLED",
+            "Message": "Affiliate Tree",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ONBOARD",
-            "Message": "TO BE FILLED",
+            "Message": "Onboard",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_REFERRALS_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get referrals",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "Commission",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TOTAL_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "Total Commission",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COMMISSION_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Failed to get commission",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_DIRECT_AFFILIATES",
-            "Message": "TO BE FILLED",
+            "Message": "Direct Affiliates",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_JOIN_DATE",
-            "Message": "TO BE FILLED",
+            "Message": "Join Date",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PURCHASED",
-            "Message": "TO BE FILLED",
+            "Message": "Purchased",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TOTAL_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "Total Payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REFERRAL_VALUE",
-            "Message": "TO BE FILLED",
+            "Message": "Referral Value",
             "BatchGet": true
         }
     ]
