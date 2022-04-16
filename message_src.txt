@@ -1,0 +1,528 @@
+./src/i18n/en-US/index.ts:98:  MSG_GET_LANGS: 'Get languages',
+./src/i18n/en-US/index.ts:132:  MSG_GET_LANGS_FAIL: 'You failed to get languages',
+./src/i18n/en-US/index.ts:185:  MSG_GET_LANG_MESSAGES: 'Get lang messages',
+./src/i18n/en-US/index.ts:231:  MSG_GET_LANG_MESSAGES_FAIL: 'Get lang messages fails'
+./src/components/table/ShowSwitchTable.vue:510:          {{ showMore ? $t('MSG_SHOW_LESS') : $t('MSG_SHOW_MORE') }}
+./src/components/prepare/Prepare.vue:628:        Title: t('MSG_GET_CURRENCIES'),
+./src/components/prepare/Prepare.vue:668:        Message: t('MSG_GET_CURRENCIES_FAIL'),
+./src/components/prepare/Prepare.vue:893:        Title: t('MSG_GET_COINS'),
+./src/components/prepare/Prepare.vue:928:        Message: t('MSG_GET_COINS_FAIL'),
+./src/components/prepare/Prepare.vue:1156:        Title: t('MSG_GET_GOODS'),
+./src/components/prepare/Prepare.vue:1191:        Message: t('MSG_GET_GOODS_FAIL'),
+./src/components/prepare/Prepare.vue:1389:        Title: t('MSG_GET_PROMOTIONS_FAIL'),
+./src/components/prepare/Prepare.vue:1563:        Title: t('MSG_GET_APP_GOODS_FAIL'),
+./src/components/prepare/Prepare.vue:1794:        Title: t('MSG_GET_APP_FAIL'),
+./src/components/remainder/RemainderGA.vue:28:    label='MSG_SETUP_GOOGLE_AUTHENTICATOR'
+./src/components/remainder/RemainderGA.vue:71:    caption='MSG_SETUP_GOOGLE_AUTHENTICATOR_CAPTION'
+./src/components/remainder/RemainderGA.vue:124:    submit-text='MSG_SETUP_TWO_FACTOR_AUTH'
+./src/components/remainder/RemainderGA.vue:168:    cancel-text='MSG_SETUP_LAYTER'
+./src/components/remainder/RemainderKYC.vue:28:    label='MSG_SETUP_KYC'
+./src/components/remainder/RemainderKYC.vue:54:    caption='MSG_SETUP_KYC_CAPTION'
+./src/components/remainder/RemainderKYC.vue:90:    submit-text='MSG_PROCEED_KYC_SETUP'
+./src/components/remainder/RemainderKYC.vue:130:    cancel-text='MSG_SETUP_KYC_LAYTER'
+./src/components/remainder/RemainderMobile.vue:28:    label='MSG_ADD_MOBILE_NUMBER'
+./src/components/remainder/RemainderMobile.vue:62:    caption='MSG_ADD_MOBILE_NUMBER_CAPTION'
+./src/components/remainder/RemainderMobile.vue:106:    submit-text='MSG_SETUP_MOBILE_NUMBER'
+./src/components/remainder/RemainderMobile.vue:148:    cancel-text='MSG_SET_MOBILE_LAYTER'
+./src/components/user/VerifyGoogle.vue:48:    label='MSG_GOOGLE_AUTHENTICATOR'
+./src/components/user/VerifyGoogle.vue:85:    submit-text='MSG_SUBMIT'
+./src/components/user/VerifyGoogle.vue:385:        label='MSG_GOOGLE_VERIFICATION_CODE'
+./src/components/user/VerifyGoogle.vue:528:        message='MSG_VERIFICATION_CODE_TIP'
+./src/components/user/VerifyGoogle.vue:572:        placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/user/VerifyGoogle.vue:2309:        Title: t('MSG_UPDATE_ACCOUNT'),
+./src/components/user/VerifyGoogle.vue:2349:        Message: t('MSG_UPDATE_ACCOUNT_FAIL'),
+./src/components/user/VerifyGoogle.vue:2605:          Title: t('MSG_VERIFY_GOOGLE_AUTHENTICATION'),
+./src/components/user/VerifyGoogle.vue:2661:          Message: t('MSG_VERIFY_GOOGLE_AUTHENTICATION_FAIL'),
+./src/components/user/UpdateAccount.vue:48:    :label='accountType === AccountType.Email ? "MSG_UPDATE_EMAIL" : "MSG_UPDATE_MOBILE"'
+./src/components/user/UpdateAccount.vue:138:    submit-text='MSG_SUBMIT'
+./src/components/user/UpdateAccount.vue:920:        label='MSG_EMAIL_ADDRESS'
+./src/components/user/UpdateAccount.vue:1041:        message='MSG_EMAIL_TIP'
+./src/components/user/UpdateAccount.vue:1073:        placeholder='MSG_EMAIL_PLACEHOLDER'
+./src/components/user/UpdateAccount.vue:1350:        :label='accountType === AccountType.Email ? "MSG_EMAIL_VERIFICATION_CODE" : "MSG_MOBILE_VERIFICATION_CODE"'
+./src/components/user/UpdateAccount.vue:1564:        message='MSG_VERIFICATION_CODE_TIP'
+./src/components/user/UpdateAccount.vue:1608:        placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/user/UpdateAccount.vue:4472:            Title: t('MSG_UPDATE_EMAIL'),
+./src/components/user/UpdateAccount.vue:4514:            Message: t('MSG_UPDATE_EMAIL_FAIL'),
+./src/components/user/UpdateAccount.vue:5066:            Title: t('MSG_UPDATE_MOBILE'),
+./src/components/user/UpdateAccount.vue:5109:            Message: t('MSG_UPDATE_MOBILE_FAIL'),
+./src/components/user/UpdatePassword.vue:48:    label='MSG_UPDATE_PASSWORD'
+./src/components/user/UpdatePassword.vue:80:    submit-text='MSG_SUBMIT'
+./src/components/user/UpdatePassword.vue:361:        label='MSG_PASSWORD'
+./src/components/user/UpdatePassword.vue:475:        message='MSG_PASSWORD_TIP'
+./src/components/user/UpdatePassword.vue:510:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/UpdatePassword.vue:685:        label='MSG_NEW_PASSWORD'
+./src/components/user/UpdatePassword.vue:806:        message='MSG_PASSWORD_TIP'
+./src/components/user/UpdatePassword.vue:841:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/UpdatePassword.vue:1026:        label='MSG_CONFIRM_PASSWORD'
+./src/components/user/UpdatePassword.vue:1151:        message='MSG_PASSWORD_TIP'
+./src/components/user/UpdatePassword.vue:1186:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/UpdatePassword.vue:3358:        Title: t('MSG_UPDATE_PASSWORD'),
+./src/components/user/UpdatePassword.vue:3399:        Message: t('MSG_UPDATE_PASSWORD_FAIL'),
+./src/components/user/SignPage.vue:355:          {{ signupMethod === AccountType.Email ? $t('MSG_SWITCH_REGISTER_WITH_MOBILE') : $t('MSG_SWITCH_REGISTER_WITH_EMAIL') }}
+./src/components/user/SignPage.vue:866:        label='MSG_EMAIL_ADDRESS'
+./src/components/user/SignPage.vue:987:        message='MSG_EMAIL_TIP'
+./src/components/user/SignPage.vue:1019:        placeholder='MSG_EMAIL_PLACEHOLDER'
+./src/components/user/SignPage.vue:1221:        label='MSG_PASSWORD'
+./src/components/user/SignPage.vue:1335:        message='MSG_PASSWORD_TIP'
+./src/components/user/SignPage.vue:1370:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/Signin.vue:243:      label='MSG_USER_LOGIN'
+./src/components/user/Signin.vue:272:      submit-text='MSG_SIGNIN'
+./src/components/user/Signin.vue:407:            <a href='#/reset/password'>{{ $t('MSG_FORGOT_PASSWORD') }}?</a>
+./src/components/user/Signin.vue:560:            <span class='no-account'>{{ $t('MSG_NO_ACCOUNT') }}? </span>
+./src/components/user/Signin.vue:633:            <a href='#/registration'>{{ $t('MSG_REGISTER_NOW') }}.</a>
+./src/components/user/Signin.vue:2740:        Title: t('MSG_GET_KYC_FAIL'),
+./src/components/user/Signin.vue:3470:          Title: t('MSG_LOGOUT_FAIL'),
+./src/components/user/Signin.vue:4257:          Title: t('MSG_GET_APP_FAIL'),
+./src/components/user/Signin.vue:4631:        Title: t('MSG_GET_GOOGLE_TOKEN'),
+./src/components/user/Signin.vue:4673:        Message: t('MSG_GET_GOOGLE_TOKEN_FAIL'),
+./src/components/user/Signin.vue:5022:          Title: t('MSG_SIGNIN'),
+./src/components/user/Signin.vue:5056:          Message: t('MSG_SIGNIN_FAIL'),
+./src/components/user/Signin.vue:5264:            Title: t('MSG_GET_INVITATION_CODE_FAIL'),
+./src/components/user/ResetPassword.vue:11:  <FormPage @submit='onSubmit' label='MSG_RESET_PASSWORD' submit-text='MSG_SUBMIT'>
+./src/components/user/ResetPassword.vue:366:          {{ signupMethod === AccountType.Email ? $t('MSG_SWITCH_REGISTER_WITH_MOBILE') : $t('MSG_SWITCH_REGISTER_WITH_EMAIL') }}
+./src/components/user/ResetPassword.vue:877:        label='MSG_EMAIL_ADDRESS'
+./src/components/user/ResetPassword.vue:998:        message='MSG_EMAIL_TIP'
+./src/components/user/ResetPassword.vue:1030:        placeholder='MSG_EMAIL_PLACEHOLDER'
+./src/components/user/ResetPassword.vue:1305:        :label='signupMethod === AccountType.Email ? "MSG_EMAIL_VERIFICATION_CODE" : "MSG_MOBILE_VERIFICATION_CODE"'
+./src/components/user/ResetPassword.vue:1520:        message='MSG_VERIFICATION_CODE_TIP'
+./src/components/user/ResetPassword.vue:1564:        placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/user/ResetPassword.vue:1761:        label='MSG_PASSWORD'
+./src/components/user/ResetPassword.vue:1875:        message='MSG_PASSWORD_TIP'
+./src/components/user/ResetPassword.vue:1910:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/ResetPassword.vue:2089:        label='MSG_CONFIRM_PASSWORD'
+./src/components/user/ResetPassword.vue:2218:        message='MSG_PASSWORD_TIP'
+./src/components/user/ResetPassword.vue:2253:        placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/ResetPassword.vue:5611:        Title: t('MSG_SET_WITHDRAW_ADDRESS'),
+./src/components/user/ResetPassword.vue:5657:        Message: t('MSG_SET_WITHDRAW_ADDRESS_FAIL'),
+./src/components/user/Registration.vue:245:      label='MSG_USER_REGISTRATION'
+./src/components/user/Registration.vue:281:      submit-text='MSG_REGISTER'
+./src/components/user/Registration.vue:517:          :label='accountType === AccountType.Email ? "MSG_EMAIL_VERIFICATION_CODE" : "MSG_MOBILE_VERIFICATION_CODE"'
+./src/components/user/Registration.vue:741:          message='MSG_VERIFICATION_CODE_TIP'
+./src/components/user/Registration.vue:819:          placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/user/Registration.vue:1087:          label='MSG_CONFIRM_PASSWORD'
+./src/components/user/Registration.vue:1229:          message='MSG_CONFIRM_PASSWORD_TIP'
+./src/components/user/Registration.vue:1274:          placeholder='MSG_PASSWORD_PLACEHOLDER'
+./src/components/user/Registration.vue:1478:          label='MSG_INVITATION_CODE'
+./src/components/user/Registration.vue:1622:          message='MSG_INVITATION_CODE_TIP'
+./src/components/user/Registration.vue:1666:          placeholder='MSG_INVITATION_CODE_PLACEHOLDER'
+./src/components/user/Registration.vue:2206:              v-html='$t("MSG_READ_AND_AGREE", { POLICY_PATH: "javascript:void(0);", USER_AGREEMENT: "javascript:void(0);" })'
+./src/components/user/Registration.vue:2430:        <p class='skip-registration' v-html='$t("MSG_GOTO_SIGNIN", { SIGNIN_PATH: "#/signin" })' />
+./src/components/user/Registration.vue:2900:              {{ $t('MSG_AGREE') }}
+./src/components/user/Registration.vue:3014:              {{ $t('MSG_CANCEL') }}
+./src/components/user/Registration.vue:6035:        Title: t('MSG_SIGNUP'),
+./src/components/user/Registration.vue:6067:        Message: t('MSG_SIGNUP_FAIL'),
+./src/components/user/UpdatePage.vue:213:        <p v-html='$t("MSG_VERIFICATION_CODE_SENT_TO", { ACCOUNT: account })' />
+./src/components/user/UpdatePage.vue:363:        :label='accountType === AccountType.Email ? "MSG_EMAIL_VERIFICATION_CODE" : "MSG_MOBILE_VERIFICATION_CODE"'
+./src/components/user/UpdatePage.vue:579:        message='MSG_VERIFICATION_CODE_TIP'
+./src/components/user/UpdatePage.vue:623:        placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/user/EnableGoogle.vue:117:          {{ $t('MSG_GOOGLE_AUTHENTICATOR') }}
+./src/components/user/EnableGoogle.vue:355:          {{ $t('MSG_GOOGLE_SECRET') }}: {{ googleSecret }}
+./src/components/user/EnableGoogle.vue:454:        <p v-html='$t("MSG_GOOGLE_AUTHENTICATOR_TIP")' />
+./src/components/user/EnableGoogle.vue:674:              {{ $t('MSG_CONTINUE') }}
+./src/components/user/EnableGoogle.vue:778:              {{ $t('MSG_CLOSE') }}
+./src/components/user/EnableGoogle.vue:1799:        Title: t('MSG_SETUP_GOOGLE_AUTHENTICATION'),
+./src/components/user/EnableGoogle.vue:1852:        Message: t('MSG_SETUP_GOOGLE_AUTHENTICATION_FAIL'),
+./src/components/contact/Contact.vue:50:      <h2>{{ $t('MSG_CONTACT_SUPPORT') }}</h2>
+./src/components/contact/Contact.vue:214:          {{ $t('MSG_CONTACT_VIA_EMAIL') }}
+./src/components/contact/Contact.vue:334:          <label for='email'>{{ $t('MSG_EMAIL_ADDRESS') }}</label>
+./src/components/contact/Contact.vue:469:          <label for='name'>{{ $t('MSG_NAME') }}</label>
+./src/components/contact/Contact.vue:679:          <label for='subject'>{{ $t('MSG_SUBJECT') }}</label>
+./src/components/contact/Contact.vue:898:          <label for='message'>{{ $t('MSG_MESSAGE') }}</label>
+./src/components/contact/Contact.vue:1118:          <input type='submit' :value='$t("MSG_SEND_MESSAGE")' class='register'>
+./src/components/contact/Contact.vue:1295:          {{ $t('MSG_CONTACT_VIA_LINE') }}
+./src/components/contact/Contact.vue:1352:        <p class='qr-code-text' v-html='$t("MSG_CONTACT_VIA_LINE_1")' />
+./src/components/contact/Contact.vue:1510:        <p class='qr-code-text' v-html='$t("MSG_CONTACT_VIA_LINE_2")' />
+./src/components/contact/Contact.vue:1611:          {{ $t('MSG_CONTACT_SIGNATURE') }}
+./src/components/contact/Contact.vue:2587:        Title: t('MSG_SEND_EMAIL_FAIL'),
+./src/components/image/DragableImg.vue:1538:            Title: t('MSG_COMPRESS_IMAGE_FAIL'),
+./src/components/image/DragableImg.vue:1850:        Title: t('MSG_COMPRESS_IMAGE_FAIL'),
+./src/components/coin/CoinSelector.vue:11:  <label for='coin'>{{ $t('MSG_BLOCKCHAIN') }}</label>
+./src/components/coin/CoinSelector.vue:1253:          Title: t('MSG_GET_COINS_FAIL'),
+./src/components/account/Account.vue:35:    <h2>{{ $t('MSG_ACCOUNT') }}</h2>
+./src/components/account/Account.vue:162:      <h3>{{ $t('MSG_PERSON_DETAILS_FOR_KYC') }}</h3>
+./src/components/account/Account.vue:330:            label='MSG_USERNAME'
+./src/components/account/Account.vue:469:            message='MSG_USERNAME_TIP'
+./src/components/account/Account.vue:508:            placeholder='MSG_USERNAME_PLACEHOLDER'
+./src/components/account/Account.vue:721:          <label for='gender'>{{ $t('MSG_GENDER') }}</label>
+./src/components/account/Account.vue:782:          <select id='gender' :name='$t("MSG_GENDER")' v-model='gender' required>
+./src/components/account/Account.vue:1266:            label='MSG_FIRST_NAME'
+./src/components/account/Account.vue:1410:            message='MSG_FIRST_NAME_TIP'
+./src/components/account/Account.vue:1451:            placeholder='MSG_FIRST_NAME_PLACEHOLDER'
+./src/components/account/Account.vue:1722:            label='MSG_LAST_NAME'
+./src/components/account/Account.vue:1863:            message='MSG_LAST_NAME_TIP'
+./src/components/account/Account.vue:1903:            placeholder='MSG_LAST_NAME_PLACEHOLDER'
+./src/components/account/Account.vue:2074:      <h3>{{ $t('MSG_ADDRESS') }}</h3>
+./src/components/account/Account.vue:2229:            label='MSG_POSTAL_CODE'
+./src/components/account/Account.vue:2385:            message='MSG_POSTAL_CODE_TIP'
+./src/components/account/Account.vue:2427:            placeholder='MSG_POSTAL_CODE_PLACEHOLDER'
+./src/components/account/Account.vue:2619:            label='MSG_PROVINCE'
+./src/components/account/Account.vue:2767:            message='MSG_PROVINCE_TIP'
+./src/components/account/Account.vue:2806:            placeholder='MSG_PROVINCE_PLACEHOLDER'
+./src/components/account/Account.vue:3011:            label='MSG_STREET1'
+./src/components/account/Account.vue:3156:            message='MSG_STREET1_TIP'
+./src/components/account/Account.vue:3194:            placeholder='MSG_STREE1_PLACEHOLDER'
+./src/components/account/Account.vue:3380:            label='MSG_STREET2'
+./src/components/account/Account.vue:3525:            message='MSG_STREET2_TIP'
+./src/components/account/Account.vue:3563:            placeholder='MSG_STREET2_PLACEHOLDER'
+./src/components/account/Account.vue:3764:            label='MSG_CITY'
+./src/components/account/Account.vue:3900:            message='MSG_CITY'
+./src/components/account/Account.vue:3931:            placeholder='MSG_CITY_PLACEHOLDER'
+./src/components/account/Account.vue:4115:            label='MSG_COUNTRY'
+./src/components/account/Account.vue:4260:            message='MSG_COUNTRY_TIP'
+./src/components/account/Account.vue:4298:            placeholder='MSG_COUNTRY_PLACEHOLDER'
+./src/components/account/Account.vue:4389:      <input type='submit' :value='$t("MSG_SAVE_CHANGES")' class='account-field' @click='onSubmit'>
+./src/components/account/Account.vue:5296:const genders = ref(['MSG_FAMALE', 'MSG_MALE', 'MSG_OTHER'])
+./src/components/account/Account.vue:8044:          Title: t('MSG_CREATE_EXTRA'),
+./src/components/account/Account.vue:8084:          Message: t('MSG_CREATE_EXTRA_FAIL'),
+./src/components/account/Account.vue:8692:        Title: t('MSG_UPDATE_EXTRA'),
+./src/components/account/Account.vue:8730:        Message: t('MSG_UPDATE_EXTRA_FAIL'),
+./src/components/dashboard/MiningCard.vue:321:        <span class='label'>{{ $t('MSG_EARNINGS') }}:</span>
+./src/components/dashboard/MiningCard.vue:632:        <span class='label'>{{ $t('MSG_LAST_24_HOURS') }}:</span>
+./src/components/dashboard/MiningCard.vue:959:        <span class='label'>{{ $t('MSG_CAPACITY') }}:</span>
+./src/components/dashboard/MiningCard.vue:1171:        <span class='label'>{{ $t('MSG_30_DAYS_AVERAGE_OUTPUT') }}:</span>
+./src/components/dashboard/MiningCard.vue:1391:        <span class='label'>{{ $t('MSG_TECHNIQUE_SERVICE_FEE') }}:</span>
+./src/components/dashboard/MiningCard.vue:1618:        <span class='label'>{{ $t('MSG_30_DAYS_AVERAGE_NET_OUTPUT') }}:</span>
+./src/components/dashboard/MiningCard.vue:1848:        <span class='label'>{{ $t('MSG_SERVICE_PERIOD') }}:</span>
+./src/components/dashboard/MiningCard.vue:1915:        <span class='value'>{{ goodPeriod }} {{ $t('MSG_DAYS') }}</span>
+./src/components/dashboard/MiningCard.vue:2026:        <span class='label'>{{ $t('MSG_NETWORK_DAILY_OUTPUT') }}:</span>
+./src/components/dashboard/MiningCard.vue:2271:        {{ $t('MSG_EXPORT_DAILY_OUTPUT_CSV') }}
+./src/components/dashboard/MiningCard.vue:2375:        {{ $t('MSG_PURCHASE_CAPACITY') }}
+./src/components/dashboard/MiningCard.vue:4833:        Title: t('MSG_GET_COINS'),
+./src/components/dashboard/MiningCard.vue:4868:        Message: t('MSG_GET_COINS_FAIL'),
+./src/components/dashboard/MiningCards.vue:11:  <h2>{{ $t('MSG_MINING_DASHBOARD') }}</h2>
+./src/components/dashboard/MiningCards.vue:927:          Title: t('MSG_GET_COINS'),
+./src/components/dashboard/MiningCards.vue:964:          Message: t('MSG_GET_COINS_FAIL'),
+./src/components/dashboard/MiningCards.vue:1222:          Title: t('MSG_GET_ORDERS'),
+./src/components/dashboard/MiningCards.vue:1260:          Message: t('MSG_GET_ORDERS_FAIL'),
+./src/components/dashboard/MiningSummary.vue:11:  <h2>{{ $t('MSG_EARNINGS') }}</h2>
+./src/components/dashboard/MiningSummary.vue:286:        {{ $t('MSG_TOTAL_EARNINGS') }}
+./src/components/dashboard/MiningSummary.vue:560:        {{ $t('MSG_YESTERDAY_EARNING') }}
+./src/components/dashboard/MiningSummary.vue:851:        {{ $t('MSG_CURRENT_BALANCE') }}
+./src/components/dashboard/MiningSummary.vue:1733:        Title: t('MSG_GET_BENEFITS'),
+./src/components/dashboard/MiningSummary.vue:1771:        Message: t('MSG_GET_BENEFITS_FAIL'),
+./src/components/dashboard/MiningSummary.vue:2191:        Title: t('MSG_GET_TRANSACTIONS'),
+./src/components/dashboard/MiningSummary.vue:2233:        Message: t('MSG_GET_TRANSACTIONS_FAIL'),
+./src/components/dashboard/MiningSummary.vue:2432:          Title: t('MSG_GET_WITHDRAWS'),
+./src/components/dashboard/MiningSummary.vue:2473:          Message: t('MSG_GET_WITHDRAWS_FAIL'),
+./src/components/dashboard/MiningSummary.vue:2812:        Title: t('MSG_GET_GOODS'),
+./src/components/dashboard/MiningSummary.vue:2847:        Message: t('MSG_GET_GOODS_FAIL'),
+./src/components/dashboard/MiningSummary.vue:3145:        Title: t('MSG_GET_CURRENCIES'),
+./src/components/dashboard/MiningSummary.vue:3185:        Message: t('MSG_GET_CURRENCIES_FAIL'),
+./src/components/dashboard/MiningSummary.vue:3413:        Title: t('MSG_GET_COINS'),
+./src/components/dashboard/MiningSummary.vue:3448:        Message: t('MSG_GET_COINS_FAIL'),
+./src/components/dashboard/Orders.vue:22:    label='MSG_ORDER_HISTORY'
+./src/components/dashboard/Orders.vue:298:          {{ $t('MSG_EXPORT_ORDER_CSV') }}
+./src/components/dashboard/Orders.vue:1166:    label: t('MSG_DATE'),
+./src/components/dashboard/Orders.vue:1298:    label: t('MSG_PRODUCT'),
+./src/components/dashboard/Orders.vue:1423:    label: t('MSG_AMOUNT'),
+./src/components/dashboard/Orders.vue:1542:    label: t('MSG_PRICE'),
+./src/components/dashboard/Orders.vue:1772:    label: t('MSG_TECHNIQUE_SERVICE_FEE'),
+./src/components/dashboard/Orders.vue:1888:    label: t('MSG_PERIOD'),
+./src/components/dashboard/Orders.vue:1937:    field: (row: OrderModel) => row.DurationDays.toString() + t('MSG_DAY')
+./src/components/dashboard/Orders.vue:2040:    label: t('MSG_TOTAL'),
+./src/components/dashboard/Orders.vue:2218:    label: t('MSG_STATE'),
+./src/components/dashboard/Orders.vue:2774:          Title: t('MSG_GET_GOODS_FAIL'),
+./src/components/dashboard/Orders.vue:2992:          Title: t('MSG_GET_PROMOTIONS_FAIL'),
+./src/components/dashboard/Orders.vue:3184:          Title: t('MSG_GET_APP_GOODS_FAIL'),
+./src/components/menu/SideMenu.vue:1060:  if (menu.label === 'MSG_REFERRAL' && !inspire.InvitationCode?.InvitationCode?.length) {
+./src/components/security/Settings.vue:11:  <h2>{{ $t('MSG_SECURITY_SETTINGS') }}</h2>
+./src/components/security/Settings.vue:216:          {{ $t('MSG_PASSWORD') }}
+./src/components/security/Settings.vue:278:      <p>{{ $t('MSG_CHANGE_PASSWORD_TIP') }}</p>
+./src/components/security/Settings.vue:391:        {{ $t('MSG_CHANGE_PASSWORD') }}
+./src/components/security/Settings.vue:593:          {{ $t('MSG_EMAIL_ADDRESS') }}
+./src/components/security/Settings.vue:660:      <p>{{ $t('MSG_UPDATE_EMAIL_TIP') }}</p>
+./src/components/security/Settings.vue:851:        <span>{{ $t('MSG_VERIFIED') }}</span>
+./src/components/security/Settings.vue:971:        {{ $t('MSG_UPDATE_EMAIL_ADDRESS') }}
+./src/components/security/Settings.vue:1180:          {{ $t('MSG_MOBILE_AUTHENTICATION') }}
+./src/components/security/Settings.vue:1255:      <p>{{ $t('MSG_MOBILE_AUTHENTICATION_TIP') }}</p>
+./src/components/security/Settings.vue:1450:        <span>{{ $t('MSG_NOT_VERIFIED') }}</span>
+./src/components/security/Settings.vue:1575:        {{ $t('MSG_UPDATE_PHONE_NUMBER') }}
+./src/components/security/Settings.vue:1787:          {{ $t('MSG_GOOGLE_AUTHENTICATOR') }}
+./src/components/security/Settings.vue:1861:      <p>{{ $t('MSG_GOOGLE_AUTHENTICATE_TIP') }}</p>
+./src/components/security/Settings.vue:2067:        <span>{{ $t('MSG_VERIFIED') }}</span>
+./src/components/security/Settings.vue:2256:        {{ $t('MSG_ENABLE_2FA_AUTH') }}
+./src/components/security/Settings.vue:2465:          {{ $t('MSG_LOGIN_AUTHENTICATION') }}
+./src/components/security/Settings.vue:2539:      <p>{{ $t('MSG_LOGIN_AUTHENTICATION_TIP') }}</p>
+./src/components/security/Settings.vue:2867:        <span>{{ $t('MSG_GOOGLE_LOGIN_AUTHENTICATION') }}</span>
+./src/components/security/Settings.vue:3137:        <span>{{ $t('MSG_EMAIL_LOGIN_AUTHENTICATION') }}</span>
+./src/components/security/Settings.vue:3274:        {{ $t('MSG_SUBMIT_CHANGE') }}
+./src/components/security/Settings.vue:3472:          {{ $t('MSG_ID_VERIFICATION') }}
+./src/components/security/Settings.vue:3541:      <p>{{ $t('MSG_ID_VERIFICATION_TIP') }}</p>
+./src/components/security/Settings.vue:3699:        <span>{{ $t('MSG_VERIFIED') }}</span>
+./src/components/security/Settings.vue:3811:        {{ $t('MSG_VERIFY_ID') }}
+./src/components/security/Settings.vue:5650:        Title: t('MSG_UPDATE_USER_CONTROL_FAIL'),
+./src/components/security/LoginHistory.vue:22:    label='MSG_LOGIN_HISTORY'
+./src/components/security/LoginHistory.vue:711:    label: t('MSG_DATE'),
+./src/components/security/LoginHistory.vue:845:    label: t('MSG_IP_ADDRESS'),
+./src/components/security/LoginHistory.vue:976:    label: t('MSG_LOCATION'),
+./src/components/security/LoginHistory.vue:1204:          Title: t('MSG_GET_LOGIN_HISTORIES_FAIL'),
+./src/components/header/MainHeader.vue:241:        <li><a class='nav-link' href='#'>{{ $t('MSG_HOME') }}</a></li>
+./src/components/header/MainHeader.vue:312:        <li><a class='nav-link' href='https://procyon-vip.medium.com'>{{ $t('MSG_BLOG') }}</a></li>
+./src/components/header/MainHeader.vue:412:        <li><a class='nav-link' href='#/faq'>{{ $t('MSG_SUPPORT_AND_FAQ') }}</a></li>
+./src/components/header/MainHeader.vue:498:        <li><a class='nav-link' href='#/contact'>{{ $t('MSG_CONTACT') }}</a></li>
+./src/components/header/MainHeader.vue:1564:        <li><a class='nav-link' href='#'>{{ $t('MSG_HOME') }}</a></li>
+./src/components/header/MainHeader.vue:1635:        <li><a class='nav-link' href='https://procyon-vip.medium.com'>{{ $t('MSG_BLOG') }}</a></li>
+./src/components/header/MainHeader.vue:1735:        <li><a class='nav-link' href='#/faq'>{{ $t('MSG_SUPPORT_AND_FAQ') }}</a></li>
+./src/components/header/MainHeader.vue:1821:        <li><a class='nav-link' href='#/contact'>{{ $t('MSG_CONTACT') }}</a></li>
+./src/components/header/MainHeader.vue:3119:  if (item.label === 'MSG_LOGOUT') {
+./src/components/header/MainHeader.vue:3208:          Title: t('MSG_LOGOUT_FAIL'),
+./src/components/header/MainHeader.vue:3549:  myMenu.children = myMenu.children.filter((m) => m.label !== 'MSG_REFERRAL' || inspire.InvitationCode?.InvitationCode?.length)
+./src/components/header/SignHelper.vue:47:    {{ $t('MSG_REGISTER') }}
+./src/components/header/SignHelper.vue:134:    {{ $t('MSG_SIGNIN') }}
+./src/components/verifier/CodeVerifier.vue:312:          v-html='$t("MSG_EMAIL_VERIFICATION_CODE_SENT_TO", { ACCOUNT: account })'
+./src/components/verifier/CodeVerifier.vue:494:          v-html='$t("MSG_MOBILE_VERIFICATION_CODE_SENT_TO", { ACCOUNT: account })'
+./src/components/verifier/CodeVerifier.vue:731:        message='MSG_VERIFICATION_CODE_TIP'
+./src/components/verifier/CodeVerifier.vue:775:        placeholder='MSG_VERIFICATION_CODE_PLACEHOLDER'
+./src/components/verifier/CodeVerifier.vue:1190:        {{ $t('MSG_VERIFY') }}
+./src/components/verifier/CodeVerifier.vue:2665:      return 'MSG_MOBILE_VERIFICATION'
+./src/components/verifier/CodeVerifier.vue:2732:      return 'MSG_EMAIL_VERIFICATION'
+./src/components/verifier/CodeVerifier.vue:2799:      return 'MSG_GOOGLE_VERIFICATION'
+./src/components/verifier/CodeVerifier.vue:2867:  return 'MSG_EMAIL_VERIFICATION'
+./src/components/verifier/CodeVerifier.vue:3351:      return 'MSG_MOBILE_VERIFICATION_CAPTION'
+./src/components/verifier/CodeVerifier.vue:3426:      return 'MSG_EMAIL_VERIFICATION_CAPTION'
+./src/components/verifier/CodeVerifier.vue:3501:      return 'MSG_GOOGLE_VERIFICATION_CAPTION'
+./src/components/verifier/CodeVerifier.vue:3577:  return 'MSG_EMAIL_VERIFICATION_CAPTION'
+./src/components/index/WhatIsMining.vue:63:      <div v-html='$t("MSG_WHAT_IS_MINING_1")' />
+./src/components/index/WhatIsMining.vue:151:      <div v-html='$t("MSG_WHAT_IS_MINING_2")' />
+./src/components/index/Feature.vue:166:          <h3 class='feature-title' v-html='$t("MSG_MARKET_LEADER_TITLE")' />
+./src/components/index/Feature.vue:244:          <p v-html='$t("MSG_MARKET_LEADER")' />
+./src/components/index/Feature.vue:381:          <h3 class='feature-title' v-html='$t("MSG_DREAM_TEAM_TITLE")' />
+./src/components/index/Feature.vue:456:          <p v-html='$t("MSG_DREAM_TEAM")' />
+./src/components/index/Feature.vue:596:          <h3 class='feature-title' v-html='$t("MSG_BIT_PICTURE_TITLE")' />
+./src/components/index/Feature.vue:672:          <p v-html='$t("MSG_BIT_PICTURE")' />
+./src/components/index/Products.vue:11:  <h2>{{ $t('MSG_PREMIERE_PRODUCTS') }}</h2>
+./src/components/index/Products.vue:796:        Title: t('MSG_GET_GOODS_FAIL'),
+./src/components/index/Products.vue:992:        Title: t('MSG_GET_RECOMMENDS_FAIL'),
+./src/components/index/Products.vue:1168:        Title: t('MSG_GET_PROMOTIONS_FAIL'),
+./src/components/index/Products.vue:1342:        Title: t('MSG_GET_APP_GOODS_FAIL'),
+./src/components/index/WhyMe.vue:61:      {{ $t('MSG_WHY_PROCYON') }}
+./src/components/index/WhyMe.vue:162:        <p v-html='$t("MSG_WHY_PROCYON_1")' />
+./src/components/index/WhyMe.vue:251:        <p v-html='$t("MSG_WHY_PROCYON_2")' />
+./src/components/index/Banner.vue:51:      <p class='hero' v-html='$t("MSG_SLOGAN")' />
+./src/components/index/Banner.vue:134:      {{ $t('MSG_SUB_SLOGAN') }}
+./src/components/index/Banner.vue:242:      {{ $t('MSG_REGISTER') }}
+./src/components/help/FAQ.vue:59:      <div v-html='$t("MSG_FAQ_SUPPORT")' />
+./src/components/help/Legal.vue:11:  <div v-html='$t("MSG_LEGAL_1")' />
+./src/components/help/Legal.vue:48:  <div v-html='$t("MSG_LEGAL_2")' />
+./src/components/help/Legal.vue:85:  <div v-html='$t("MSG_LEGAL_3")' />
+./src/components/lang/LangLoader.vue:520:        Title: t('MSG_GET_LANG_MESSAGES'),
+./src/components/lang/LangLoader.vue:563:        Message: t('MSG_GET_LANG_MESSAGES_FAIL'),
+./src/components/lang/LangLoader.vue:760:        Title: t('MSG_GET_LANGS'),
+./src/components/lang/LangLoader.vue:795:        Message: t('MSG_GET_LANGS_FAIL'),
+./src/components/lang/CountrySelector.vue:2570:        Title: t('MSG_GET_COUNTRIES_CODE'),
+./src/components/lang/CountrySelector.vue:2614:        Message: t('MSG_GET_COUNTRIES_FAIL'),
+./src/components/purchase/PaymentState.vue:264:        <h4>{{ $t('MSG_AMOUNT') }}:</h4>
+./src/components/purchase/PaymentState.vue:485:        <h4>{{ $t('MSG_PAYMENT') }}:</h4>
+./src/components/purchase/PaymentState.vue:709:        <h4>{{ $t('MSG_STATUS') }}:</h4>
+./src/components/purchase/PaymentState.vue:875:        <h4>{{ $t('MSG_DATE') }}:</h4>
+./src/components/purchase/PaymentState.vue:1221:        <h4>{{ $t('MSG_TIME_REMAINING') }}:</h4>
+./src/components/purchase/PaymentState.vue:1524:        {{ $t('MSG_PROCEED_TO_DASHBOARD') }}
+./src/components/purchase/PurchasePage.vue:244:          <h1>{{ good?.Main?.Name }} {{ $t('MSG_MINING') }}</h1>
+./src/components/purchase/Purchase.vue:94:        {{ $t('MSG_PRODUCT_DETAILS') }}
+./src/components/purchase/Purchase.vue:212:          <h4>{{ $t('MSG_DAILY_MINING_REWARDS') }}:</h4>
+./src/components/purchase/Purchase.vue:309:          <span class='unit'>{{ good?.Main?.Unit }} / {{ $t('MSG_DAY') }}</span>
+./src/components/purchase/Purchase.vue:441:          <h4>{{ $t('MSG_SERVICE_PERIOD') }}:</h4>
+./src/components/purchase/Purchase.vue:567:          <span class='unit'>{{ $t('MSG_DAYS') }}</span>
+./src/components/purchase/Purchase.vue:675:          <h4>{{ $t('MSG_TECHNIQUE_SERVICE_FEE') }}:</h4>
+./src/components/purchase/Purchase.vue:863:          <h4>{{ $t('MSG_MAINTENANCE_FEE') }}:</h4>
+./src/components/purchase/Purchase.vue:957:          <span class='unit'>{{ PriceCoinName }} / {{ $t('MSG_DAY') }}</span>
+./src/components/purchase/Purchase.vue:1086:          <h4>{{ $t('MSG_ORDER_EFFECTIVE') }}:</h4>
+./src/components/purchase/Purchase.vue:1429:          <h3>{{ $t('MSG_WHY_TITLE') }}?</h3>
+./src/components/purchase/Purchase.vue:1475:          <p v-html='$t("MSG_WHY_CONTENT")' />
+./src/components/purchase/Purchase.vue:1563:            <h3>{{ $t('MSG_OFFICIAL_SPECS', { COIN_NAME: good?.Main?.Name }) }}</h3>
+./src/components/purchase/Purchase.vue:1840:              {{ $t('MSG_HOMEPAGE_WITH_RIGHT_ARROW', { COIN_NAME: good?.Main?.Name }) }}
+./src/components/purchase/Purchase.vue:2064:        {{ $t('MSG_MINING_PURCHASE') }}
+./src/components/purchase/Purchase.vue:2190:        <h4>{{ $t('MSG_PURCHASE_AMOUNT') }} ({{ good?.Good?.Good?.Unit }}s)</h4>
+./src/components/purchase/Purchase.vue:2431:          message='MSG_AMOUNT_TIP'
+./src/components/purchase/Purchase.vue:2466:          placeholder='MSG_AMOUNT_PLACEHOLDER'
+./src/components/purchase/Purchase.vue:2669:        <h4>{{ $t('MSG_PAYMENT_METHOD') }}</h4>
+./src/components/purchase/Purchase.vue:2717:        <select :name='$t("MSG_PAYMENT_METHOD")' v-model='paymentCoin' required>
+./src/components/purchase/Purchase.vue:3250:            label='MSG_PURCHASE'
+./src/components/purchase/Purchase.vue:5394:          Title: t('MSG_GET_GOOD'),
+./src/components/purchase/Purchase.vue:5430:          Message: t('MSG_GET_GOOD_FAIL'),
+./src/components/purchase/Purchase.vue:5725:            Title: t('MSG_GET_COIN_DESCRIPTION'),
+./src/components/purchase/Purchase.vue:5775:            Message: t('MSG_GET_COIN_DESCRIPTION_FAIL'),
+./src/components/purchase/Purchase.vue:6029:          Title: t('MSG_GET_COINS'),
+./src/components/purchase/Purchase.vue:6066:          Message: t('MSG_GET_COINS_FAIL'),
+./src/components/purchase/Purchase.vue:6486:        Title: t('MSG_CREATE_ORDER'),
+./src/components/purchase/Purchase.vue:6524:        Message: t('MSG_CREATE_ORDER_FAIL'),
+./src/components/purchase/Purchase.vue:6894:          Title: t('MSG_CREATE_PAYMENT'),
+./src/components/purchase/Purchase.vue:6936:          Message: t('MSG_CREATE_PAYMENT_FAIL'),
+./src/components/purchase/Payment.vue:153:          {{ order?.PayWithCoin?.Name }} | <strong>{{ $t('MSG_ORDER_ID') }}: {{ orderId }}</strong>
+./src/components/purchase/Payment.vue:337:            <h4>{{ $t('MSG_PURCHASE_AMOUNT') }}:</h4>
+./src/components/purchase/Payment.vue:593:            <h4>{{ $t('MSG_AMOUNT_DUE') }}:</h4>
+./src/components/purchase/Payment.vue:923:            <h4>{{ $t('MSG_TIME_REMAIN') }}:</h4>
+./src/components/purchase/Payment.vue:1087:            <h4>{{ $t('MSG_PAYMENT_ADDRESS') }}:</h4>
+./src/components/purchase/Payment.vue:1433:        <h4>{{ $t('MSG_IMPORTANT_INFORMATION') }}</h4>
+./src/components/purchase/Payment.vue:1488:        <p v-html='$t("MSG_PAYMENT_NOTE")' />
+./src/components/purchase/Payment.vue:1610:          {{ $t('MSG_SCAN_QR_CODE_TO_PAY') }}
+./src/components/purchase/Payment.vue:1774:            <h5>{{ order?.PayWithCoin?.Name }} {{ $t('MSG_ADDRESS') }}</h5>
+./src/components/purchase/Payment.vue:2171:          {{ $t('MSG_PAYMENT_COMPLETED') }}
+./src/components/purchase/Payment.vue:2287:          {{ $t('MSG_PAY_LATER') }}
+./src/components/purchase/Payment.vue:4441:      popupTitle.value = 'MSG_ORDER_COMPLETE'
+./src/components/purchase/Payment.vue:4487:      tipMessage.value = 'MSG_REVIEW_ORDER'
+./src/components/purchase/Payment.vue:4531:      orderStatus.value = 'MSG_COMPLETE'
+./src/components/purchase/Payment.vue:4969:      popupTitle.value = 'MSG_ORDER_TIMEOUT'
+./src/components/purchase/Payment.vue:5014:      tipMessage.value = 'MSG_ORDER_TIMEOUT'
+./src/components/purchase/Payment.vue:5059:      orderStatus.value = 'MSG_TIMEOUT'
+./src/components/purchase/Payment.vue:5450:        Title: t('MSG_GET_ORDER'),
+./src/components/purchase/Payment.vue:5485:        Message: t('MSG_GET_ORDER_FAIL'),
+./src/components/purchase/Payment.vue:6049:        Title: t('MSG_UPDATE_PAYMENT'),
+./src/components/purchase/Payment.vue:6089:        Message: t('MSG_UPDATE_PAYMENT_FAIL'),
+./src/components/purchase/Payment.vue:6265:  popupTitle.value = 'MSG_ORDER_PENDING'
+./src/components/purchase/Payment.vue:6306:  tipMessage.value = 'MSG_ORDER_PAYMENT_AWAITING'
+./src/components/purchase/Payment.vue:6356:  orderStatus.value = 'MSG_PENDING'
+./src/components/purchase/Payment.vue:6453:  popupTitle.value = 'MSG_PAY_LATER'
+./src/components/purchase/Payment.vue:6490:  tipMessage.value = 'MSG_ORDER_PAY_LATER'
+./src/components/purchase/Payment.vue:6533:  orderStatus.value = 'MSG_NOT_PAID'
+./src/components/input/PhoneNO.vue:11:  <label for='phone'>{{ $t('MSG_PHONE_NO') }}</label>
+./src/components/input/PhoneNO.vue:228:      :placeholder='$t("MSG_PHONE_NO_PLACEHOLDER")'
+./src/components/input/PhoneNO.vue:433:    <span>{{ error ? $t('MSG_PHONE_TIP') : '' }}</span>
+./src/components/product/Card.vue:382:      <span class='label'>{{ $t('MSG_DAILY_MINING_REWARDS') }}:</span>
+./src/components/product/Card.vue:453:      <span class='value'>*{{ good.Main?.Unit }} / {{ $t('MSG_DAY') }}</span>
+./src/components/product/Card.vue:566:      <span class='label'>{{ $t('MSG_SERVICE_PERIOD') }}:</span>
+./src/components/product/Card.vue:631:      <span class='value'>{{ good.Good.Good.DurationDays }} {{ $t('MSG_DAYS') }}</span>
+./src/components/product/Card.vue:754:      <span class='label'>{{ $t('MSG_TECHNIQUE_SERVICE_FEE') }}:</span>
+./src/components/product/Card.vue:898:      <span class='label'>{{ $t('MSG_MAINTENANCE_FEE') }}:</span>
+./src/components/product/Card.vue:964:      <span class='value'>$0.05 / {{ $t('MSG_DAY') }}</span>
+./src/components/product/Card.vue:1060:      <span class='label'>{{ $t('MSG_ORDER_EFFECTIVE') }}:</span>
+./src/components/product/Card.vue:1267:      {{ $t('MSG_PURCHASE') }}
+./src/components/wallet/Transactions.vue:30:    label='MSG_TRANSACTIONS'
+./src/components/wallet/Transactions.vue:1619:    label: t('MSG_NAME'),
+./src/components/wallet/Transactions.vue:1763:    label: t('MSG_DATE'),
+./src/components/wallet/Transactions.vue:1897:    label: t('MSG_AMOUNT'),
+./src/components/wallet/Transactions.vue:1995:    label: t('MSG_STATUS'),
+./src/components/wallet/Transactions.vue:2090:    label: t('MSG_TYPE'),
+./src/components/wallet/Transactions.vue:2280:          Title: t('MSG_GET_COINS_FAIL'),
+./src/components/wallet/Transactions.vue:2552:          Title: t('MSG_GET_TRANSACTIONS_FAIL'),
+./src/components/wallet/AddAddress.vue:55:    <FormPage @submit='onSubmit' label='MSG_NEW_WALLET_REGISTRATION' submit-text='MSG_REGISTER_ADDRESS'>
+./src/components/wallet/AddAddress.vue:188:        <CoinSelector v-model:selected-coin='selectedCoin' label='MSG_BLOCKCHAIN' />
+./src/components/wallet/AddAddress.vue:322:          label='MSG_WALLET_ADDRESS'
+./src/components/wallet/AddAddress.vue:455:          message='MSG_ADDRESS_TIP'
+./src/components/wallet/AddAddress.vue:491:          placeholder='MSG_ADDRESS_PLACEHOLDER'
+./src/components/wallet/AddAddress.vue:670:          label='MSG_WALLET_ADDRESS_LABELS'
+./src/components/wallet/AddAddress.vue:714:          caption='MSG_WALLET_ADDRESS_LABELS_TIP'
+./src/components/wallet/AddAddress.vue:889:          placeholder='MSG_ADDRESS_LABELS_PLACEHOLDER'
+./src/components/wallet/AddAddress.vue:1005:        <h3>{{ $t('MSG_CAUTION') }}</h3>
+./src/components/wallet/AddAddress.vue:1046:        <p v-html='$t("MSG_WALLET_ADDRESS_CAUTION_CONTENT")' />
+./src/components/wallet/AddAddress.vue:3148:        Title: t('MSG_SET_WITHDRAW_ADDRESS'),
+./src/components/wallet/AddAddress.vue:3194:        Message: t('MSG_SET_WITHDRAW_ADDRESS_FAIL'),
+./src/components/wallet/Withdarw.vue:396:            <h3>{{ $t('MSG_ASSET_WITHDRAWAL') }}</h3>
+./src/components/wallet/Withdarw.vue:527:                <h4>{{ $t('MSG_AVAILABLE_FOR_WITHDRAWAL') }}:</h4>
+./src/components/wallet/Withdarw.vue:792:                <h4>{{ $t('MSG_AMOUNT_TO_WITHDRAW') }} ({{ coin.Unit }}):</h4>
+./src/components/wallet/Withdarw.vue:1063:                  message='MSG_AMOUNT_TIP'
+./src/components/wallet/Withdarw.vue:1106:                  placeholder='MSG_AMOUNT_PLACEHOLDER'
+./src/components/wallet/Withdarw.vue:1409:                <h4>{{ $t('MSG_SELECT_RECIPIENT_ADDRESS') }}:</h4>
+./src/components/wallet/Withdarw.vue:2244:            <h3>{{ $t('MSG_GUIDE_AND_FAQ') }}</h3>
+./src/components/wallet/Withdarw.vue:2295:            <p v-html='$t("MSG_WITHDRAW_GUIDE_AND_FAQ_CONTENT")' />
+./src/components/wallet/Withdarw.vue:5305:        Title: t('MSG_SUBMIT_WITHDRAW_FAIL'),
+./src/components/wallet/Withdarw.vue:5613:        Title: t('MSG_GET_WITHDRAW_ACCOUNTS_FAIL'),
+./src/components/wallet/Balance.vue:34:    <h2>{{ $t('MSG_EARNINGS') }}</h2>
+./src/components/wallet/Balance.vue:350:          {{ $t('MSG_CURRENT_BALANCE') }} ({{ PriceCoinName }})
+./src/components/wallet/Balance.vue:667:          {{ $t('MSG_CURRENT_BALANCE') }} (JPY)
+./src/components/wallet/Balance.vue:1778:        Title: t('MSG_GET_BENEFITS'),
+./src/components/wallet/Balance.vue:1816:        Message: t('MSG_GET_BENEFITS_FAIL'),
+./src/components/wallet/Balance.vue:2250:        Title: t('MSG_GET_TRANSACTIONS'),
+./src/components/wallet/Balance.vue:2292:        Message: t('MSG_GET_TRANSACTIONS_FAIL'),
+./src/components/wallet/Balance.vue:2491:          Title: t('MSG_GET_WITHDRAWS'),
+./src/components/wallet/Balance.vue:2532:          Message: t('MSG_GET_WITHDRAWS_FAIL'),
+./src/components/wallet/Balance.vue:3004:        Title: t('MSG_GET_GOODS'),
+./src/components/wallet/Balance.vue:3039:        Message: t('MSG_GET_GOODS_FAIL'),
+./src/components/wallet/Balance.vue:3337:        Title: t('MSG_GET_CURRENCIES'),
+./src/components/wallet/Balance.vue:3377:        Message: t('MSG_GET_CURRENCIES_FAIL'),
+./src/components/wallet/Balance.vue:3605:        Title: t('MSG_GET_COINS'),
+./src/components/wallet/Balance.vue:3640:        Message: t('MSG_GET_COINS_FAIL'),
+./src/components/wallet/WithdrawAddresses.vue:30:    label='MSG_APPROVED_ADDRESSES'
+./src/components/wallet/WithdrawAddresses.vue:266:          {{ $t('MSG_ADD_NEW_ADDRESS') }}
+./src/components/wallet/WithdrawAddresses.vue:1127:            {{ $t('MSG_REMOVE') }}
+./src/components/wallet/WithdrawAddresses.vue:2007:    label: t('MSG_BLOCKCHAIN'),
+./src/components/wallet/WithdrawAddresses.vue:2172:    label: t('MSG_ADDRESS'),
+./src/components/wallet/WithdrawAddresses.vue:2307:    label: t('MSG_LABEL'),
+./src/components/wallet/WithdrawAddresses.vue:2454:    label: t('MSG_DATE_ADDED'),
+./src/components/wallet/WithdrawAddresses.vue:2776:          Title: t('MSG_GET_COINS_FAIL'),
+./src/components/wallet/WithdrawAddresses.vue:3044:          Title: t('MSG_GET_WITHDRAW_ACCOUNTS_FAIL'),
+./src/components/wallet/WithdrawAddresses.vue:3447:        Title: t('MSG_DELETE_WITHDRAW_ACCOUNT_FAIL'),
+./src/components/wallet/Assets.vue:30:    label='MSG_ASSETS'
+./src/components/wallet/Assets.vue:1026:            {{ $t('MSG_WITHDRAW') }}
+./src/components/wallet/Assets.vue:3455:    label: t('MSG_NAME'),
+./src/components/wallet/Assets.vue:3548:    label: t('MSG_BALANCE'),
+./src/components/wallet/Assets.vue:3661:    label: t('MSG_24_HOUR_CHANGE'),
+./src/components/wallet/Assets.vue:3783:    label: t('MSG_MARKET_VALUE_USDT'),
+./src/components/wallet/Assets.vue:3897:    label: t('MSG_MARKET_VALUE_JPY'),
+./src/components/wallet/Assets.vue:4166:          Title: t('MSG_GET_ORDERS_FAIL'),
+./src/components/wallet/Assets.vue:4388:          Title: t('MSG_GET_COINS_FAIL'),
+./src/components/wallet/Assets.vue:4650:          Title: t('MSG_GET_BENEFITS_FAIL'),
+./src/components/footer/Footer.vue:155:          <h1>{{ $t('MSG_SHOOT_FOT_THE_STARS') }}</h1>
+./src/components/footer/Footer.vue:241:            {{ $t('MSG_YOUR_GLOBAL_CONSTELLATION') }}
+./src/components/footer/Footer.vue:357:          <h4>{{ $t('MSG_LANGUAGE') }}</h4>
+./src/components/footer/Footer.vue:474:          <h4>{{ $t('MSG_LINKS') }}</h4>
+./src/components/footer/Footer.vue:530:            <li><a class='footer-link' href='#'>{{ $t('MSG_HOME') }}</a></li>
+./src/components/footer/Footer.vue:608:            <li><a class='footer-link' href='#'>{{ $t('MSG_PRODUCTS') }}</a></li>
+./src/components/footer/Footer.vue:690:            <li><a class='footer-link' href='https://procyon-vip.medium.com/'>{{ $t('MSG_BLOG') }}</a></li>
+./src/components/footer/Footer.vue:860:          <h4>{{ $t('MSG_HELP') }}</h4>
+./src/components/footer/Footer.vue:915:            <li><a class='footer-link' href='#/faq'>{{ $t('MSG_FAQ') }}</a></li>
+./src/components/footer/Footer.vue:996:            <li><a class='footer-link' href='#/contact'>{{ $t('MSG_CONTACT') }}</a></li>
+./src/components/footer/Footer.vue:1085:            <li><a class='footer-link' href='#/legal'>{{ $t('MSG_LEGAL') }}</a></li>
+./src/components/footer/Footer.vue:1242:        © 2021-{{ new Date().getFullYear() }} {{ $t('MSG_ORGANIZATION') }}
+./src/components/button/TimeoutSendBtn.vue:81:    {{ disabled ? timeout.toString() + 'S' : $t('MSG_SEND_CODE') }}
+./src/components/kyc/KYC.vue:35:    <h2>{{ $t('MSG_KYC_VERIFICATION_STATUS') }}</h2>
+./src/components/kyc/KYC.vue:335:    <h2>{{ $t('MSG_IDENTIFICATION_DOCUMENTS') }}</h2>
+./src/components/kyc/KYC.vue:471:        <h4>{{ $t('MSG_DOCUMENT_TYPE') }}</h4>
+./src/components/kyc/KYC.vue:518:        <select :name='$t("MSG_DOCUMENT_TYPE")' :disabled='!updatable' v-model='selectedType'>
+./src/components/kyc/KYC.vue:1133:          <span>{{ $t('MSG_UPLOAD') }}</span>
+./src/components/kyc/KYC.vue:1283:          <h4>{{ $t('MSG_ID_FRONT') }}</h4>
+./src/components/kyc/KYC.vue:1327:          <p class='kyc-note' v-html='$t("MSG_ID_FRONT_TIP")' />
+./src/components/kyc/KYC.vue:1453:          <h4>{{ $t('MSG_PASSPORT_FRONT') }}</h4>
+./src/components/kyc/KYC.vue:1503:          <p class='kyc-note' v-html='$t("MSG_PASSPORT_FRONT_TIP")' />
+./src/components/kyc/KYC.vue:1901:          <span>{{ $t('MSG_UPLOAD') }}</span>
+./src/components/kyc/KYC.vue:2001:          <h4>{{ $t('MSG_ID_BACK') }}</h4>
+./src/components/kyc/KYC.vue:2044:          <p class='kyc-note' v-html='$t("MSG_ID_BACK_TIP")' />
+./src/components/kyc/KYC.vue:2391:          <span>{{ $t('MSG_UPLOAD') }}</span>
+./src/components/kyc/KYC.vue:2541:          <h4>{{ $t('MSG_SELFIE_ID') }}</h4>
+./src/components/kyc/KYC.vue:2586:          <p class='kyc-note' v-html='$t("MSG_SELFID_ID_TIP")' />
+./src/components/kyc/KYC.vue:2713:          <h4>{{ $t('MSG_PASSPORT_SELFID') }}</h4>
+./src/components/kyc/KYC.vue:2764:          <p class='kyc-note' v-html='$t("MSG_PASSPORT_SELFID_TIP")' />
+./src/components/kyc/KYC.vue:2920:        <h4>{{ $t('MSG_KYC_CONFIRMATION_TITLE') }}</h4>
+./src/components/kyc/KYC.vue:2976:        <p class='kyc-confirmation' v-html='$t("MSG_KYC_CONFIRMATION_CONTENT")' />
+./src/components/kyc/KYC.vue:3079:          label='MSG_SUBMIT_DOCUMENTS'
+./src/components/kyc/KYC.vue:5080:    label: 'MSG_ID_CARD',
+./src/components/kyc/KYC.vue:5159:    label: 'MSG_PASSPORT',
+./src/components/kyc/KYC.vue:5704:          Title: t('MSG_UPDATE_KYC_FAIL'),
+./src/components/kyc/KYC.vue:6201:        Title: t('MSG_CREATE_KYC_FAIL'),
+./src/components/kyc/KYC.vue:6800:        Title: t('MSG_UPDATE_KYC_IMAGE_FAIL'),
+./src/components/kyc/KYC.vue:7151:          Title: t('MSG_UPDATE_KYC_IMAGE_FAIL'),
+./src/components/kyc/KYC.vue:7634:            Title: t('MSG_UPDATE_KYC_IMAGE_FAIL'),
+./src/components/kyc/KYC.vue:8516:      return 'MSG_NOT_VERIFIED'
+./src/components/kyc/KYC.vue:8579:      return 'MSG_VERIFIED'
+./src/components/kyc/KYC.vue:8638:      return 'MSG_REJECTED'
+./src/components/kyc/KYC.vue:8693:      return 'MSG_UNDER_REVIEW'
+./src/components/kyc/KYC.vue:8754:  return 'MSG_NOT_VERIFIED'
+./src/components/kyc/KYC.vue:8994:        Title: t('MSG_GET_KYC_FAIL'),
+./src/components/kyc/KYC.vue:9449:          Title: t('MSG_GET_KYC_FRONT_IMAGE_FAIL'),
+./src/components/kyc/KYC.vue:9760:            Title: t('MSG_GET_KYC_HANDING_IMAGE_FAIL'),
+./src/components/affiliates/ReferralCode.vue:11:  <h2>{{ $t('MSG_EREFERRAL_CODE') }}</h2>
+./src/components/affiliates/ReferralCode.vue:286:        {{ $t('MSG_COPY_CODE') }}
+./src/components/affiliates/ReferralCode.vue:849:          Title: t('MSG_GET_INVITATION_CODE_FAIL'),
+./src/components/affiliates/Tree.vue:11:  <h2>{{ $t('MSG_AFFILIATE_TREE') }}</h2>
+./src/components/affiliates/Tree.vue:565:            <span class='onboard'>{{ $t('MSG_ONBOARD') }}</span>
+./src/components/affiliates/Tree.vue:2222:          Title: t('MSG_GET_REFERRALS_FAIL'),
+./src/components/affiliates/Commission.vue:11:  <h2>{{ $t('MSG_COMMISSION') }}</h2>
+./src/components/affiliates/Commission.vue:292:        {{ $t('MSG_TOTAL_COMMISSION') }} ({{ PriceCoinName }})
+./src/components/affiliates/Commission.vue:569:        {{ $t('MSG_TOTAL_COMMISSION') }} (JPY)
+./src/components/affiliates/Commission.vue:1438:          Title: t('MSG_GET_COMMISSION_FAIL'),
+./src/components/affiliates/Affiliates.vue:1110:          Title: t('MSG_GET_INVITATION_CODE_FAIL'),
+./src/components/affiliates/Table.vue:30:    label='MSG_DIRECT_AFFILIATES'
+./src/components/affiliates/Table.vue:1939:    label: t('MSG_USERNAME'),
+./src/components/affiliates/Table.vue:2055:    label: t('MSG_JOIN_DATE'),
+./src/components/affiliates/Table.vue:2173:    label: t('MSG_PURCHASED'),
+./src/components/affiliates/Table.vue:2294:    label: t('MSG_TOTAL_PAYMENT'),
+./src/components/affiliates/Table.vue:2420:    label: t('MSG_REFERRAL_VALUE'),
+./src/components/affiliates/Table.vue:2636:          Title: t('MSG_GET_REFERRALS_FAIL'),
+./src/menus/menus.ts:557:  label: 'MSG_DASHBOARD',
+./src/menus/menus.ts:677:      label: 'MSG_DASHBOARD',
+./src/menus/menus.ts:851:      label: 'MSG_WALLET',
+./src/menus/menus.ts:1016:      label: 'MSG_REFERRAL',
+./src/menus/menus.ts:1191:      label: 'MSG_SECURITY',
+./src/menus/menus.ts:1362:      label: 'MSG_ACCOUNT',
+./src/menus/menus.ts:1530:      label: 'MSG_KYC',
+./src/menus/menus.ts:1707:  label: 'MSG_LOGOUT',
