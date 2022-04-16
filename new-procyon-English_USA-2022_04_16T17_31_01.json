@@ -980,7 +980,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_LOGOUT",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "LOGOUT",
+            "Message": "Logout",
             "BatchGet": false
         },
         {
@@ -2618,11 +2618,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
-<<<<<<< HEAD
-            "Message": "Available for Withdraw",
-=======
             "Message": "Available for Withdrawal",
->>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
@@ -2643,11 +2639,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GUIDE_AND_FAQ",
-<<<<<<< HEAD
             "Message": "GUIDE &amp; FAQ",
-=======
-            "Message": "GUIDE & FAQ",
->>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
@@ -2668,11 +2660,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REMOVE",
-<<<<<<< HEAD
-            "Message": "Remove",
-=======
             "Message": "Delete",
->>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
