@@ -2618,28 +2618,28 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
-            "Message": "TO BE FILLED",
+            "Message": "Available for Withdrawal",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AMOUNT_TO_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "Amount to Withdraw",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SELECT_RECIPIENT_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "Select Recipient Address",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GUIDE_AND_FAQ",
-            "Message": "TO BE FILLED",
+            "Message": "GUIDE & FAQ",
             "BatchGet": true
         },
         {
@@ -2660,7 +2660,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REMOVE",
-            "Message": "TO BE FILLED",
+            "Message": "Delete",
             "BatchGet": true
         },
         {
@@ -2674,7 +2674,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "Withdraw",
             "BatchGet": true
         },
         {
@@ -2702,14 +2702,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REJECTED",
-            "Message": "TO BE FILLED",
+            "Message": "Rejected",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_UNDER_REVIEW",
-            "Message": "TO BE FILLED",
+            "Message": "Under Review",
             "BatchGet": true
         },
         {
@@ -2730,28 +2730,28 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_EREFERRAL_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "REFERRAL CODE",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COPY_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "Copy Code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AFFILIATE_TREE",
-            "Message": "TO BE FILLED",
+            "Message": "AFFILIATE",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ONBOARD",
-            "Message": "TO BE FILLED",
+            "Message": "ONBOARDED",
             "BatchGet": true
         },
         {
@@ -2765,56 +2765,56 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "COMMISSION BALANCE",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TOTAL_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "TOTAL",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COMMISSION_FAIL",
-            "Message": "TO BE FILLED",
+            "Message": "Cannot get commissions",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_DIRECT_AFFILIATES",
-            "Message": "TO BE FILLED",
+            "Message": "DIRECT REFERRALS",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_JOIN_DATE",
-            "Message": "TO BE FILLED",
+            "Message": "Date Joined",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_PURCHASED",
-            "Message": "TO BE FILLED",
+            "Message": "TBs Purchased",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TOTAL_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "Total Payment",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REFERRAL_VALUE",
-            "Message": "TO BE FILLED",
+            "Message": "Referral Value",
             "BatchGet": true
         }
     ]
