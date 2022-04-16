@@ -2618,7 +2618,11 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
+<<<<<<< HEAD
             "Message": "Available for Withdraw",
+=======
+            "Message": "Available for Withdrawal",
+>>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
@@ -2639,7 +2643,11 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GUIDE_AND_FAQ",
+<<<<<<< HEAD
             "Message": "GUIDE &amp; FAQ",
+=======
+            "Message": "GUIDE & FAQ",
+>>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
@@ -2660,7 +2668,11 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_REMOVE",
+<<<<<<< HEAD
             "Message": "Remove",
+=======
+            "Message": "Delete",
+>>>>>>> c748c6e6276a43f68594a430bbb4e1e377459d5a
             "BatchGet": true
         },
         {
@@ -2744,14 +2756,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_AFFILIATE_TREE",
-            "Message": "Affiliate Tree",
+            "Message": "Affiliate",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_ONBOARD",
-            "Message": "Onboard",
+            "Message": "Onboarded",
             "BatchGet": true
         },
         {
@@ -2765,14 +2777,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_COMMISSION",
-            "Message": "Commission",
+            "Message": "Commission Balance",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_TOTAL_COMMISSION",
-            "Message": "Total Commission",
+            "Message": "Total",
             "BatchGet": true
         },
         {
@@ -2786,14 +2798,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_DIRECT_AFFILIATES",
-            "Message": "Direct Affiliates",
+            "Message": "Direct Referrals",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_JOIN_DATE",
-            "Message": "Join Date",
+            "Message": "Date Joined",
             "BatchGet": true
         },
         {
