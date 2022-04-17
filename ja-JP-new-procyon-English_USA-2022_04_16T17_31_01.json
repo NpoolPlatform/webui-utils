@@ -1110,7 +1110,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_AUTHENTICATOR_TIP",
-            "Message": "上のQRコードをGoogle Authenticatorというアプリでスキャンしてください。<br /> その後、Google AuthenticatorにProcyonの項目が追加されたことを確認。確認がとれましたら、本画面の「次の段階」ボタンをクリック。Google Authenticatorに表示される検証コードを入力して、Google認証を完了してください。<br /> 上記のQRコードを読み取れない場合は、下記手順をお試しください。<<br /> ①『Authenticator』アプリを起動<br /> ②右下の 『セットアップキーを入力』を選択<br /> ③『アカウント』を\"Procyon:example{\'@\'}example.com\"と設定<br /> ④上記のGoogle Gecretをコピーして \"追加\"をクリック",
+            "Message": "TO BE FILLED",
             "BatchGet": true
         },
         {
@@ -1572,7 +1572,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_30_DAYS_AVERAGE_NET_OUTPUT",
-            "Message": "純マイニング量 (30日間の平均値)",,
+            "Message": "純マイニング量 (30日間の平均値)",
             "BatchGet": true
         },
         {
