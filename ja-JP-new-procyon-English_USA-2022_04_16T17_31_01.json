@@ -1789,7 +1789,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GET_KYC_FAIL",
-            "Message": "Failed to get kyc",
+            "Message": "kycの取得に失敗しました",
             "BatchGet": true
         },
         {
