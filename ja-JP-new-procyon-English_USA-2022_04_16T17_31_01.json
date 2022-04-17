@@ -158,7 +158,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_USER_LOGIN",
-            "Message": "User Login",
+            "Message": "ユーザーログイン",
             "BatchGet": true
         },
         {
@@ -382,7 +382,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SIGNIN",
-            "Message": "Sign in",
+            "Message": "ログイン",
             "BatchGet": true
         },
         {
@@ -473,7 +473,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REGISTER_NOW",
-            "Message": "Regster now",
+            "Message": "今すぐ登録",
             "BatchGet": true
         },
         {
@@ -711,7 +711,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NO_ACCOUNT",
-            "Message": "No account",
+            "Message": "アカウントがない場合",
             "BatchGet": true
         },
         {
@@ -1138,7 +1138,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_FORGOT_PASSWORD",
-            "Message": "Forgot password",
+            "Message": "パスワードを忘れた場合",
             "BatchGet": true
         },
         {
