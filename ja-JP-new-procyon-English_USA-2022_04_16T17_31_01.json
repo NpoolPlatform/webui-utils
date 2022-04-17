@@ -1649,91 +1649,91 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR",
-            "Message": "TO BE FILLED",
+            "Message": "Google認証の設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "アカウント保護のため、Google認証 (もしくはお好きなワンタイムパスワード) で2段階認証のセキュリティ設定を行いましょう。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_TWO_FACTOR_AUTH",
-            "Message": "TO BE FILLED",
+            "Message": "2段階認証の設定へ進む",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "後で設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_KYC",
-            "Message": "TO BE FILLED",
+            "Message": "KYCの設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_KYC_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "アカウント保護のため、個人情報を登録してKYC (本人確認) を行いましょう。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PROCEED_KYC_SETUP",
-            "Message": "TO BE FILLED",
+            "Message": "KYCの設定へ進む",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_KYC_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "後で設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ADD_MOBILE_NUMBER",
-            "Message": "TO BE FILLED",
+            "Message": "電話番号を登録",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ADD_MOBILE_NUMBER_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "アカウント保護のため、電話番号の登録を行いましょう。メールアドレスを忘れた、もしくはメールにログインができない場合、電話番号を使いProcyonアカウントを復元することができます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_MOBILE_NUMBER",
-            "Message": "TO BE FILLED",
+            "Message": "電話番号の設定へ進む",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SET_MOBILE_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "後で設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_VERIFICATION_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "Google認証コード",
             "BatchGet": true
         },
         {
@@ -1845,7 +1845,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONFIRM_PASSWORD_TIP",
-            "Message": "TO BE FILLED",
+            "Message": "8〜20文字で、数字も含めてください",
             "BatchGet": true
         },
         {
@@ -1859,14 +1859,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AGREE",
-            "Message": "TO BE FILLED",
+            "Message": "確認",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CANCEL",
-            "Message": "TO BE FILLED",
+            "Message": "取消",
             "BatchGet": true
         },
         {
@@ -1887,7 +1887,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION",
-            "Message": "TO BE FILLED",
+            "Message": "Google認証の設定",
             "BatchGet": true
         },
         {
@@ -2048,7 +2048,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REFERRAL",
-            "Message": "TO BE FILLED",
+            "Message": "Affiliates",
             "BatchGet": true
         },
         {
@@ -2069,14 +2069,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MOBILE_VERIFICATION",
-            "Message": "TO BE FILLED",
+            "Message": "SMS認証",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MOBILE_VERIFICATION_CAPTION",
-            "Message": "TO BE FILLED",
+            "Message": "に送信されたばかりのテキストメッセージ。お使いの携帯電話に送信した確認コードを入力してください。",
             "BatchGet": true
         },
         {
@@ -2132,21 +2132,21 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "ご請求額",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TIME_REMAINING",
-            "Message": "TO BE FILLED",
+            "Message": "残り時間",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PROCEED_TO_DASHBOARD",
-            "Message": "TO BE FILLED",
+            "Message": "ダッシュボードへ進む",
             "BatchGet": true
         },
         {
@@ -2216,77 +2216,77 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_ID",
-            "Message": "TO BE FILLED",
+            "Message": "注文ID",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AMOUNT_DUE",
-            "Message": "TO BE FILLED",
+            "Message": "支払い額",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TIME_REMAIN",
-            "Message": "TO BE FILLED",
+            "Message": "残り時間",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PAYMENT_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "送金先アドレス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_IMPORTANT_INFORMATION",
-            "Message": "TO BE FILLED",
+            "Message": "重要なお知らせ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SCAN_QR_CODE_TO_PAY",
-            "Message": "TO BE FILLED",
+            "Message": "QRコードを読み込み支払う",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PAYMENT_COMPLETED",
-            "Message": "TO BE FILLED",
+            "Message": "有償",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PAY_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "後で支払う",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_COMPLETE",
-            "Message": "TO BE FILLED",
+            "Message": "注文完了",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REVIEW_ORDER",
-            "Message": "TO BE FILLED",
+            "Message": "注文は、ダッシュボードの「注文履歴」からご確認いただけます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_COMPLETE",
-            "Message": "TO BE FILLED",
+            "Message": "支払い済み",
             "BatchGet": true
         },
         {
@@ -2335,70 +2335,70 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_PENDING",
-            "Message": "TO BE FILLED",
+            "Message": "注文着金待ち",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_PAYMENT_AWAITING",
-            "Message": "TO BE FILLED",
+            "Message": "お客様からの着金確認を行っております。ネットワークの状況次第で、着金まで10分かかる場合もございますので、あらかじめご了承ください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PENDING",
-            "Message": "TO BE FILLED",
+            "Message": "着金待ち",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_PAY_LATER",
-            "Message": "TO BE FILLED",
+            "Message": "後で支払う",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NOT_PAID",
-            "Message": "TO BE FILLED",
+            "Message": "未払い",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ASSET_WITHDRAWAL",
-            "Message": "TO BE FILLED",
+            "Message": "Asset Withdrawal",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
-            "Message": "TO BE FILLED",
+            "Message": "出金可能な残高",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AMOUNT_TO_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "出金額",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SELECT_RECIPIENT_ADDRESS",
-            "Message": "TO BE FILLED",
+            "Message": "送金先アドレス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GUIDE_AND_FAQ",
-            "Message": "TO BE FILLED",
+            "Message": "出金マニュアル & FAQ",
             "BatchGet": true
         },
         {
@@ -2419,7 +2419,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REMOVE",
-            "Message": "TO BE FILLED",
+            "Message": "消去",
             "BatchGet": true
         },
         {
@@ -2433,7 +2433,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WITHDRAW",
-            "Message": "TO BE FILLED",
+            "Message": "送金",
             "BatchGet": true
         },
         {
@@ -2461,14 +2461,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REJECTED",
-            "Message": "TO BE FILLED",
+            "Message": "失敗",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UNDER_REVIEW",
-            "Message": "TO BE FILLED",
+            "Message": "審査中",
             "BatchGet": true
         },
         {
@@ -2489,28 +2489,28 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EREFERRAL_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "招待コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_COPY_CODE",
-            "Message": "TO BE FILLED",
+            "Message": "コードをコピーする",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AFFILIATE_TREE",
-            "Message": "TO BE FILLED",
+            "Message": "オンボード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ONBOARD",
-            "Message": "TO BE FILLED",
+            "Message": "オンボード",
             "BatchGet": true
         },
         {
@@ -2524,14 +2524,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "Commission Balance",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TOTAL_COMMISSION",
-            "Message": "TO BE FILLED",
+            "Message": "Total",
             "BatchGet": true
         },
         {
@@ -2545,35 +2545,35 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_DIRECT_AFFILIATES",
-            "Message": "TO BE FILLED",
+            "Message": "ダイレクト・リファレンシャル",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_JOIN_DATE",
-            "Message": "TO BE FILLED",
+            "Message": "入社年月日",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PURCHASED",
-            "Message": "TO BE FILLED",
+            "Message": "購入したTB",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TOTAL_PAYMENT",
-            "Message": "TO BE FILLED",
+            "Message": "支払総額",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REFERRAL_VALUE",
-            "Message": "TO BE FILLED",
+            "Message": "紹介価値",
             "BatchGet": true
         }
     ]
