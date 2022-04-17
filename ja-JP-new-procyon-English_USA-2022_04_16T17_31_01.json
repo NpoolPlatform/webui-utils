@@ -291,14 +291,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUPPORT_AND_FAQ",
-            "Message": "Support & FAQ",
+            "Message": "サポート & FAQ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUB_SLOGAN",
-            "Message": "Your global constellation of cryptocurrencies",
+            "Message": "暗号資産のグローバルマーケットプレイス",
             "BatchGet": true
         },
         {
@@ -543,7 +543,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PRODUCTS",
-            "Message": "Products",
+            "Message": "商品",
             "BatchGet": true
         },
         {
@@ -907,7 +907,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LEGAL",
-            "Message": "Legal",
+            "Message": "規約",
             "BatchGet": true
         },
         {
@@ -935,7 +935,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LANGUAGE",
-            "Message": "Language",
+            "Message": "言語",
             "BatchGet": true
         },
         {
@@ -1061,7 +1061,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_HOME",
-            "Message": "Home",
+            "Message": "ホームページ",
             "BatchGet": true
         },
         {
@@ -1166,7 +1166,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_FAQ",
-            "Message": "FAQs",
+            "Message": "FAQ & サポート",
             "BatchGet": true
         },
         {
@@ -1390,7 +1390,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT",
-            "Message": "Contact",
+            "Message": "お問い合わせ",
             "BatchGet": true
         },
         {
@@ -1453,7 +1453,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_BLOG",
-            "Message": "Blog",
+            "Message": "ブログ",
             "BatchGet": true
         },
         {
