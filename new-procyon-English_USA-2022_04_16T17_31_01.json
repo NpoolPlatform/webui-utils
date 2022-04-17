@@ -2135,7 +2135,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION_FAIL",
-            "Message": "Failed to setup google authentication",
+            "Message": "Failed to setup google authenticator",
             "BatchGet": true
         },
         {
@@ -2240,7 +2240,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_ORDERS_FAIL",
-            "Message": "Failed get orders",
+            "Message": "Failed to get orders",
             "BatchGet": true
         },
         {
@@ -2254,7 +2254,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_BENEFITS_FAIL",
-            "Message": "Failed get benefits",
+            "Message": "Failed to get benefits",
             "BatchGet": true
         },
         {
@@ -2268,7 +2268,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_TRANSACTIONS_FAIL",
-            "Message": "Failed get transactions",
+            "Message": "Failed to get transactions",
             "BatchGet": true
         },
         {
@@ -2282,7 +2282,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_WITHDRAWS_FAIL",
-            "Message": "Failed get withdraws",
+            "Message": "Failed to get withdraws",
             "BatchGet": true
         },
         {
@@ -2303,7 +2303,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_LOGIN_HISTORIES_FAIL",
-            "Message": "Failed get login history",
+            "Message": "Failed to get login history",
             "BatchGet": true
         },
         {
@@ -2359,14 +2359,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COUNTRIES_CODE",
-            "Message": "Get countries",
+            "Message": "Get country code",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
             "MessageID": "MSG_GET_COUNTRIES_FAIL",
-            "Message": "Failed get countries",
+            "Message": "Failed to get country code",
             "BatchGet": true
         },
         {
