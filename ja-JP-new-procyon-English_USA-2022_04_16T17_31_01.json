@@ -25,7 +25,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WHY_TITLE",
-            "Message": "Why Procyon",
+            "Message": "なぜProcyonであるべきなのか？",
             "BatchGet": true
         },
         {
@@ -53,7 +53,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WHY_CONTENT",
-            "Message": " <p>As our mission, Procyon aims to provide investors with a one-stop inclusive digital currency mining solution, with a R&amp;D, testing and an O&amp;M team composed of software engineers with 10 years of work experience from top chip companies, communication companies, and Internet companies.</p>                              <p>The Procyon platform is based on the microservices system of a cloud-based trading platform and the elastic scaling capacity brought by kubernetes to ensure the transaction security and account security of the private trading network. Our perfect cloud-based operation and maintenance architecture ensures the smooth delivery of services and while mitigating the risk of the whole chain, ensuring the safety of your assets.</p>",
+            "Message": "<p>Procyonは、ICチップメーカー、通信会社、インターネット企業などで10年以上の経験を積んだオペレーションチームとソフトウェアエンジニア、リサーチチームにより、ワンストップの包括的な暗号資産マイニングソリューションを投資家に提供することを目指しています。</p><p>Procyonのプラットフォームは、クラウド型取引プラットフォームのマイクロサービスシステムとKubernetesがもたらす弾性的なスケーリング能力に基づいており、プライベート取引ネットワークの取引とアカウントのセキュリティを確保することができます。完璧なクラウドベースの運用・保守構築により、サービスをスムーズに提供し、チェーン全体のリスクを軽減しながら、お客様の資産の安全性を確保します。</p>",
             "BatchGet": true
         },
         {
@@ -74,63 +74,63 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WALLET_ADDRESS_LABELS_TIP",
-            "Message": "e.g. name, exchange, etc.",
+            "Message": "氏名、取引所名、ウォレット名 等",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WALLET_ADDRESS_LABELS",
-            "Message": "Wallet Label:",
+            "Message": "登録名:",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WALLET_ADDRESS_CAUTION_CONTENT",
-            "Message": "<ul>                         <li>Make sure you enter the correct address. <strong>Using an incorrect address will result in the loss of assets.</strong></li>                         <li>Make sure that <strong>the address matches the selected blockchain</strong>. If the address does not match, your assets will be permanently lost!</li>                         <li>After registering your address <strong>the approval process may take up to 24 hours</strong>. This is a security measure in place to safeguard your assets!</li>                     </ul>",
+            "Message": "<ul><li>登録する送金先アドレスは必ず正しく入力してください。<strong>誤った送金先アドレスを取引で使用した場合、資産を失うことになります。</strong></li><li><strong>送金先アドレスとブロックチェーンネットワークが、一致していることをご確認ください。</strong>一致しない場合、取引の際で資産を失うことになりますので、ご注意ください。</li><li>新規送金先アドレスを登録後、承認プロセスに<strong>最大24時間かかる場合があります。</strong>承認プロセスは、ユーザーの資産を保護するためのセキュリティ対策の一環です。ご理解のほどお願いします。</li></ul>",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WALLET_ADDRESS",
-            "Message": "Wallet Address:",
+            "Message": "送金先アドレス:",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_WALLET",
-            "Message": "Wallet",
+            "Message": "ウォレット",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFY_ID",
-            "Message": "Verify ID",
+            "Message": "身分証明書を設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFY",
-            "Message": "verify",
+            "Message": "設定済み",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFIED",
-            "Message": "Verified",
+            "Message": "成功",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFICATION_CODE_TIP",
-            "Message": "Please enter a verification code",
+            "Message": "認証コードが違います",
             "BatchGet": true
         },
         {
@@ -144,14 +144,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFICATION_CODE_PLACEHOLDER",
-            "Message": "ver-code",
+            "Message": "検証コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_USER_REGISTRATION",
-            "Message": "User Registration",
+            "Message": "アカウント登録",
             "BatchGet": true
         },
         {
@@ -165,7 +165,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_USERNAME_TIP",
-            "Message": "User name needs to be between 4 and 32 characters and cannot be a pure number, cannot contain spaces",
+            "Message": "ユーザー名は4～32文字で、純粋な数字やスペースを含むことはできません",
             "BatchGet": true
         },
         {
@@ -179,84 +179,84 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_USERNAME",
-            "Message": "Username",
+            "Message": "ユーザー名",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPLOAD",
-            "Message": "Upload",
+            "Message": "アップロード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_PHONE_NUMBER",
-            "Message": "Update Phone Number",
+            "Message": "電話番号の更新",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_PASSWORD",
-            "Message": "CHANGE PASSWORD",
+            "Message": "パスワードを変更",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_MOBILE",
-            "Message": "Update Phone Number",
+            "Message": "電話番号の更新",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_EMAIL_TIP",
-            "Message": "Make sure your e-mail address is up to date.",
+            "Message": "メールアドレスが設定されていることを確認ください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_EMAIL_ADDRESS",
-            "Message": "Update E-mail Address",
+            "Message": "メールアドレスの変更",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_UPDATE_EMAIL",
-            "Message": "Update Email Address",
+            "Message": "メールアドレスの変更",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TYPE",
-            "Message": "Type",
+            "Message": "タイプ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TRANSACTIONS",
-            "Message": "TRANSACTIONS",
+            "Message": "取引履歴",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TOTAL_EARNINGS",
-            "Message": "Total Earnings",
+            "Message": "マイニング報酬合計",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_TOTAL",
-            "Message": "Cost",
+            "Message": "合計",
             "BatchGet": true
         },
         {
@@ -270,21 +270,21 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SWITCH_REGISTER_WITH_MOBILE",
-            "Message": "Use Phone Number",
+            "Message": "電話番号の使用",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SWITCH_REGISTER_WITH_EMAIL",
-            "Message": "Use Email Address",
+            "Message": "メールアドレスの使用",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUPPORT_SIGNATURE",
-            "Message": "\u2014Procyon Support Team",
+            "Message": "Procyon カスタマーサポートチーム",
             "BatchGet": true
         },
         {
@@ -305,28 +305,28 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUBMIT_DOCUMENTS",
-            "Message": "Submit Documents",
+            "Message": "申請",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUBMIT_CHANGE",
-            "Message": "Submit Change",
+            "Message": "設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUBMIT",
-            "Message": "Submit",
+            "Message": "申し出る",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SUBJECT",
-            "Message": "Subject",
+            "Message": "主題",
             "BatchGet": true
         },
         {
@@ -340,14 +340,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_STREET2",
-            "Message": "Street Address 2",
+            "Message": "建物名・部屋番号",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_STREET1",
-            "Message": "Street Address 1",
+            "Message": "都道府県",
             "BatchGet": true
         },
         {
@@ -361,14 +361,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_STATUS",
-            "Message": "Status",
+            "Message": "ステータス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_STATE",
-            "Message": "Status",
+            "Message": "状態",
             "BatchGet": true
         },
         {
@@ -389,14 +389,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SHOW_MORE",
-            "Message": "Show More",
+            "Message": "もっと見る",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SHOW_LESS",
-            "Message": "Show Less",
+            "Message": "少なくなる",
             "BatchGet": true
         },
         {
@@ -417,56 +417,56 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SEND_MESSAGE",
-            "Message": "Send Message",
+            "Message": "メッセージを送る",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SEND_CODE",
-            "Message": "Send Code",
+            "Message": "送信コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SELFIE_ID",
-            "Message": "Selfie + ID",
+            "Message": "身分証明書との自撮り画像",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SELFID_ID_TIP",
-            "Message": "Take a selfie while holding your ID next to your face.",
+            "Message": "身分証明書とご自身の顔がはっきりと見えるように自撮りをしてください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SECURITY_SETTINGS",
-            "Message": "Security Settings",
+            "Message": "セキュリティ設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SECURITY",
-            "Message": "SECURITY",
+            "Message": "セキュリティ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_SAVE_CHANGES",
-            "Message": "Save Changes",
+            "Message": "保存",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_RESET_PASSWORD",
-            "Message": "Reset Password",
+            "Message": "パスワードをリセット",
             "BatchGet": true
         },
         {
@@ -480,7 +480,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_REGISTER_ADDRESS",
-            "Message": "Register Address",
+            "Message": "新規登録アドレス",
             "BatchGet": true
         },
         {
@@ -494,14 +494,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_READ_AND_AGREE",
-            "Message": "I have read and agree to the <a href=\"{POLICY_PATH}\">Privacy Policy</a> and <a href=\"{USER_AGREEMENT}\">User Agreements</a>",
+            "Message": "<a href=\"{POLICY_PATH}\">プライバシー・ポリシー</a> そして <a href=\"{USER_AGREEMENT}\">ユーザー同意書</a>を読み、同意しました。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PURCHASE_CAPACITY",
-            "Message": "Purchase Capacity",
+            "Message": "ストレージ容量を追加購入",
             "BatchGet": true
         },
         {
@@ -529,14 +529,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PROVINCE",
-            "Message": "Province / Prefecture",
+            "Message": "丁目・番地・号",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PRODUCT_DETAILS",
-            "Message": "Product Details",
+            "Message": "製品詳細",
             "BatchGet": true
         },
         {
@@ -550,14 +550,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PRODUCT",
-            "Message": "Product",
+            "Message": "製品",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PRICE",
-            "Message": "Price",
+            "Message": "価格",
             "BatchGet": true
         },
         {
@@ -578,56 +578,56 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_POSTAL_CODE",
-            "Message": "Postal Code",
+            "Message": "郵便番号",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PHONE_TIP",
-            "Message": "Please enter your correct phone number",
+            "Message": "正しい電話番号を入力してください",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PHONE_NO_PLACEHOLDER",
-            "Message": "Phone Number",
+            "Message": "電話番号",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PHONE_NO",
-            "Message": "Phone Number",
+            "Message": "電話番号",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PERSON_DETAILS_FOR_KYC",
-            "Message": "Personal Details ( for KYC process )",
+            "Message": "個人情報（本人確認用）",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PERIOD",
-            "Message": "Mining Period",
+            "Message": "マイニング期間",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PAYMENT_METHOD",
-            "Message": "Payment Method",
+            "Message": "支払い方法",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSWORD_TIP",
-            "Message": "Please enter a password 8-20 alphanumeric characters",
+            "Message": "8〜20文字で、数字も含めてください",
             "BatchGet": true
         },
         {
@@ -648,42 +648,42 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSPORT_SELFID_TIP",
-            "Message": "Take a selfie with your <strong>passport open to the photo page</strong> while holding it next to your face.",
+            "Message": "パスポートの<strong>個人情報ページとご自身の顔</strong>がはっきりと見えるように自撮りをしてください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSPORT_SELFID",
-            "Message": "Selfie + Photo Page",
+            "Message": "パスポートの個人情報ページと自撮り",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSPORT_FRONT_TIP",
-            "Message": "Take a photo of your passport photo page with all info clearly visible.",
+            "Message": "パスポートの個人情報ページに記載されている情報がはっきりと見えるように撮影をしてください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSPORT_FRONT",
-            "Message": "Passport Photo Page",
+            "Message": "パスポートの個人情報ページ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSPORT",
-            "Message": "Passport",
+            "Message": "パスポート",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_OTHER",
-            "Message": "Other",
+            "Message": "その他",
             "BatchGet": true
         },
         {
@@ -697,7 +697,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ORDER_HISTORY",
-            "Message": "ORDER HISTORY",
+            "Message": "注文履歴",
             "BatchGet": true
         },
         {
@@ -718,98 +718,98 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NOT_VERIFIED",
-            "Message": "Not Verified",
+            "Message": "未登録",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NEW_WALLET_REGISTRATION",
-            "Message": "New Wallet Registration",
+            "Message": "新規】送金アドレスを登録",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NEW_PASSWORD",
-            "Message": "New Password",
+            "Message": "新しいパスワードの",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NETWORK_DAILY_OUTPUT",
-            "Message": "Network Daily Ouput",
+            "Message": "ネットワークのマイニング量 (30日間の平均値)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_NAME",
-            "Message": "Name",
+            "Message": "マイニング製品",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MOBILE_VERIFICATION_CODE",
-            "Message": "Verification Code",
+            "Message": "認証コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MOBILE_AUTHENTICATION_TIP",
-            "Message": "Enable mobile authentication to confirm logins, transfers, and changes to security settings.",
+            "Message": "携帯電話の認証で、ログイン、入出金、その他セキュリティ設定の変更を行うことができます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MOBILE_AUTHENTICATION",
-            "Message": "Mobile Authentication",
+            "Message": "携帯電話の認証",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MINING_PURCHASE",
-            "Message": "Mining Purchase",
+            "Message": "製品を購入",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MINING_DASHBOARD",
-            "Message": "Mining Dashboard",
+            "Message": "マイニングダッシュボード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MINING",
-            "Message": "Mining",
+            "Message": "マイニング",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MESSAGE",
-            "Message": "Message",
+            "Message": "メッセージ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MARKET_VALUE_USDT",
-            "Message": "Market Value (USDT)",
+            "Message": "市場価格 (USDT)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MARKET_VALUE_JPY",
-            "Message": "Market Value (JPY)",
+            "Message": "市場価格 (JPY)",
             "BatchGet": true
         },
         {
@@ -830,7 +830,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_MALE",
-            "Message": "Male",
+            "Message": "男性",
             "BatchGet": true
         },
         {
@@ -844,35 +844,35 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LOGOUT",
-            "Message": "LOGOUT",
+            "Message": "ログアウト",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LOGIN_HISTORY",
-            "Message": "RECENT LOGIN HISTORY",
+            "Message": "ログイン履歴",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LOGIN_AUTHENTICATION_TIP",
-            "Message": "Select an additional verification method when logging in. Two-factor authentication must be enabled prior to selecting as a login verification method.",
+            "Message": "ログイン時のセキュリティを強化するため、認証方法を有効にすることができます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LOGIN_AUTHENTICATION",
-            "Message": "Login Verification",
+            "Message": "ログイン確認",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LOCATION",
-            "Message": "Location",
+            "Message": "所在地",
             "BatchGet": true
         },
         {
@@ -921,14 +921,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LAST_NAME",
-            "Message": "Last Name",
+            "Message": "姓名",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LAST_24_HOURS",
-            "Message": "Last 24 hours",
+            "Message": "24時間以内に発生した報酬",
             "BatchGet": true
         },
         {
@@ -942,28 +942,28 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_LABEL",
-            "Message": "Label",
+            "Message": "登録名",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_KYC_VERIFICATION_STATUS",
-            "Message": "KYC Verification Status",
+            "Message": "身分証明の認証ステータス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_KYC_CONFIRMATION_TITLE",
-            "Message": "Confirm before you submit",
+            "Message": "申請内容を確認",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_KYC_CONFIRMATION_CONTENT",
-            "Message": "<ul>                         <li>We do not accept scanned documents, <strong>only photos.</strong></li>                         <li>Please be sure to take a photo with your smartphone in good lighting.</li>                         <li>We only accept <strong>JPG/PNG files under 5MB</strong>.</li>                     </ul>",
+            "Message": "<ul><li>We do not accept scanned documents, <strong>only photos.</strong></li><li>Please be sure to take a photo with your smartphone in good lighting.</li><li>We only accept <strong>JPG/PNG files under 5MB</strong>.</li></ul>",
             "BatchGet": true
         },
         {
@@ -977,84 +977,84 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_IP_ADDRESS",
-            "Message": "IP Address",
+            "Message": "IPアドレス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_INVITATION_CODE_PLACEHOLDER",
-            "Message": "inv-code",
+            "Message": "検証コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_INVITATION_CODE",
-            "Message": "Invitation Code",
+            "Message": "招待コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_VERIFICATION_TIP",
-            "Message": "Upload a photo ID to verify your identity.",
+            "Message": "身分を証明する画像付きの証明書をアップロードしてください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_VERIFICATION",
-            "Message": "ID Verification",
+            "Message": "身分証明の設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_FRONT_TIP",
-            "Message": "Take a photo of the <strong>front side</strong> of your ID (e.g. Passport or Residence Card).",
+            "Message": "身分証明書の<strong>表面</strong>の画像を添付 (マイナンバーカード、パスポート、運転免許証 等)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_FRONT",
-            "Message": "ID Front",
+            "Message": "身分証明書の表面",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_CARD",
-            "Message": "ID Card",
+            "Message": "マイナンバーカード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_BACK_TIP",
-            "Message": "Take a photo of the <strong>back side</strong> of your ID (e.g. Passport or Residence Card).",
+            "Message": "身分証明書の<strong>裏面</strong>の画像を添付 (マイナンバーカード、パスポート、運転免許証 等)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ID_BACK",
-            "Message": "ID Back",
+            "Message": "身分証明書の裏面",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_IDENTIFICATION_DOCUMENTS",
-            "Message": "Identification Documents",
+            "Message": "身分証明書",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_HOMEPAGE_WITH_RIGHT_ARROW",
-            "Message": "{COIN_NAME} Homepage >>",
+            "Message": "{COIN_NAME} ホームページ >>",
             "BatchGet": true
         },
         {
@@ -1075,21 +1075,21 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOTO_SIGNIN",
-            "Message": "Already have an account? <a href=\"{SIGNIN_PATH}\">Click here to sign in.</ a>",
+            "Message": "既にアカウントをお持ちの方は、 <a href=\"{SIGNIN_PATH}\">ここをクリックしログインしてください。</ a>",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_VERIFICATION_CAPTION",
-            "Message": "You have choose to verify by google authenticate. Please enter your verification code in your google authenticator.",
+            "Message": "お客様は、Google認証によるログイン認証を選択しています。Google認証アプリに表示されている認証コードを記入ください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_VERIFICATION",
-            "Message": "Google Verification Code",
+            "Message": "Google認証コード",
             "BatchGet": true
         },
         {
@@ -1103,14 +1103,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_LOGIN_AUTHENTICATION",
-            "Message": "Google Login Authentication",
+            "Message": "Googleログイン認証",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_AUTHENTICATOR_TIP",
-            "Message": "Please can the QR code above through the Google Authenticator app on your smartphone.<br /> After scanning and connecting the app to your Procyon account, click the \"next step\" button below on this page to enter the verification code shown in your Google Authenticator app to finish verifying your Google Authenticator app.<br /> If you are unable to scan the QR code above on your Google Authenticator app, please follow the steps below:<br /> 1. Open your Google Authenticator app on your smartphone<br /> 2. Choose \"Enter a setup key\" at the bottom right of the screen<br /> 3. Set the \"Account Name\" as, for example, [Procyon: example@gmail.com]<br /> 4. Copy the Google Secret above and click \"Add.\"",
+            "Message": "上のQRコードをGoogle Authenticatorというアプリでスキャンしてください。<br /> その後、Google AuthenticatorにProcyonの項目が追加されたことを確認。確認がとれましたら、本画面の「次の段階」ボタンをクリック。Google Authenticatorに表示される検証コードを入力して、Google認証を完了してください。<br /> 上記のQRコードを読み取れない場合は、下記手順をお試しください。<<br /> ①『Authenticator』アプリを起動<br /> ②右下の 『セットアップキーを入力』を選択<br /> ③『アカウント』を\"Procyon:example{\'@\'}example.com\"と設定<br /> ④上記のGoogle Gecretをコピーして \"追加\"をクリック",
             "BatchGet": true
         },
         {
@@ -1124,14 +1124,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GOOGLE_AUTHENTICATE_TIP",
-            "Message": "Two-factor Authentication (2FA) secures your account by adding a second security check when logging in and making transfers.",
+            "Message": "2段階認証を設定する事で、アカウントから入出金する際のセキュリティを強化する事ができます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_GENDER",
-            "Message": "Gender",
+            "Message": "性別",
             "BatchGet": true
         },
         {
@@ -1152,7 +1152,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_FIRST_NAME",
-            "Message": "First Name",
+            "Message": "名前",
             "BatchGet": true
         },
         {
@@ -1173,56 +1173,56 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_FAMALE",
-            "Message": "Female",
+            "Message": "女性",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EXPORT_ORDER_CSV",
-            "Message": "Export Daily Output (CSV)",
+            "Message": "マイニング量のデータを書き出す (CSVデータ)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EXPORT_DAILY_OUTPUT_CSV",
-            "Message": "Export Daily Output (CSV)",
+            "Message": "マイニング量のデータを書き出す (CSVデータ)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ENABLE_2FA_AUTH",
-            "Message": "Enable Two-Factor Auth",
+            "Message": "2段階認証を設定",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_VERIFICATION_CODE",
-            "Message": "E-mail Verification Code",
+            "Message": "電子メール認証コード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_VERIFICATION_CAPTION",
-            "Message": "Please enter the verification code we set to your email,",
+            "Message": "'へ送信されました。認証コードのご確認をお願い申し上げます。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_VERIFICATION",
-            "Message": "Email Verification",
+            "Message": "メール認証",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_TIP",
-            "Message": "Please fill email address",
+            "Message": "メールアドレスをご記入ください。",
             "BatchGet": true
         },
         {
@@ -1236,7 +1236,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_LOGIN_AUTHENTICATION",
-            "Message": "E-mail Login Verification",
+            "Message": "電子メールによるログイン認証",
             "BatchGet": true
         },
         {
@@ -1250,7 +1250,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EARNINGS",
-            "Message": "Earnings",
+            "Message": "マイニング報酬合計",
             "BatchGet": true
         },
         {
@@ -1271,7 +1271,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_DOCUMENT_TYPE",
-            "Message": "Document Type",
+            "Message": "身分証明書一覧",
             "BatchGet": true
         },
         {
@@ -1292,14 +1292,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_DATE_ADDED",
-            "Message": "Date Added",
+            "Message": "登録日",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_DATE",
-            "Message": "Date",
+            "Message": "日付",
             "BatchGet": true
         },
         {
@@ -1320,7 +1320,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CURRENT_BALANCE",
-            "Message": "Current Balance",
+            "Message": "残高",
             "BatchGet": true
         },
         {
@@ -1334,56 +1334,56 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_COUNTRY",
-            "Message": "Country",
+            "Message": "国名",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTINUE",
-            "Message": "NEXT STEP",
+            "Message": "次の段階",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_VIA_LINE_2",
-            "Message": "Feel free to contact us with questions about our platform, support issues, or just to say hi. We look forward to hearing from you!",
+            "Message": "プラットフォームに関するご質問など、お気軽にお問い合わせください。ご連絡をお待ちしております。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_VIA_LINE_1",
-            "Message": "To scan the QR code below, open <strong>LINE</strong> on your phone and tap the <strong>'Add Friends'</strong> icon. Then select <strong>'QR code'</strong> at the top.",
+            "Message": "スマートフォンのカメラを開きQRコードを読み込み<strong>Procyonサポート</strong>をLINEで<strong>「友だち追加」</strong>してください。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_VIA_LINE",
-            "Message": "Contact Procyon via LINE",
+            "Message": "LINEでのお問い合わせ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_VIA_EMAIL",
-            "Message": "Contact Procyon via Email",
+            "Message": "メールでのお問い合わせ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_SUPPORT",
-            "Message": "CONTACT PROCYON SUPPOR",
+            "Message": "カスタマーサポートへのお問い合わせ",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONTACT_SIGNATURE",
-            "Message": "\u2014Procyon Support Team",
+            "Message": "Procyon カスタマーサポートチーム",
             "BatchGet": true
         },
         {
@@ -1397,14 +1397,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CONFIRM_PASSWORD",
-            "Message": "Confirm Password",
+            "Message": "パスワードを再入力",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CLOSE",
-            "Message": "CLOSE",
+            "Message": "閉じる",
             "BatchGet": true
         },
         {
@@ -1418,35 +1418,35 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CITY",
-            "Message": "City",
+            "Message": "市区町村",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CHANGE_PASSWORD_TIP",
-            "Message": "Your password must be at least 8 characters in length and must include numbers and letters.",
+            "Message": "パスワードは、最低8文字で数字も含める必要があります。",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CHANGE_PASSWORD",
-            "Message": "Change Password",
+            "Message": "パスワードの変更",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CAUTION",
-            "Message": "Caution",
+            "Message": "注意事項",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_CAPACITY",
-            "Message": "Capacity",
+            "Message": "ストレージ容量",
             "BatchGet": true
         },
         {
@@ -1460,7 +1460,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_BLOCKCHAIN",
-            "Message": "Blockchain:",
+            "Message": "ブロックチェーンネットワーク",
             "BatchGet": true
         },
         {
@@ -1481,7 +1481,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_BALANCE",
-            "Message": "Balance",
+            "Message": "残高",
             "BatchGet": true
         },
         {
@@ -1495,7 +1495,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_APPROVED_ADDRESSES",
-            "Message": "APPROVED ADDRESSES",
+            "Message": "認証済み送金先アドレス",
             "BatchGet": true
         },
         {
@@ -1516,14 +1516,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_AMOUNT",
-            "Message": "Amount",
+            "Message": "取引金額",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ADD_NEW_ADDRESS",
-            "Message": "Add New Address",
+            "Message": "送金先アドレスを追加",
             "BatchGet": true
         },
         {
@@ -1551,35 +1551,35 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ADDRESS",
-            "Message": "Address",
+            "Message": "送金先アドレス",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_ACCOUNT",
-            "Message": "Account",
+            "Message": "アカウント",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_30_DAYS_AVERAGE_OUTPUT",
-            "Message": "Daily Output (30 day avg.)",
+            "Message": "総マイニング量 (30日間の平均値)",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_30_DAYS_AVERAGE_NET_OUTPUT",
-            "Message": "Net daily output (30 day avg.)",
+            "Message": "純マイニング量 (30日間の平均値)",,
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_24_HOUR_CHANGE",
-            "Message": "24 Hour Change",
+            "Message": "前日比",
             "BatchGet": true
         },
         {
@@ -2488,7 +2488,7 @@
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
-            "MessageID": "MSG_EREFERRAL_CODE",
+            "MessageID": "MSG_REFERRAL_CODE",
             "Message": "招待コード",
             "BatchGet": true
         },

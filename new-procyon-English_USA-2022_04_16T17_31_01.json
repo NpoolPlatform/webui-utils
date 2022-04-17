@@ -756,7 +756,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_PASSPORT_SELFID_TIP",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "Take a selfie with your <strong>passport open to the photo page</strong> while holding it next to your face.",
+            "Message": "Take a selfid with your <strong>passport open to the photo page</strong> while holding it next to your face.",
             "BatchGet": false
         },
         {
@@ -764,7 +764,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_PASSPORT_SELFID",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "Selfie + Photo Page",
+            "Message": "Selfid + Photo Page",
             "BatchGet": false
         },
         {
@@ -1588,7 +1588,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "MessageID": "MSG_CONTACT_SUPPORT",
             "LangID": "8b86f559-4784-4079-8da2-238423436f10",
-            "Message": "CONTACT PROCYON SUPPOR",
+            "Message": "CONTACT PROCYON SUPPORT",
             "BatchGet": false
         },
         {
