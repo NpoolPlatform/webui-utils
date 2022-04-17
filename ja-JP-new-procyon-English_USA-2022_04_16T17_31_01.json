@@ -634,14 +634,14 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSWORD_PLACEHOLDER",
-            "Message": "password",
+            "Message": "パスワード",
             "BatchGet": true
         },
         {
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PASSWORD",
-            "Message": "Password",
+            "Message": "パスワード",
             "BatchGet": true
         },
         {
@@ -1229,7 +1229,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_PLACEHOLDER",
-            "Message": "email",
+            "Message": "メールアドレス",
             "BatchGet": true
         },
         {
@@ -1243,7 +1243,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_EMAIL_ADDRESS",
-            "Message": "E-mail Address",
+            "Message": "メールアドレス",
             "BatchGet": true
         },
         {
