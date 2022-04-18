@@ -18,7 +18,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_YESTERDAY_EARNING",
-            "Message": "Yesterday's Earnings",
+            "Message": "昨日のマイニング報酬",
             "BatchGet": true
         },
         {
@@ -137,7 +137,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_VERIFICATION_CODE_SENT_TO",
-            "Message": "An E-mail just sent to {ACCOUNT}.",
+            "Message": "認証コードが {ACCOUNT} に送信されました。",
             "BatchGet": true
         },
         {
@@ -508,7 +508,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_PURCHASE_AMOUNT",
-            "Message": "Purchase Amount",
+            "Message": "購入TiB数",
             "BatchGet": true
         },
         {
@@ -1306,7 +1306,7 @@
             "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
             "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
             "MessageID": "MSG_DASHBOARD",
-            "Message": "Mining",
+            "Message": "ダッシュボード",
             "BatchGet": true
         },
         {
