@@ -1662,7 +1662,7 @@
 		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
 		"MessageID": "MSG_GOOGLE_AUTHENTICATOR_TIP",
 		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
-		"Message": "Please scan the QR code above through the Google Authenticator app on your smartphone.<br /> After scanning and connecting the app to your Procyon account, click the \"next step\" button below on this page to enter the verification code shown in your Google Authenticator app to finish verifying your Google Authenticator app.<br /> If you are unable to scan the QR code above on your Google Authenticator app, please follow the steps below:<br /> 1. Open your Google Authenticator app on your smartphone<br /> 2. Choose \"Enter a setup key\" at the bottom right of the screen<br /> 3. Set the \"Account Name\" as, for example, [Procyon: example\\@\\gmail.com]<br /> 4. Copy the Google Secret above and click \"Add.\"",
+		"Message": "Please scan the QR code above through the Google Authenticator app on your smartphone.<br /> After scanning and connecting the app to your Procyon account, click the \"next step\" button below on this page to enter the verification code shown in your Google Authenticator app to finish verifying your Google Authenticator app.<br /> If you are unable to scan the QR code above on your Google Authenticator app, please follow the steps below:<br /> 1. Open your Google Authenticator app on your smartphone<br /> 2. Choose \"Enter a setup key\" at the bottom right of the screen<br /> 3. Set the \"Account Name\" as, for example, [Procyon: example{'@'}gmail.com]<br /> 4. Copy the Google Secret above and click \"Add.\"",
 		"BatchGet": false
 	}, {
 		"ID": "6a60aa85-1467-4e87-89aa-fae5836d291b",
