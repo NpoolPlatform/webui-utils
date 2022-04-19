@@ -2637,5 +2637,26 @@
 		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
 		"Message": "24 Hour Change",
 		"BatchGet": false
+	}, {
+		"ID": "8479a21b-48e5-4534-a403-4d3ccda69e53",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_NAME",
+		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
+		"Message": "Name",
+		"BatchGet": false
+	}, {
+		"ID": "8479a21b-48e5-4534-a403-4d3ccda69e53",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IN_CARD",
+		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
+		"Message": "ID Card",
+		"BatchGet": false
+	}, {
+		"ID": "8479a21b-48e5-4534-a403-4d3ccda69e53",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ACCOUNT_TITLE",
+		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
+		"Message": "Account",
+		"BatchGet": false
 	}]
 }
