@@ -2581,6 +2581,41 @@
 		"LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
 		"Message": "純マイニング量 (30日間の平均値)",
 		"BatchGet": true
+        }, {
+                "ID": "41f16b55-b055-42ff-96ff-fd245ee7a018",
+                "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+                "MessageID": "MSG_CANCELED_BY_TIMEOUT",
+                "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+                "Message": "タイムアウトでキャンセル",
+                "BatchGet": false
+        }, {    
+                "ID": "41f16b55-b055-42ff-96ff-fd245ee7a018",
+                "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+                "MessageID": "MSG_INVALID_PAYMENT",
+                "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+                "Message": "タイムアウトでキャンセル",
+                "BatchGet": false
+        }, {
+                "ID": "41f16b55-b055-42ff-96ff-fd245ee7a018",
+                "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+                "MessageID": "MSG_IN_SERVICE",
+                "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+                "Message": "マイニング中",
+                "BatchGet": false
+        }, {
+                "ID": "41f16b55-b055-42ff-96ff-fd245ee7a018",
+                "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+                "MessageID": "MSG_ACCOUNT_BALANCE",
+                "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+                "Message": "残高照会",
+                "BatchGet": false
+        }, {
+                "ID": "41f16b55-b055-42ff-96ff-fd245ee7a018",
+                "AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+                "MessageID": "MSG_WITHDRAW_GUIDE_AND_FAQ_CONTENT",
+                "LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+                "Message": "<h4>資産を出金するにはどうしたらよいですか？</h4><ul><li>「{UNIT}出金額」に出金希望額を入力し、「送金先アドレス」を選択してください。</li><li>新規の送金先アドレスを追加する場合、<a href=''>ダッシュボード</a>から操作をしてください。</li><li><strong>無効および誤った送金先アドレスを入力した場合、相手に着金されず送金額は失われます。予め送金先アドレスに不備がないことをご確認ください。</strong></li></ul><h4>取引完了および着金には、どれくらい時間がかかりますか？</h4><ul><li>少額 (ネットワーク判断) の場合、取引は自動的に承認され、数分で着金確認ができます。ただし、ネットワークの混雑状況やガス料金（取引手数料）により、着金さるまでに<strong>24時間かかる場合もございます。</strong></li><li><strong>高額 (ネットワーク判断 )の場合は、手動での処理が必要</strong>, となり、その時点の取引量に応じて最大24時間以上かかることもあります。予め送金時間も考慮してご対応いただくことをお願いします。</li></ul><h4>{COIN_NAME}を取り扱う取引所はどこですか？</h4><ul><li>{COIN_NAME}は、CoinbaseやBinanceに上場されると予想されています。</li><li>{COIN_NAME}の取引には、<strong>{COIN_NAME}の送金先アドレス</strong>をご利用ください。</li><li>無効および誤った送金先アドレスを入力した場合、<strong>送金額({UNIT})は失われます。</strong>予め送金先アドレスに不備がないことをご確認ください。</li></ul>",
+                "BatchGet": false
 	}, {
 		"ID": "75973302-6ce6-4550-a432-c1435bae9067",
 		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
