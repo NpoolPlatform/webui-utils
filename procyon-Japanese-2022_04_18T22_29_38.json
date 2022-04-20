@@ -2644,5 +2644,12 @@
 		"LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
 		"Message": "アカウント情報",
 		"BatchGet": true
+	}, {
+		"ID": "75973302-6ce6-4550-a432-c1435bae9067",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_NOTE",
+		"LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
+		"Message": "<ul><li>必ず正しいブロックチェーンを使用してください。上記は<strong>{COIN_NAME}</strong>のアドレスです。<strong>{COIN_NAME}</strong>ではなく、間違ったブロックチェーンで送金した場合、資産は失われ、<strong>取り戻せないのでご注意ください</strong>。</li><li>正確な金額のUSDTを一括で送る必要があります。</li><li>支払漏れは、注文にカウントされず、お客様のウォレット残高に反映されます。</li><li>取引完了まで最大10分かかることがあります。</li></ul>",
+		"BatchGet": true
 	}]
 }

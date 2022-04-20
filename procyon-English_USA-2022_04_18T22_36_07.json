@@ -2658,5 +2658,12 @@
 		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
 		"Message": "Account",
 		"BatchGet": false
+	}, {
+		"ID": "8479a21b-48e5-4534-a403-4d3ccda69e53",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_NOTE",
+		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
+		"Message": "<ul><li>Make sure to use the correct blockchain. The above address is an <strong>{COIN_NAME}</strong> address. If you do not use <strong>{COIN_NAME}</strong>, your payment will be lost and <strong>CANNOT BE RECOVERED</strong>.</li><li>You must send the exact, correct amount of <strong>{COIN_NAME}</strong> in a <strong>SINGLE PAYMENT</strong></li><li>Overpayment or underpayment will not count towards your order. Instead the amount will be added to your wallet balance.</li><li>The transaction can take up to 10 minutes to validate.</li></ul>",
+		"BatchGet": false
 	}]
 }
