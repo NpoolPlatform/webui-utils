@@ -19,6 +19,10 @@ def main(argv):
             for msg in msgs:
                 if msg.startswith('MSG_'):
                     msg_state[msg] = 1
+            msgs = line.split("\"")
+            for msg in msgs:
+                if msg.startswith('MSG_'):
+                    msg_state[msg] = 1
 
     with open(argv[1]) as msg_dst_file:
         old_msgs = json.load(msg_dst_file)
