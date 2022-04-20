@@ -16,6 +16,10 @@ def main(argv):
             for msg in msgs:
                 if msg.startswith('MSG_'):
                     msg_state[msg] = 1
+            msgs = line.split("\"")
+            for msg in msgs:
+                if msg.startswith('MSG_'):
+                    msg_state[msg] = 1
 
     with open('new-' + os.path.basename(argv[0]), 'w') as new_msg_file:
         new_msg_file.write(json.dumps(msg_state, indent=4))
