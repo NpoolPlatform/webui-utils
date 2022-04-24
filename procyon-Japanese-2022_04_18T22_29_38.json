@@ -1186,7 +1186,7 @@
 		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
 		"MessageID": "MSG_OFFICIAL_SPECS",
 		"LangID": "674dbbe6-bb45-467b-86dd-5cc4e1895808",
-		"Message": "公式スペック",
+		"Message": "公式 {COIN_NAME} スペック",
 		"BatchGet": true
 	}, {
 		"ID": "d8d11c00-6ee3-4500-b26a-61afb22e3d31",

@@ -1186,7 +1186,7 @@
 		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
 		"MessageID": "MSG_OFFICIAL_SPECS",
 		"LangID": "8b86f559-4784-4079-8da2-238423436f10",
-		"Message": "Official Specs",
+		"Message": "Official {COIN_NAME} Specs",
 		"BatchGet": true
 	}, {
 		"ID": "aa338407-ea82-413f-a032-402dd7694b14",
