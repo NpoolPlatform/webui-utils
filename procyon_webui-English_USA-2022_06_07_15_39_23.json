@@ -1,0 +1,3187 @@
+{
+	"Languages": [{
+		"ID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Lang": "en-US",
+		"Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/450px-Flag_of_the_United_States.svg.png",
+		"Name": "English USA",
+		"Short": "EN"
+	}, {
+		"ID": "70d471bb-828c-4f9c-ab66-cd5217a6dc0d",
+		"Lang": "ja-JP",
+		"Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/383px-Flag_of_Japan.svg.png",
+		"Name": "Japanese",
+		"Short": "JP"
+	}],
+	"Language": {
+		"ID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Lang": "en-US",
+		"Logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/450px-Flag_of_the_United_States.svg.png",
+		"Name": "English USA",
+		"Short": "EN"
+	},
+	"Messages": [{
+		"ID": "6c4e2c24-1953-45f9-8f1e-9cbe25ae2f6f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ZK_PROOF_PRIVACY_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Zero-knowledge proofs are cryptographic techniques that allow one party (a prover) to prove to another (a verifier) that a statement about some private information is true without revealing one’s identity or the information itself. This has huge advantages:</p>  <ul>      <li>Transactions hide all information about the offline computations.</li>      <li>Transactions can be validated in constant time by anyone, regardless of the offline computation.</li>      <li>Transactions in Aleo are 968 bytes regardless of the offline computation, and generating them takes less than a minute.</li>      <li>Transactions do not use ‘gas’ and so applications have unlimited runtime.</li>      <li>Private decentralized exchanges for user-defined fungible assets and regulation-friendly private stablecoins are made possible.</li>  </ul>  <p>All of this comes together with Aleo’s Consensus Algorithm: Proof of Succinct Work (PoSW).</p>",
+		"BatchGet": false
+	}, {
+		"ID": "ae171028-26e0-4134-a900-edf2b77b4337",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ZK_PROOF_PRIVACY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Zero-knowledge Proofs are all about Privacy",
+		"BatchGet": false
+	}, {
+		"ID": "606ea900-c030-42d9-ad0c-6463bf39a036",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_YOUTUBE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "YouTube",
+		"BatchGet": false
+	}, {
+		"ID": "8d4c2d3f-1c1e-4168-8741-a5c8dbb3fe27",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_YOUR_GLOBAL_CONSTELLATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Your global constellation of cryptocurrencies",
+		"BatchGet": false
+	}, {
+		"ID": "45740116-5759-4957-8e03-55f6b0fb045a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_YESTERDAY_EARNING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Yesterday's Earnings",
+		"BatchGet": false
+	}, {
+		"ID": "0c41f31d-c3d5-4dec-95c0-19b77570e2b5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WITHDRAW_GUIDE_AND_FAQ_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<h4>How can I withdraw my assets?</h4><ul><li>Enter the amount you would like to transfer and select the address you would like to transfer to.</li><li>To add another address, please see the <a href=''>Dashboard page</a>.</li><li><strong>Entering an invalid address will result in the permanent loss of your funds.</strong></li></ul><h4>How long does a transaction take?</h4><ul><li>For small amounts (as determined by the network) the transaction is approved automatically and should take a few minutes but <strong>can take a much as 24 hours</strong>, depending on network congestion and gas fees.</li><li>Large amounts <strong>(as determined by the network) will require manual processing</strong>, which takes up to 24 hours or more depending on the amount of transactions at the moment.</li></ul><h4>Where can I get a {COIN_NAME} wallet?</h4><ul><li>{COIN_NAME} will listed on big exchanges such as Coinbase and Binance.</li><li>Be sure to <strong>use a {COIN_NAME} wallet address</strong> to transfer your funds.</li><li>Using an incorrect address will <strong>result in a loss of your {UNIT}!</strong></li></ul>",
+		"BatchGet": false
+	}, {
+		"ID": "b2d7feef-4d14-4262-a6ac-a589df415354",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WITHDRAW",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Withdraw",
+		"BatchGet": true
+	}, {
+		"ID": "fa500fe9-ca1d-48b2-ab2a-57eae1d2e2ed",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Why Procyon",
+		"BatchGet": false
+	}, {
+		"ID": "ab2c93a4-e88a-4a5c-a200-01e7c85b07dd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_PROCYON_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Japan boasts the highest investment per capita in Asia. The endless possibilities of the <strong>Japanese market attract many global players</strong>, however Japan suffers from a language and cultural barrier that insulates the country from global markets. This hurdle can result in missed opportunities and a lack of diversity in investment products. At Procyon, <strong>we lead our exclusive communities of investors to the global stage.</strong>",
+		"BatchGet": false
+	}, {
+		"ID": "280a0915-0543-49d0-bad3-6c2ab54895f7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_PROCYON_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Procyon is the first Japan-centric, one-stop, multidimensional asset management marketplace. We bring <strong>first-to-market products and IDOs</strong> to our clients. Our unique market insights and our extensive network in the crypto space allows us to provide our clients with exclusive <strong>investment opportunities that cannot be found on the open market</strong>. Our unique positioning is our strength and your gain!",
+		"BatchGet": false
+	}, {
+		"ID": "fecc081b-add5-4ce6-b0ca-b3bff714881f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_PROCYON",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Why Choose Procyon?",
+		"BatchGet": false
+	}, {
+		"ID": "3c962765-a0a1-4845-af30-b96e243ec569",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " <p>As our mission, Procyon aims to provide investors with a one-stop inclusive digital currency mining solution, with a R&amp;D, testing and an O&amp;M team composed of software engineers with 10 years of work experience from top chip companies, communication companies, and Internet companies.</p>                              <p>The Procyon platform is based on the microservices system of a cloud-based trading platform and the elastic scaling capacity brought by kubernetes to ensure the transaction security and account security of the private trading network. Our perfect cloud-based operation and maintenance architecture ensures the smooth delivery of services and while mitigating the risk of the whole chain, ensuring the safety of your assets.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "642c82a5-f14c-46d8-8210-fe4ad5d8a8da",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_ALEO_IMPORTANT_TO_WEB3_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>With Web2, we give up privacy to the companies with which we interact. Data leaks, private data monetization, and the permanency of availability of leaked data are all major drawbacks of the Web2 world.</p> <p>Web3 envisions an open, trustless, permissionless internet where users can interact with each other peer-to-peer without giving up ownership control, privacy, or relying on intermediaries. Aleo offers one of the most important infrastructures of Web3’s future with its zero-knowledge proof — using ZKPs to achieve both privacy and programmability, allowing third parties to verify the truth of your information without needing to reveal it directly.</p> <p>Say we wanted to create an NFT collection, where each person could only own at most one NFT from the collection. In Web2, doing this would require users to disclose their identities and their NFTs. However, with ZKPs, in Web3, users can reveal proofs of the uniqueness of their identity, without revealing who they are specifically, protecting their full privacy, with all the same guarantees. In a simple transaction example, imagine paying anonymously with your credit card without revealing your name and purchase history.</p> <p>In the long run, Aleo aims to introduce privacy functionality to many of our daily use cases, such as bank accounts, online shopping, identity verification, social networking, and business, creating a much more private and secure world where everyone gets to own and protect their own data.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "020172d6-6bc5-459c-814b-ab8b7e6265e4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHY_ALEO_IMPORTANT_TO_WEB3",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Why is Aleo’s Zero-Knowledge Proof Important to Web3?",
+		"BatchGet": false
+	}, {
+		"ID": "02d2832c-9b71-4368-bb2c-05561dd174f4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHAT_IS_MINING_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>         Token price is affected by dynamic market conditions. Typically the mainet launch happens simultaneously as         <strong>listing on an exchange which is when the token experiences price discovery, possibly surging exponentially</strong>. To put it simply, the earlier you can mine, the more tokens you earn. And on top of that, you can sell your tokens at a higher price when the token is listed on exchanges, resulting in a better ROI.       </p>       <p>Participating in first-batch mining is only possible if you’re a professional miner or an experienced mining pool. Procyon is the premiere platform that aims to make first-batch mining accessible to general investors, delivering exceptional ROI.</p>       <p>         <em>Shoot for the stars with Procyon.</em>       </p>",
+		"BatchGet": false
+	}, {
+		"ID": "eb1db867-a9ad-4921-b33e-a114a9c90308",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WHAT_IS_MINING_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<h2 id='why-procyon'>What Is First-Batch Mining?</h2>       <p>         First-batch mining begins as soon as the mainnet goes live. This is possible because the first-batch of miners has already acquired hash power through the testnet prior to the launch of the mainnet. Once mainnet goes live, these miners are the first to begin the mining process, achieving much         <strong>greater ROI while the mining difficulty is low and the mining output is high</strong>.       </p>       <p>There are two core factors that affect a miner's ROI:</p>       <ul>         <li>1. Mining output</li>         <li>2. Token price</li>       </ul>       <p>Mining output is directly related to the mining difficulty. The more miners, the greater the total network-wide hash power, the higher the mining difficulty, and the lower the mining output per miner. The total mineable supply is fixed, so the more hash power that flows into mining, the less mining output is released per unit (TB) of hash power. The output of first-batch mining is usually much greater in comparison to regular mining. You can think of it like sharing a pizza. The more people share, the smaller each slice gets. For example, with Chia mining, the daily output during first-batch mining was equivalent to 1 year of mining at the rates just 2 months after mainnet launch.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "4077f720-fd7a-4a5c-8e34-ef70655bc616",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WALLET_ADDRESS_LABELS_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "e.g. name, exchange, etc.",
+		"BatchGet": false
+	}, {
+		"ID": "4643bc98-cbea-4639-b89f-84dcbba31cfa",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WALLET_ADDRESS_LABELS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Wallet Label:",
+		"BatchGet": false
+	}, {
+		"ID": "ac0189db-3bfc-45aa-810b-2dd6cb67250a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WALLET_ADDRESS_CAUTION_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<ul>                         <li>Make sure you enter the correct address. <strong>Using an incorrect address will result in the loss of assets.</strong></li>                         <li>Make sure that <strong>the address matches the selected blockchain</strong>. If the address does not match, your assets will be permanently lost!</li>                         <li>After registering your address <strong>the approval process may take up to 24 hours</strong>. This is a security measure in place to safeguard your assets!</li>                     </ul>",
+		"BatchGet": false
+	}, {
+		"ID": "d0c0a599-0420-4459-8777-250e46fa3059",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WALLET_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Wallet Address:",
+		"BatchGet": false
+	}, {
+		"ID": "6fbfd183-538e-4127-816c-f1b39fbfe780",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WALLET",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Wallet",
+		"BatchGet": false
+	}, {
+		"ID": "c9123824-1de3-4fd5-8ac0-12aa449d3e65",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_WAIT_FOR_START",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Payment Compeled",
+		"BatchGet": false
+	}, {
+		"ID": "44b4ab62-e1ae-4b99-8718-6a73981711e6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFY_ID",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verify ID",
+		"BatchGet": false
+	}, {
+		"ID": "257c705f-36a5-48dd-bedb-d4934cccffcd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFY_GOOGLE_AUTHENTICATION_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to verify google authentication",
+		"BatchGet": true
+	}, {
+		"ID": "34439d96-1267-448e-880c-c3f224a0fa65",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFY_GOOGLE_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verify google authentication",
+		"BatchGet": true
+	}, {
+		"ID": "c72ede5c-77f3-40d6-adb9-79091ac47b58",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verify",
+		"BatchGet": false
+	}, {
+		"ID": "a2f2f6e4-10eb-40e9-931b-11840aa3ede6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFIED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verified",
+		"BatchGet": false
+	}, {
+		"ID": "b0cf3f18-a32f-4e42-bc3e-46fc52865489",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFICATION_CODE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter a verification code",
+		"BatchGet": false
+	}, {
+		"ID": "3a22c35c-f6bf-47fa-a045-ae44067ddf73",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFICATION_CODE_SENT_TO",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "A verification code has been sent to {ACCOUNT}.",
+		"BatchGet": false
+	}, {
+		"ID": "6ce2009c-88de-4487-b4f9-2f437041c7b9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VERIFICATION_CODE_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verification Code",
+		"BatchGet": false
+	}, {
+		"ID": "571c567d-6570-4a41-8f6a-36c41b55a79a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VC_INVESTMENT_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>The funding stands as the largest fundraising round ever in the zero-knowledge industry. <a href=\"https://www.crunchbase.com/search/principal.investors/field/organizations/num_investors/aleo-673f\" target=\"_blank\">Backers include SoftBank, Coinbase, a16z, and over 19 other world-class investors.</a></p> <p>Investors have high hopes for Aleo to deliver on its mission of a fully private Web3 experience. Some Ethereum-based projects use zero-knowledge proofs (ZKP) to solve Ethereum’s scalability issue. Aleo, on the other hand, has developed its own Layer 1 blockchain that significantly improves both scalability and privacy. According to a16z, “Aleo uses a new computation system called Zexe, that is entirely private and that scales far beyond most blockchains that are live today.”</p>",
+		"BatchGet": false
+	}, {
+		"ID": "b949eec7-81b4-4ccc-99e9-c4260cbbbb78",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_VC_INVESTMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "VC Investment",
+		"BatchGet": false
+	}, {
+		"ID": "3143bee4-bf5d-4fba-89db-e731d6becf17",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_USER_REGISTRATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "User Registration",
+		"BatchGet": false
+	}, {
+		"ID": "8559c821-a68b-4688-aafc-2cceefdf3a97",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_USER_LOGIN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "User Login",
+		"BatchGet": false
+	}, {
+		"ID": "53316c5a-b15f-4dc6-bd1a-896da3c22280",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_USERNAME_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "User name needs to be between 4 and 32 characters and cannot be a pure number, cannot contain spaces",
+		"BatchGet": false
+	}, {
+		"ID": "a5db5a60-d7e9-4e5e-9a95-ac81e044b6c7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_USERNAME_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "dbc54966-0c13-4e29-82e7-14e007f9a05a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_USERNAME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Username",
+		"BatchGet": false
+	}, {
+		"ID": "65e341ee-5c0b-4526-9a92-946852362210",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPLOAD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Upload",
+		"BatchGet": false
+	}, {
+		"ID": "ef91bac2-d813-4304-80be-e9e1e50c2f84",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_USER_CONTROL_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update user control",
+		"BatchGet": true
+	}, {
+		"ID": "568f3f71-dfcf-4dca-b416-a638bfbfbc58",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_PHONE_NUMBER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update Phone Number",
+		"BatchGet": false
+	}, {
+		"ID": "ff666998-1aaa-4ca8-8fad-9c5e2e13f5b0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_PAYMENT_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update payment",
+		"BatchGet": true
+	}, {
+		"ID": "12486979-969b-4e6a-a21c-ea0cdb70cff9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_PAYMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update payment",
+		"BatchGet": true
+	}, {
+		"ID": "890a56a9-42f4-4cc1-b6f6-0f9f153a6999",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_PASSWORD_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update password",
+		"BatchGet": true
+	}, {
+		"ID": "f9abb6fe-63dc-442e-9a25-12ff7c2ae665",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "CHANGE PASSWORD",
+		"BatchGet": false
+	}, {
+		"ID": "cf9ece07-7c93-445e-92d4-4fadc85c1056",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_MOBILE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update mobile number",
+		"BatchGet": true
+	}, {
+		"ID": "3d29575a-a929-4cbd-8753-2bf1d39eafed",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_MOBILE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update Phone Number",
+		"BatchGet": false
+	}, {
+		"ID": "568e3926-a8a2-4061-9135-6d8a82436f88",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_KYC_SUCCESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Succeed to update kyc",
+		"BatchGet": false
+	}, {
+		"ID": "6488e818-ee63-484b-aba8-486ea8faba1a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_KYC_IMAGE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update kyc image",
+		"BatchGet": true
+	}, {
+		"ID": "47d41e1f-8be7-49d0-9947-71c3c04cf04b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_KYC_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update kyc",
+		"BatchGet": true
+	}, {
+		"ID": "4f0eccdf-1158-44c8-9e0d-208cb0ece439",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EXTRA_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "failed to update extra",
+		"BatchGet": true
+	}, {
+		"ID": "a8dfd0f9-ef6e-4328-9f42-90bf91b61375",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EXTRA",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update extra",
+		"BatchGet": true
+	}, {
+		"ID": "964e3a33-8c68-4995-9f45-5eb6e457da64",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EMAIL_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Make sure your e-mail address is up to date.",
+		"BatchGet": false
+	}, {
+		"ID": "3cecdcc4-0db2-4052-be61-bf54d6385fe1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EMAIL_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update email",
+		"BatchGet": true
+	}, {
+		"ID": "cabe70dd-f646-498c-9b68-9d25d659b096",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EMAIL_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update E-mail Address",
+		"BatchGet": false
+	}, {
+		"ID": "8a83c096-a076-4a5b-85ed-b77a37928ffc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_EMAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update Email Address",
+		"BatchGet": false
+	}, {
+		"ID": "cd1b1ae8-f144-4777-9dbb-162a3c88c921",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_ACCOUNT_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to update account",
+		"BatchGet": true
+	}, {
+		"ID": "b90f8057-35ec-4519-b32c-9a27ca2286d1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UPDATE_ACCOUNT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Update account",
+		"BatchGet": true
+	}, {
+		"ID": "4f607212-020a-4f9b-8946-5543d6fed5fb",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_UNDER_REVIEW",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Under Review",
+		"BatchGet": true
+	}, {
+		"ID": "8c7fbe75-ff07-42e8-a546-583781f52a4f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TYPE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Type",
+		"BatchGet": false
+	}, {
+		"ID": "41d37ade-a3c5-4644-a181-7b7ebc5c7452",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TWITTER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Twitter",
+		"BatchGet": false
+	}, {
+		"ID": "da939cfd-220e-4e4c-8e68-aed4262b47a5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TRANSACTION_FEE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Transaction Fee",
+		"BatchGet": false
+	}, {
+		"ID": "6bc1c842-57a2-4a1c-8105-7ccdfdeccfb5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TRANSACTIONS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "TRANSACTIONS",
+		"BatchGet": false
+	}, {
+		"ID": "205b1801-fbc2-4d09-943e-579454ab93ec",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TOTAL_PAYMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Total Payment",
+		"BatchGet": true
+	}, {
+		"ID": "cd496992-f957-4a5c-b5e7-0be364abe487",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TOTAL_EARNINGS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Total Earnings",
+		"BatchGet": false
+	}, {
+		"ID": "1a5210a5-f69a-479e-a346-c993a35cdefc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TOTAL_COMMISSION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Total",
+		"BatchGet": true
+	}, {
+		"ID": "154a3c12-0dd2-4e27-9f07-0766966f78e8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TOTAL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Cost",
+		"BatchGet": false
+	}, {
+		"ID": "4d41ab6b-ed3d-4465-ab20-6d98c918c021",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TIME_REMAINING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Time Remaining",
+		"BatchGet": true
+	}, {
+		"ID": "3ffba968-a384-48dd-b73f-e0f21ab87c18",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TIME_REMAIN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Time Remaining",
+		"BatchGet": true
+	}, {
+		"ID": "cedfe2fc-27f5-47b5-b2f2-592037fb41c0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TIMEOUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Timeout",
+		"BatchGet": true
+	}, {
+		"ID": "16529c79-d436-4a65-9a0f-41f4e43c2465",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TESTNET_WARNING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "WARNING: The Spacemesh Testnet mining DOES NOT predict actual Mainnet earnings. The Testnet is only a simulation used to test the mining hardware and software. When the Mainnet launches, ALL TESTNET SMH tokens will disappear.",
+		"BatchGet": false
+	}, {
+		"ID": "ed68796b-9095-49fb-9cfc-7d0c645b206b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TESTNET",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "TESTNET",
+		"BatchGet": false
+	}, {
+		"ID": "809924bd-d7dc-444c-96f5-fd6e5ba41244",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TECHNIQUE_SERVICE_FEE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "The Technical Service Fee is deducted from your daily mining rewards. It covers the expense of running the mining.",
+		"BatchGet": false
+	}, {
+		"ID": "16000571-e757-4ec1-80d8-90ac643b0fc8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_TECHNIQUE_SERVICE_FEE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Technical Service Fee",
+		"BatchGet": false
+	}, {
+		"ID": "3672b331-7f75-4cb8-bd82-15c900da18a9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SWITCH_REGISTER_WITH_MOBILE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Use Phone Number",
+		"BatchGet": false
+	}, {
+		"ID": "3c4f2c2d-e59b-4f4c-ae6e-4d27cbd4ad6b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SWITCH_REGISTER_WITH_EMAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Use Email Address",
+		"BatchGet": false
+	}, {
+		"ID": "2bd9b658-5160-49a0-87a8-a01c34d7fbf7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUPPORT_SIGNATURE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "—Procyon Support Team",
+		"BatchGet": false
+	}, {
+		"ID": "f5a73af2-1793-461f-92ae-70b154d46102",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUPPORT_AND_FAQ",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Support & FAQ",
+		"BatchGet": false
+	}, {
+		"ID": "4e7f5ec4-5be9-47f7-a060-13ea3aed3b79",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUB_SLOGAN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Your global constellation of cryptocurrencies",
+		"BatchGet": false
+	}, {
+		"ID": "8c8d2e0c-3c67-4f67-9efe-6db6a16a6fa3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUBMIT_WITHDRAW_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to submit withdraw",
+		"BatchGet": true
+	}, {
+		"ID": "08edda45-694a-4e60-b075-b1758a5a590c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUBMIT_DOCUMENTS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Submit Documents",
+		"BatchGet": false
+	}, {
+		"ID": "5e78092f-0098-435b-891d-4c28966f3b13",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUBMIT_CHANGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Submit Change",
+		"BatchGet": false
+	}, {
+		"ID": "57709d24-9074-4ada-9425-1f9e49854a88",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUBMIT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Submit",
+		"BatchGet": false
+	}, {
+		"ID": "6dbfb779-f2dd-4830-ac54-f58e37e1f2c6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SUBJECT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Subject",
+		"BatchGet": false
+	}, {
+		"ID": "fffea304-a910-4d5a-84d3-dd871daec5fc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREET2_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "55d5d266-053b-48fd-ba41-2475ca47ee00",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREET2_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "df48909b-7125-43f8-811c-d394b76a1efa",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREET2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Street Address 2",
+		"BatchGet": false
+	}, {
+		"ID": "f92a7eeb-751d-472c-a3de-214b87fa8fde",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREET1_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "1c17944f-3a07-48ec-9726-2a8effbaf5a2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREET1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Street Address 1",
+		"BatchGet": false
+	}, {
+		"ID": "5096faae-a77b-45e1-968a-e68926e74b34",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STREE1_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "81458439-acf2-4f41-b4ad-fbdb72b87ebf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STATUS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Status",
+		"BatchGet": false
+	}, {
+		"ID": "aefb74c9-2a62-4bd5-bcc6-4c8a14b74786",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_STATE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Status",
+		"BatchGet": false
+	}, {
+		"ID": "65b6281b-74f2-4f7f-885a-1bf918e9cc5c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SPACEMESH_UNIT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "TiB",
+		"BatchGet": false
+	}, {
+		"ID": "1109db62-d6d0-46f6-a389-ed59125b1a22",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SPACEMESH_PRODUCT_DETAIL_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "spacemsh is the feature",
+		"BatchGet": false
+	}, {
+		"ID": "87acebd1-1b01-4f76-b0bf-dc9d6337aa54",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SPACEMESH_PRODUCT_DETAIL_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Spacemesh aims to build a true peer-to-peer electronic cash network on a truly public blockchain. Spacemesh is built on a block mesh operating system that will improve blockchain technology through the use of innovative consensus protocols called <a target=\"_blank\" href=\"https://procyon-vip.medium.com/spacemesh%E3%81%AEdag%E6%A7%8B%E9%80%A0%E3%81%AF%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%82%92%E4%BB%A3%E6%9B%BF%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B-11a0b3a79ffb?p=11a0b3a79ffb\">Directed Acyclic Graphs (DAGs)</a>.</p><p>Based in Israel, the Spacemesh team closed an $18.5 million investment led by Polychain Capital back in September 2018, bringing the total funding to over $22.5 million. In addition to the capital investments showing Spacemesh’s potential, Procyon believes that Spacemesh has a winning formula as a new technology in the blockchain/crypto space. Thus, it is our pleasure to introduce it as our flagship product.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "d358dca4-981d-49d2-aff5-a44e3ed91705",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SLOGAN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Shoot for the Stars with <strong>Procyon</strong>",
+		"BatchGet": true
+	}, {
+		"ID": "c8416208-069c-41c2-b5ac-7c2920bd2ed6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SIGNUP_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to signup",
+		"BatchGet": true
+	}, {
+		"ID": "690e8e55-af65-4f38-8d34-a0b22c3add01",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SIGNUP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Signup",
+		"BatchGet": true
+	}, {
+		"ID": "cfe2b0e2-7f97-4d43-8011-311a0bb5b399",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SIGNIN_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to signin",
+		"BatchGet": true
+	}, {
+		"ID": "8a8fe2fd-9ae6-4610-854a-d437fdb2ce80",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SIGNIN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Sign in",
+		"BatchGet": false
+	}, {
+		"ID": "ee1a1873-b62c-406a-b457-8698947c1332",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SHOW_MORE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Show More",
+		"BatchGet": false
+	}, {
+		"ID": "07dbbe44-a8fe-4736-aad4-e9e5dee34c17",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SHOW_LESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Show Less",
+		"BatchGet": false
+	}, {
+		"ID": "7476a80e-b745-4411-ac80-60817a5f94d0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SHOOT_FOT_THE_STARS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Shoot for the Stars",
+		"BatchGet": false
+	}, {
+		"ID": "b0a933a3-caf1-4f29-a504-1c86e110f765",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SET_WITHDRAW_ADDRESS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to set withdraw address",
+		"BatchGet": true
+	}, {
+		"ID": "24d573dc-9358-4ef5-b432-367de1d26d8b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SET_WITHDRAW_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Set withdraw address",
+		"BatchGet": true
+	}, {
+		"ID": "4d5b8f2d-f48c-46b0-a45e-a370e05ef611",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SET_MOBILE_LATER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Later",
+		"BatchGet": true
+	}, {
+		"ID": "2d86524e-73b7-45a5-bac9-ceb39cad9c22",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_TWO_FACTOR_AUTH",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Two-Factor Auth",
+		"BatchGet": true
+	}, {
+		"ID": "8962547b-d6bd-4f4b-83f4-7e0e06e78c9e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_MOBILE_NUMBER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Mobile Number",
+		"BatchGet": true
+	}, {
+		"ID": "f2f693b7-a8a7-4117-ba8b-026f17cb5e64",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_LATER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Later",
+		"BatchGet": true
+	}, {
+		"ID": "90d42bd3-b6e6-492f-8016-0a97a2041928",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_KYC_LATER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup KYC Later",
+		"BatchGet": true
+	}, {
+		"ID": "5c5e9c29-3a89-4899-a7d7-c024d8d92b90",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_KYC_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Enter your personal information (KYC) to ensure the security of your account. Certain features are locked until KYC is approved.",
+		"BatchGet": true
+	}, {
+		"ID": "345cdbde-5f7e-485b-bde1-dbf1de4bdd7f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_KYC",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup KYC",
+		"BatchGet": true
+	}, {
+		"ID": "72bf6363-8213-4d76-8987-03a56f22a799",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Two-Factor authentication with Google Authenticator (or your favorite TOTP app) to ensure the security of your account.",
+		"BatchGet": true
+	}, {
+		"ID": "0932abf7-56f2-49db-9d45-02d58838f1d0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATOR",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Google Authenticator",
+		"BatchGet": true
+	}, {
+		"ID": "abd3a31f-fefc-423c-bbc5-e3169c019cb2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to setup google authenticator",
+		"BatchGet": true
+	}, {
+		"ID": "df46e8fa-f608-41ee-9a93-83d84b22d969",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SETUP_GOOGLE_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Setup Google Authenticator",
+		"BatchGet": true
+	}, {
+		"ID": "4e5b9e25-305d-4d10-96dd-2bd429b3bfc2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SERVICE_PERIOD_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "The service period will be exactly 1 year from the mining start.",
+		"BatchGet": false
+	}, {
+		"ID": "914009c1-41b8-4c35-90ee-0ba0a79cceb4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SERVICE_PERIOD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Service Period",
+		"BatchGet": false
+	}, {
+		"ID": "f464a808-ead9-41eb-a11b-a387b9f9aa25",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SEND_MESSAGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Send Message",
+		"BatchGet": false
+	}, {
+		"ID": "21140c4c-8a28-41e1-b7e8-6de134780e99",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SEND_EMAIL_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to send email",
+		"BatchGet": true
+	}, {
+		"ID": "a605de78-1731-4683-9a26-0de89a49938b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SEND_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Send Code",
+		"BatchGet": false
+	}, {
+		"ID": "dc0f4be5-86e4-480f-bca6-7e9bdc8c30e4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SELFIE_ID",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Selfie + ID",
+		"BatchGet": false
+	}, {
+		"ID": "ed491b34-ecd3-4017-be9b-a1eaac75e393",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SELFID_ID_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Take a selfie while holding your ID next to your face.",
+		"BatchGet": false
+	}, {
+		"ID": "6a7b4ea2-5534-404e-a1b6-3fea1c6319dc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SELECT_RECIPIENT_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Select Recipient Address",
+		"BatchGet": true
+	}, {
+		"ID": "5ddcec89-20ea-4a24-a3c5-8e5f76866bcf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SECURITY_SETTINGS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Security Settings",
+		"BatchGet": false
+	}, {
+		"ID": "7d1f9fd3-cc36-476d-a7f5-8f4065402dfb",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SECURITY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Security",
+		"BatchGet": false
+	}, {
+		"ID": "4e37c9bf-8a25-436a-8851-5589833cd082",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SCAN_QR_CODE_TO_PAY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Scan QR Code to Pay",
+		"BatchGet": true
+	}, {
+		"ID": "84de944f-3a62-4b32-8bed-4abd78f1b124",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_SAVE_CHANGES",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Save Changes",
+		"BatchGet": false
+	}, {
+		"ID": "c599d87b-223a-4948-984b-a9d37d18ffe4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_RISK_WARNING_AND_DISCLAIMER_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>First of all, Procyon and its team will make best efforts for its users.</p>     <p>That said, as a general rule, you should only select products that you are familiar with and understand the risk associated with them. Value of such products may fluctuate due to a variety of factors, such as changes in government policies, economic conditions, or market trends. Further, such products are subject to the applicable laws and regulations of the relevant overseas jurisdiction in which these products are held. Lastly, if you undertake transactions on an online platform, you may be exposed to risks associated with the system including the unpredictable failure of hardware and software due to circumstances outside of our control.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "dfe51039-a3a1-4896-a2a5-981540060b8e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_RISK_WARNING_AND_DISCLAIMER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Risk warning and disclaimer: cryptocurrencies involve risk.",
+		"BatchGet": false
+	}, {
+		"ID": "568abc15-cdfb-4ec2-98bf-381e9a058f65",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REVIEW_ORDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "You can review this order on your dashboard.",
+		"BatchGet": true
+	}, {
+		"ID": "334eba21-e8f3-41fa-aca8-94c84cbb3797",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_RESET_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Reset Password",
+		"BatchGet": false
+	}, {
+		"ID": "951725a5-6890-4ceb-9c65-39d666bdc06e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REMOVE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Delete",
+		"BatchGet": true
+	}, {
+		"ID": "fc3630ba-42a2-4e78-b437-dead1b9c7a5b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REJECTED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Rejected",
+		"BatchGet": true
+	}, {
+		"ID": "73befce3-c521-421c-97de-8b3aeba89ecc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REGISTER_NOW",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Regster now",
+		"BatchGet": false
+	}, {
+		"ID": "40af902e-a74a-487a-bad8-b92479329d7a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REGISTER_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Register Address",
+		"BatchGet": false
+	}, {
+		"ID": "200d641e-3433-488f-bbc3-3671b7c4ceed",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REGISTER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Register",
+		"BatchGet": false
+	}, {
+		"ID": "b3ae4073-d8f9-4e4e-bb4c-f1be77e5b133",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REFERRAL_VALUE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Referral Value",
+		"BatchGet": true
+	}, {
+		"ID": "34619e1f-8c8c-4478-aaff-55e5829191f8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REFERRAL_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Referral Code",
+		"BatchGet": true
+	}, {
+		"ID": "33f0592b-e654-4707-8e9e-e9ebedf870d5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_REFERRAL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Affiliates",
+		"BatchGet": true
+	}, {
+		"ID": "eb7c1de9-d1cf-4a6b-a1ba-922008cbc74a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_READ_AND_AGREE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "I have read and agree to the <a href=\"{POLICY_PATH}\">Privacy Policy</a> and <a href=\"{USER_AGREEMENT}\">User Agreements</a>",
+		"BatchGet": false
+	}, {
+		"ID": "d48bd2f4-4c1c-454c-bbd5-109a3309cb0f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_RAYMOND_CHU_BACKGROUND",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p class=\"bio\">While at Berkeley, interned as an engineer at IBM and Amazon. After graduation, worked as a project manager and security consultant at Blockchain at Berkeley and Argus.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "d8140774-a027-4799-9b52-92aca3ea47f5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PURCHASE_CAPACITY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Purchase Capacity",
+		"BatchGet": false
+	}, {
+		"ID": "02d8fa4a-6a2d-4ead-bcac-2d4f82ede9ae",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PURCHASE_AMOUNT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Purchase Amount",
+		"BatchGet": false
+	}, {
+		"ID": "6d80bbed-003d-47df-8d82-4d03d2d1a732",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PURCHASED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "TBs Purchased",
+		"BatchGet": true
+	}, {
+		"ID": "4ff27b64-f275-4a86-a395-c0258171103a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PURCHASE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Purchase",
+		"BatchGet": false
+	}, {
+		"ID": "1001c5e4-57fd-41d7-b14d-fe85031b8f85",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROVINCE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "1584dc5e-7e00-4dc9-b30b-903cd23d107d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROVINCE_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "1d284654-1506-41ea-9fcf-f065595be1bf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROVINCE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Province / Prefecture",
+		"BatchGet": false
+	}, {
+		"ID": "2ed6ec0a-4395-405a-bd5f-2ae4b68c205b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROJECT_LINKS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Project Links",
+		"BatchGet": false
+	}, {
+		"ID": "b09f836b-bfa2-4d5c-8853-ec3321dc4b2a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PRODUCT_DETAILS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Product Details",
+		"BatchGet": false
+	}, {
+		"ID": "04bf325d-98e7-42da-9514-f4590928f808",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PRODUCTS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Products",
+		"BatchGet": true
+	}, {
+		"ID": "aefb248f-1942-4680-846c-0069ded3ff3b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PRODUCT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Product",
+		"BatchGet": false
+	}, {
+		"ID": "3506428c-e404-48ee-a874-41c9207951f4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROCEED_TO_DASHBOARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Proceed to Dashboard",
+		"BatchGet": true
+	}, {
+		"ID": "c0e47dc2-66d9-4ad2-9d66-be840144aaae",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PROCEED_KYC_SETUP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Proceed to KYC Setup",
+		"BatchGet": true
+	}, {
+		"ID": "71708adc-4557-446b-ad66-496756db1ff5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PRICE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "The purchase price is for one ‘unit’ of Procyon’s total hashpower of the Aleo network.",
+		"BatchGet": false
+	}, {
+		"ID": "818f19ac-854d-4ee0-94f2-5e4c7b1075d3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PRICE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Price",
+		"BatchGet": false
+	}, {
+		"ID": "6ae68f08-ebb4-468d-90c5-6d0fb9852182",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PREMIERE_PRODUCTS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Our Latest Product",
+		"BatchGet": false
+	}, {
+		"ID": "5219341e-0506-4987-97d3-d84e00104bdf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_POSTAL_CODE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "4cdac1d7-4e62-41c0-9444-d1c92fe20bab",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_POSTAL_CODE_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "b27bd291-dc06-427a-8b89-d73a079fa8b0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_POSTAL_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Postal Code",
+		"BatchGet": false
+	}, {
+		"ID": "ab9a4b67-275c-4893-a825-79b5f04f8758",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PHONE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter your correct phone number",
+		"BatchGet": false
+	}, {
+		"ID": "219b6df8-b53e-4a51-a6ff-3799406d5048",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PHONE_NO_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Phone Number",
+		"BatchGet": false
+	}, {
+		"ID": "2bfcb7f3-8bd5-4227-b254-6fbb11686397",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PHONE_NO",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Phone Number",
+		"BatchGet": false
+	}, {
+		"ID": "8abf719f-35a2-4cdc-88b3-7274820d85b5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PERSON_DETAILS_FOR_KYC",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Personal Details ( for KYC process )",
+		"BatchGet": false
+	}, {
+		"ID": "c35fef14-3b32-4d77-a4ed-a72962ff91e0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PERIOD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining Period",
+		"BatchGet": false
+	}, {
+		"ID": "4d061997-d55c-4ae4-82cc-3b4a441e21dc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PENDING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Pending",
+		"BatchGet": true
+	}, {
+		"ID": "3b2d87a0-50d6-4864-a38a-27e790fa6301",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAY_LATER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Pay Later",
+		"BatchGet": true
+	}, {
+		"ID": "c06baac3-4fd4-419b-8917-3c9a3ad6e8ef",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_WARNING_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Warning - Please Read!",
+		"BatchGet": false
+	}, {
+		"ID": "20c87b02-e18d-4f75-b5ad-2fc6cd2cf2e4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_WARNING_CONTENT_3",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>If your purchase fails the funds will be transferred to your PROCYON wallet.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "dd042c1a-13e0-4902-87db-9d2e37411cc0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_WARNING_CONTENT_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "For example, if the amount due is 100 USDT, but the exchange deducts 1 USDT transaction fee, then you must send 101 USDT for payment.",
+		"BatchGet": false
+	}, {
+		"ID": "23b13a8b-171b-478f-8bcb-bdec1b212761",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_WARNING_CONTENT_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Some exchanges deduct the transaction fee from the final amount. <strong>Make sure that the amount PROCYON will receive EXACTLY MATCHES the amount due</strong> otherwise the purchase will fail!</p>",
+		"BatchGet": false
+	}, {
+		"ID": "c1ee51eb-f8c6-466a-acd3-c257b323bae7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_WARNING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "It may take as long as an hour or more for the transaction to be received by PROCYON. You can remain on this page or come back to this order again from your Dashboard.",
+		"BatchGet": false
+	}, {
+		"ID": "2d680091-bb0e-454b-93d2-1abecc4dccf4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_TIMEOUT_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "This is the time limit for this order. If you do not complete the transaction within this time the order will be automatically canceled.",
+		"BatchGet": false
+	}, {
+		"ID": "7af7c6fb-68d2-4c84-ba67-c87699a8c147",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_NOTE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<ul><li>Make sure to use the correct blockchain. The above address is an <strong>{COIN_NAME}</strong> address. If you do not use <strong>{COIN_NAME}</strong>, your payment will be lost and <strong>CANNOT BE RECOVERED</strong>.</li><li>You must send the <strong>EXACT</strong>, correct amount in a <strong>SINGLE PAYMENT</strong>.</li><li>Overpayment or underpayment will not count towards your order. Instead, the amount will be added to your wallet balance.</li><li>Some exchanges deduct the transaction fee from the final amount. <strong>Make sure that the amount PROCYON will receive exactly matches the amount due</strong>.</li><li>The transaction can take as long as 1 hour or more to validate. Once payment is made, you do not have to stay on this page. You can review your order on your dashboard.</li></ul>",
+		"BatchGet": false
+	}, {
+		"ID": "39510d15-ef4a-4a1b-98d6-e61f63c4b30e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_METHOD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Payment Method",
+		"BatchGet": false
+	}, {
+		"ID": "b75899b8-3361-421c-8561-cf69f0dcb8d3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_COMPLETED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Payment Completed",
+		"BatchGet": true
+	}, {
+		"ID": "f347f895-5394-4fa6-adfe-4574ee1f1729",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_CANCELED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Canceled",
+		"BatchGet": false
+	}, {
+		"ID": "da389dee-69fc-4b65-a9a8-f92f2248b493",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_AMOUNT_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Procyon must receive this exact amount for the order to be processed. Please account for any transaction fees from the sending exchange.",
+		"BatchGet": false
+	}, {
+		"ID": "f12082ab-4aab-4395-8a4d-5ece30665ce6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_ADDRESS_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Be sure to use the correct blockchain when sending your funds.",
+		"BatchGet": false
+	}, {
+		"ID": "ea41cf5d-a18b-4e99-81cc-3e00c1d73ba6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Receiving Address",
+		"BatchGet": true
+	}, {
+		"ID": "1b1e7f96-9a7a-4ec2-8865-5069d1e75da2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PAYMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Payment",
+		"BatchGet": true
+	}, {
+		"ID": "5ccaf7e9-0869-43fc-a5ea-d8770d1a1f44",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSWORD_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter a password 8-20 alphanumeric characters",
+		"BatchGet": false
+	}, {
+		"ID": "c4aada82-6759-465f-aef5-9c2c3d637cd9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSWORD_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "password",
+		"BatchGet": false
+	}, {
+		"ID": "3d2bdd60-33ed-45bc-b3fd-c4a4ad981382",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Password",
+		"BatchGet": false
+	}, {
+		"ID": "74b14cd8-739b-47ec-8d4a-d8b842ab6822",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSPORT_SELFID_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Take a selfid with your <strong>passport open to the photo page</strong> while holding it next to your face.",
+		"BatchGet": false
+	}, {
+		"ID": "d9276e62-a317-4977-b8f9-81fb62b2e1a9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSPORT_SELFID",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Selfid + Photo Page",
+		"BatchGet": false
+	}, {
+		"ID": "2719f910-9021-47f2-afee-e8598557f175",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSPORT_FRONT_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Take a photo of your passport photo page with all info clearly visible.",
+		"BatchGet": false
+	}, {
+		"ID": "86f74751-0691-45d3-a2ae-9b57d2fdf94b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSPORT_FRONT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Passport Photo Page",
+		"BatchGet": false
+	}, {
+		"ID": "7ba15ee0-f16e-4be1-abd7-d85753316f08",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_PASSPORT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Passport",
+		"BatchGet": false
+	}, {
+		"ID": "99a98af3-2740-41b0-bac8-7b03dbdab46a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_OTHER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Other",
+		"BatchGet": false
+	}, {
+		"ID": "9a9b7b2d-ed75-4704-a392-6e1e80f85269",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORGANIZATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "PRCN Technology Ltd.",
+		"BatchGet": false
+	}, {
+		"ID": "a1d789ea-df97-4bed-b3d4-6be9a1038f3e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_TIMEOUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Order Timeout",
+		"BatchGet": true
+	}, {
+		"ID": "4b1e4773-7a45-4080-8f20-b9ee2f74ed3f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_PENDING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Order Pending",
+		"BatchGet": true
+	}, {
+		"ID": "b573cbc2-ca51-49c1-8209-00e9c75457b5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_PAY_LATER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Pay Later",
+		"BatchGet": true
+	}, {
+		"ID": "d6a42062-6205-4ab1-8b55-510198759dd8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_PAYMENT_AWAITING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "We are awaiting the arrival of your payment. It may take up to 10 minutes. You can review this order on your dashboard.",
+		"BatchGet": true
+	}, {
+		"ID": "18187195-af06-4a2f-aad0-b7e32e148df7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_ID",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Order ID",
+		"BatchGet": true
+	}, {
+		"ID": "fcb5d3ef-61cf-414b-8353-69188a4ccf06",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_HISTORY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "ORDER HISTORY",
+		"BatchGet": false
+	}, {
+		"ID": "67d57568-4031-46db-9153-9aa0b2e33aca",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_EFFECTIVE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo is officially aiming for Q3 2022, but market factors and the Aleo development schedule determine the final main net.",
+		"BatchGet": false
+	}, {
+		"ID": "9ca7dde3-92cd-4794-bd53-17e9a7f701e6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_EFFECTIVE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining Start",
+		"BatchGet": false
+	}, {
+		"ID": "5d5d8883-c3c9-4196-9f34-053da1b8139a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_COMPLETE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Order Completed",
+		"BatchGet": true
+	}, {
+		"ID": "240e3d49-12dd-4cb6-8cab-eed567df9f73",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_CANCELLATION_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Order Cancellation",
+		"BatchGet": false
+	}, {
+		"ID": "ec6d544a-3de2-4eb0-852c-3252aa087bb0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_CANCELLATION_CONTENT_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "If you have already send the payment make sure you DO NOT cancel your order.",
+		"BatchGet": false
+	}, {
+		"ID": "178b8d92-573b-4970-b0de-c699ece55f7b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ORDER_CANCELLATION_CONTENT_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Are you sure you would like to cancel your order?</p>",
+		"BatchGet": false
+	}, {
+		"ID": "136db119-a493-40de-8aeb-63e7e1d5bdb4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ONBOARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Onboarded",
+		"BatchGet": true
+	}, {
+		"ID": "1e529af0-d16c-4c35-b277-ecd69d7911d3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_OFFICIAL_SPECS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Official {COIN_NAME} Specs",
+		"BatchGet": true
+	}, {
+		"ID": "32dcf671-6186-4f90-beb6-f60e6e53d5bc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NO_ACCOUNT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "No account",
+		"BatchGet": false
+	}, {
+		"ID": "6e463af3-4499-48ea-89d9-92a94e1e496b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NOT_VERIFIED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Not Verified",
+		"BatchGet": false
+	}, {
+		"ID": "697df3be-df6c-4ab8-97e0-2c4589970653",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NOT_PAID",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Not Paid",
+		"BatchGet": true
+	}, {
+		"ID": "82d37e82-c514-45e8-99a3-00861085e3b4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NOT_AVAILABLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "N/A",
+		"BatchGet": false
+	}, {
+		"ID": "82650f97-0516-4ee6-bc65-147c64e9b91d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NEW_WALLET_REGISTRATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "New Wallet Registration",
+		"BatchGet": false
+	}, {
+		"ID": "29e1668b-90cf-4938-988c-baa748e2b0a3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NEW_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "New Password",
+		"BatchGet": false
+	}, {
+		"ID": "4a2f6604-df08-4a9c-8f0c-a67640fe3cf9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NETWORK_DAILY_OUTPUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Network Daily Ouput",
+		"BatchGet": false
+	}, {
+		"ID": "be9ff79d-5cf9-45fb-bb7c-6a69dd38c2b7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_NAME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Name",
+		"BatchGet": false
+	}, {
+		"ID": "fee5169b-b546-47be-88cd-a17d9a39636f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MOBILE_VERIFICATION_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Verification Code",
+		"BatchGet": false
+	}, {
+		"ID": "478fcc04-09c8-4e10-a2b6-cdb5cccfe741",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MOBILE_VERIFICATION_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter the verification code we sent to your mobile",
+		"BatchGet": true
+	}, {
+		"ID": "26846eef-f172-4b3d-872b-579161132ee4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MOBILE_VERIFICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mobile Verification",
+		"BatchGet": true
+	}, {
+		"ID": "3daf386b-0090-403a-8d7e-9baa8d61bcd6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MOBILE_AUTHENTICATION_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Enable mobile authentication to confirm logins, transfers, and changes to security settings.",
+		"BatchGet": false
+	}, {
+		"ID": "a95d4554-9770-4c8c-aae5-68d13c65cdf2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MOBILE_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mobile Authentication",
+		"BatchGet": false
+	}, {
+		"ID": "a79739f3-b4d6-4ed7-9f91-4e2d416b2833",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MINING_PURCHASE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining Purchase",
+		"BatchGet": false
+	}, {
+		"ID": "23b9314a-c368-4e6f-b89c-9e7f725b2cda",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MINING_DASHBOARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining Dashboard",
+		"BatchGet": false
+	}, {
+		"ID": "ce751f2d-ad64-4b33-828c-90f1b1a7ef26",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MINING",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining",
+		"BatchGet": false
+	}, {
+		"ID": "be2a7b97-f3ab-4d1c-8dcd-a37445544669",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MICHAEL_BELLER_BACKGROUND",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Senior Manager at Accenture for 7 years. Performed as COO/CIO in numerous IT/financial startups.",
+		"BatchGet": false
+	}, {
+		"ID": "5b8f7d5e-bb0b-4df3-9bc6-36e482273849",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MESSAGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Message",
+		"BatchGet": false
+	}, {
+		"ID": "7d6dfb88-1d2c-4f69-8b7f-352101c7a509",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MARKET_VALUE_USDT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Market Value (USDT)",
+		"BatchGet": false
+	}, {
+		"ID": "54a04f1f-9602-44b1-8bba-d05a6eea292c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MARKET_VALUE_JPY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Market Value (JPY)",
+		"BatchGet": false
+	}, {
+		"ID": "a24171af-e1c4-4a6b-8ac2-a817f54b1301",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MARKET_LEADER_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Market Leader",
+		"BatchGet": false
+	}, {
+		"ID": "af7c15c5-08c4-492f-bf27-1b9fd95b2983",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MARKET_LEADER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Our partners include top tier global VCs as well as the world's largest PoC mining pool. Our years of experience allow us to accurately identify market trends, conduct in-depth due diligence, and target upcoming superstar projects across multiple sectors in the industry, bringing them to our community of key opinion leaders and investors.",
+		"BatchGet": false
+	}, {
+		"ID": "af9fa8a9-972c-4a83-b2ed-9323ccda0c41",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MALE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Male",
+		"BatchGet": false
+	}, {
+		"ID": "216fb531-660c-4303-b515-680034a28250",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_MAINTENANCE_FEE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Maintenance Fee",
+		"BatchGet": false
+	}, {
+		"ID": "3fe5cc45-44d3-4835-94e3-8ca7b4aca954",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOGOUT_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to logout",
+		"BatchGet": true
+	}, {
+		"ID": "9bbf1f64-a71a-4675-94f7-47c8e56a8511",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOGOUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Logout",
+		"BatchGet": false
+	}, {
+		"ID": "ac9745c0-3525-44ee-8348-e5f2dc4cee8b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOGIN_HISTORY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "RECENT LOGIN HISTORY",
+		"BatchGet": false
+	}, {
+		"ID": "d8021a75-ac23-442a-9ddd-9a654cc73fa5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOGIN_AUTHENTICATION_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Select an additional verification method when logging in. Two-factor authentication must be enabled prior to selecting as a login verification method.",
+		"BatchGet": false
+	}, {
+		"ID": "70edef77-db48-40b1-a21e-b842cb8f9a22",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOGIN_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Login Verification",
+		"BatchGet": false
+	}, {
+		"ID": "25f32e13-a4b3-42e5-89f8-1e17f57614dd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LOCATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Location",
+		"BatchGet": false
+	}, {
+		"ID": "ab8cd98d-7815-4838-97b5-2f4c11fc47fd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LINKS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Links",
+		"BatchGet": false
+	}, {
+		"ID": "cc518243-7867-45b2-aef0-d1666721242c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEGAL_3",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<h1>Terms of Service</h1>     <h2>Procyon User Registration Service Agreement</h2>     <p>The Registration Services Agreement (hereinafter referred to as the “agreement”) concerns the regulation of rights and obligations between the user and Procyon in connection with the services of Procyon and its affiliated companies. By accessing and/or using this website, user accepts and agrees to all the terms and conditions of this agreement. Procyon is entitled to amend the terms of this agreement, and the revised agreement once published will effectively replace the original agreement. Users can check the latest agreement at any time.</p>     <h2>Content of Services</h2>     <p>1. Procyon and its affiliated companies adopt our own system to provide users with leasing and management of mining machines and other services that may be added in the future through the Internet.</p>     <p>2. For the registration information provided by the user, the user agrees to: (1) provide legal, true, accurate and detailed personal data; (2) in case of changes, update user information timely. If the registration information provided by the user is illegal, untrue, inaccurate and incomplete, the user shall bear the corresponding responsibilities and consequences caused thereby, and Procyon may reserve the right to terminate the user’s use of the services provided by Procyon.</p>     <h2>Rights of users</h2>     <p>1. User' s username, password and security: (1) the user is entitled to choose whether to become a registered user of Procyon. If the user chooses to become a registered user of Procyon, the user may create an account. Account naming and application shall be subject to relevant laws and regulations and network ethics. The account shall not contain any insults, threats, obscenity, abuse and other words that infringe upon the legitimate rights and interests of others. (2) Once the user registers successfully and becomes a registered user of Procyon, user will obtain the account (mobile phone number or email address) and password and be responsible for all activities and events after logging into the system with this group of account and password. User shall bear all legal liabilities directly or indirectly caused by words and actions of the account. (3) The user shall be obliged to properly maintain the account and password, SMS verification code and Google verification code and be fully responsible for the security of the username and password, and the Google key. User shall be responsible for any legal consequences caused by the disclosure of username or password or Google key due to user’s actions. Procyon shall not be responsible for any property loss caused by the user’s own disclosure of such information. (4) If the user’s password is lost, the password can be reset through the link sent to the registered E-mail. Users should immediately notify Procyon of any illegal user accounts or other security vulnerabilities once found.</p>     <p>2. Procyon promises: user’s password, name, mobile phone number or other non-public information will not be provided to any third party except to provide user services without legal reason or prior permission of the user.</p>     <p>3. Users are entitled to participate in various online and offline activities provided by mining organization of Procyon.</p>     <p>4. Users are entitled to enjoy other services provided by Procyon according to the regulations on the website of Procyon.</p>     <h2>User’s obligations</h2>     <p>1. Users of the website may not endanger state security, divulge state secrets, infringe upon the lawful rights and interests of the collective and citizens of the state, or make, reproduce or disseminate the following information: (1) incitement to resist or undermine the implementation of the constitution, laws and administrative regulations; (2) inciting ethnic hatred, ethnic discrimination and undermining ethnic unity;(3) fabricating or distorting facts, spreading rumors and disturbing public order; (4) promoting feudal superstition, obscenity, pornography, gambling, violence, murder, terror or abetting crimes; (5) publicly insulting others or fabricating facts to slander others, or carrying out other malicious attacks; (6) other violations of the constitution, laws and administrative rules and regulations;(7) engaging in commercial advertising.</p>     <p>2. Users shall not maliciously register the website account of Procyon by any means, including but not limited to multiple account registration for the purpose of profit making, speculation, cash, awards, etc. Users shall not embezzle other users’ accounts. If the user violates the above provisions, Procyon shall be entitled to directly take all necessary measures to cancel the benefits obtained due to the violation and to pursue the  legal action against the user through litigation.</p>     <p>3. Users are prohibited from using Procyon in any form as a place, platform or medium for various illegal activities. Without the authorization or permission of Procyon, users shall not use the name of this website to engage in any commercial activities, nor shall they use Procyon as a place, platform or medium for commercial activities in any form.</p>     <h2>Exemption</h2>     <p>1. Based on the particularity of the Internet, Procyon does not guarantee that the service will not be interrupted. It will not guarantee the timeliness and safety of the service, nor assume any liability not caused by Procyon. Procyon seeks to make this website safe for users to access and use, but it does not represent or warrant that this website or its servers are free of viruses or other potentially harmful factors. Therefore, users should use industry-recognized software to detect any viruses in files downloaded from Procyon. Procyon assumes no responsibility or warranty for Internet security, and in particular we cannot assume any responsibility for hacking, phishing or other malicious activities.</p>     <p>2. Procyon shall not be responsible for any failure to save, modify, delete or store information posted by users. No liability shall be assumed for typographical errors, omissions, etc. on the website that are not intentionally caused by Procyon. Procyon is entitled to but not obliged to improve or otherwise correct any omissions or errors in any part of the website.</p>     <p>3. Except as expressly agreed in writing by Procyon, company is not responsible in any way for any content information obtained by user by connecting to or downloading from this website, including but not limited to advertising, and it also does not guarantee its accuracy, completeness and reliability. Procyon shall not be responsible for any products, services, information or materials purchased or obtained by users as a result of the information contained on this website. Users shall use the information on this website at their own risk.</p>     <p>4. All notices to users will be delivered via announcement on the official webpage, in-site messages, email, customer service calls, SMS or regular mail. Procyon shall not be liable for any winning, preferential or other activities or information not obtained through the normal channels of Procyon.</p>     <h2>Information privacy</h2>     <p>1. Procyon user information referred herein pertains to information that complies with laws, regulations and relevant provisions as well as the following scope: (1) personal information provided by users to Procyon when registering a Procyon account; (2) when the user uses Procyon service, participates in website activities or visits website pages, Procyon automatically receives and records the data of the user’s browser or mobile client, including but not limited to the IP address, information in website cookies and web page records requested by the user; (3) users’ personal information legally obtained by Procyon from business partners; (4) other users’ personal information obtained by Procyon through legal means.</p>     <p>2. Procyon promises: Procyon will not disclose the user’s password, name, mobile phone number or other non-public information to any third party without legal reasons or prior permission of the user.</p>     <p>3. User’s personal information will be disclosed in part or in whole under the following statutory conditions: (1) Disclosure to the user or any other third party with the user’s consent; (2) Disclosure to an administrative, judicial body or other third party as required by laws, regulations or other relevant provisions, or as required by an administrative authority; (3) Other disclosures by Procyon in accordance with laws, regulations and other relevant provisions.</p>     <h2>Provision, modification and termination of services</h2>     <p>1. In addition to receiving the services of Procyon, users agree to receive information regarding services provided by Procyon. Users hereby authorize Procyon to send commercial information to its E-mail, mobile phone, mailing address, etc. Users can access the relevant webpages of Procyon to make changes to the user profile.</p>     <p>2. Procyon reserves the right to modify or interrupt services at any time without notifying users. Procyon is entitled to modify or interrupt the service without liability to the user or any third party not directly involved.</p>     <p>3. If customer has any objection to the modification of this agreement or is dissatisfied with the service provided by Procyon, customer may exercise the following rights: (1) Stop using the services of Procyon; (2) Effectively notify Procyon in writing to stop providing services to it through legal channels such as developer’s mailbox. Upon the termination of service, the user’s right to use the services of Procyon shall be immediately terminated. In this case, Procyon is under no obligation to transmit any unprocessed information or unfinished services to the user or any third party not directly related to it.</p>     <h2>Applicable laws and judgment site</h2>     <p>All disputes, claims or other matters arising from or in connection with the user’s use of the website of Procyon shall be governed by local laws.</p>     <p>Any dispute between the user and Procyon shall be settled through negotiation based on the principle of good faith. If no agreement can be reached through negotiation, any legal action shall be filed to the court of jurisdiction where Procyon is located.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "6d6d984d-c03d-4c49-b302-2347ac814cd7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEGAL_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<h1>Privacy Policy</h1>     <h2>Privacy Policy</h2>     <p>We respect the privacy of all users and site visitors (collectively called “you” and “your”) and promise to do our best to protect your online privacy. This Privacy policy outlines the process of management, collection, maintenance and processing of users’ personal data by, Procyon and its affiliated entities (hereinafter referred to as the “Procyon” or “we”, “us” and “our”).</p>     <h2>1. Information Collection</h2>     <p>We may utilize your personal data to provide and improve the miner sharing services (the “services”) provided by PROCYON, and to improve your use experience on this site. “Personal data” refers to any information related to an identified or identifiable person. We will collect the information you provide when you create an account to use the services. We also use various technologies to collect and store information, including Cookies, pixel tags and local storage (such as network storage of browser or application data cache, database and server logs). Your use of the services or this site indicates that you agree with the collection and use of the information by us according to this Privacy Policy. Unless otherwise stated herein, the terminology used in this Privacy Policy shall have the same meaning with the same terminology used in our Service Agreement.</p>     <h3>1.1 Registration</h3>     <p>You are required to provide such information when creating an account as your email, telephone number, password or other information.</p>     <h3>1.2 Payment information</h3>     <p>Your payment information will be sent to our third-party payment processors and your use indicates that you authorize us to store your encrypted wallet address and that we may have access to and keep the user information through our third-party payment processors.</p>     <h3>1.3 Log information</h3>     <p>We will collect the information sent by your browser when you visit our site and log in your account (the”log data”). The log data may include the following information: Internet Protocol (IP) addresses of your computer, browser type and version, web pages of the services you visited, time and date of the visiting, time spent on these pages and other statistical data. In addition, we may use third-party services, such as Google Analytics, to collect, monitor and analyze such information in order to enhance the functionality of our services. The third-party service providers have their own privacy policies to describe how they use such information. Such third-party service providers can only use your personal data as necessary for performing tasks on behalf of us.</p>     <h3>1.4 How we use your personal information</h3>     <p>We may use your personal information for the purposes listed below：</p>     <ul>       <li>(1) Show you our site and its contents;</li>       <li>(2) Identify you as our users in our system;</li>       <li>(3) Process your orders;</li>       <li>(4) Provide customer services;</li>       <li>(5) Respond to your requirements;</li>       <li>(6) Provide you with product updates;</li>       <li>(7) Improve our site;</li>       <li>(8) Send news, investigations, special offers and other promotional materials relating to our products;</li>       <li>(9) Communicate with you;</li>       <li>(10) Manage the risks and protect the site and protect our services and you from fraudulent activities;</li>       <li>(11) Comply with all applicable laws and regulations, and execute the service agreements of both this site and Procyon;</li>       <li>(12) Other purposes with your consent.</li>     </ul>     <h3>1.5 Information about Cookies</h3>     <p>In order to provide you with better access experience, we use Cookies to allow this site to identify your browser and store user preference and other information. If permitted by your browser or the additional service of the browser, you may alter the acceptance degree of Cookies or reject Cookies. See AboutCookies.org for details. However, if you do so, it may in some cases affect your experience of visiting our site or make it impossible to use some of our services.</p>     <h2>2. Third-party Service Providers</h2>     <p>We may hire third parties to provide business relevant services for us. Such third parties may only obtain access to your personal data while providing services to us and are obliged not to disclose or use the data for any other purposes. However, the act of us providing your personal data to the third-party service providers shall not be deemed that we shall undertake any legal liability for the infringement of user information or privacy by a third-party service provider.</p>     <h2>3. If You Are A Citizen of the European Economic Area (EEA)</h2>     <p>If you are a citizen of the European Economic Area (EEA), you enjoy certain data protection rights based on applicable laws and regulations. Our goal is to adopt reasonable measures to allow you to alter, modify, delete or limit the use of your personal data. Please contact us if you wish to know about the personal information we hold about you and if you wish to delete your personal information from our system. We, however, assume no legal responsibility for the data manipulation acts by the citizens of the European Economic Area (EEA).</p>     <h2>4. Information Security</h2>     <p>Although we are committed to protecting our site and services, you are responsible for protecting and maintaining the security of your personal information, and verifying whether the personal information we maintain about you is correct and updated. You must prevent unauthorized access to your account. Be sure to log out when using shared computers and do not disclose your account and password and any other account information to any unauthorized person.</p>     <p>However, no transmission or electronic storage method through the Internet is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security. We cannot guarantee the security of your personal information transmitted to our site and/or through our services. Any transmission of  personal information shall be at your own risk.</p>     <h2>5. International Data Transmission</h2>     <p>By submitting your information, you agree that your information (including personal data) may be transmitted and stored to computers and systems outside the jurisdiction of your country/territory. Under such circumstances, we will endeavor to ensure that your information is protected to the same extent as regulated in your country/territory. However, we do not assume any legal responsibility for the consequences brought about by such protection.</p>     <h2>6. Third-party Links</h2>     <p>Our services may contain links to third-party websites that are not operated by us. If you click such links, you will be directed to the relevant third-party websites. The Privacy Policy does not apply to other third-party websites. We strongly recommend that you check the privacy policies of the websites you visit. Procyon can neither control any third-party websites or their contents of services and privacy policies, nor bear any responsibility.</p>     <h2>7. Privacy of Children</h2>     <p>We do not knowingly collect or maintain personal data on our site from persons under the age of 16, and no part of our site is targeted at persons under the age of 16. If you are under 16 or you are 16 but do not derive your income from your own labor, please do not use or visit this site in any way. If we are aware that we have accidentally collected the personal data from persons under 16 years old, we will delete or adopt other appropriate measures to dispose such personal data according to applicable laws and regulations.</p>     <h2>8. Change of Purpose of Use of Personal Data</h2>     <p>If we decide to use your personal data for any purposes other than those stated in this Privacy Policy, we will notify you and provide you with an effective exit option for not using your personal data for any purposes other than those stated in this Privacy Policy.</p>     <p>We may send you emails relating to new services and activities. You may select the “cancel subscription”function in each email we send to refuse to receive the promotional emails of Procyon. However, users who agree to use this service will continue to receive other important emails pertaining to the services.</p>     <h2>9. Information Storage Time</h2>     <p>Unless required by applicable laws and regulations, we only keep and save your personal information within the time period as necessary to realize the purpose stated in this Policy. Under the circumstances permitted by law, we may store certain personal information for record keeping purposes or guarantee our rights and interests through legal means. Our storage of information is performed in accordance with the requirements of relevant laws and regulations, and we bear no legal responsibility for the information storage behavior.</p>     <h2>10. How We Learn About, Acquire, Alter or Delete Your Personal Information</h2>     <p>Please contact us via the contact information stated in the Privacy Policy if you wish to confirm that we are processing your data, or access your personal data that we may hold, alter or delete your personal information we have collected.</p>     <h2>11. Contact Us</h2>     <p>Please contact us in case of any concerns related to this Privacy Policy.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "ff98b217-f818-4370-bd38-bb95f4d6c8f6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEGAL_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<div id='hero'>       <h1>Procyon — PRCN Technology</h1>       <h2>Terms and Conditions</h2>     </div>     <p>This website is created and maintained by our service provider on behalf of Procyon. Procyon reserves the right to update these Terms at any time without notice, and the user will be bound by such updates as well. By accessing and viewing this website content, registering as a user, downloading any materials from this website, or using the materials provided herein, any person agrees to abide by the following terms and conditions. These Terms constitute an agreement between Procyon and the user. If the user does not agree to abide by these terms, do not use this website. Procyon reserves the right to deny access to, or use of, this website to any user at any time and under any circumstances. Procyon reserves the right to correct, modify or update this statement at any time in its sole discretion.</p>     <h2>1. Copyright Notice</h2>     <p>Procyon owns the copyright in all materials on the relevant pages of the Website or, together with the provider of the materials on the relevant pages of the Website, owns the copyright or license to use the materials on those pages. No part of the contents of this website may be copied or mirrored on servers not owned by Procyon without the expressed, written permission of Procyon.</p>     <p>The domain names, trademarks, text, visual and audio content, graphics and images contained on this website are protected by trademark and copyright laws. They may not be copied or transmitted in any form by any enterprise or individual without the express prior written permission of Procyon. Any unauthorized use of this website will violate the Copyright Law of the Republic of Seychelles, the Trademark Law of the Republic of Seychelles and other relevant laws and regulations, as well as the provisions of relevant international conventions.</p>     <h2>2. Protect the user's right to information and privacy</h2>     <p>We respect the privacy of our users, and we will not actively collect user information or disclose content that is suspected of violating user privacy without the consent of the user. We do not sell or provide to any third party any username, email address, information, or address that we may have as part of our services without the user's permission. Procyon will not publish or disseminate any of the User's information registered on the Site, with the following exceptions:</p>     <ul>       <li>1. pursuant to a decision or ruling of a court, arbitral body, or other judicial proceeding.</li>       <li>2. as required by the relevant government authority.</li>       <li>3. the user violates the terms of use or has other actions that are detrimental to the interests of the mining leasing platform.</li>       <li>4. Other requirements of relevant laws and regulations.</li>     </ul>     <p>If the user wishes to use the services provided by the Website which require registration, they shall agree to the following: to provide true, correct, current, and complete information about him/herself as prompted by the service registration form of the Website, and to update the registered information from time to time to ensure that it is true, correct, current and complete. If the user provides any false, inaccurate, outdated, or incomplete or misleading information, or if this website has reason to suspect that the aforementioned information is false, inaccurate, outdated or incomplete or misleading, this website has the right to suspend or terminate the users account and refuse the use of all or any part of the services provided by this website, both now and in the future.</p>     <h2>3. Trademark and Domain Name Declarations</h2>     <p>Procyon website (www.procyon.vip) are either registered trademarks or legally licensed trademarks of Procyon in the Republic of Seychelles or other countries and may not be used in any manner without the written authorization of Procyon. The domain name of the website is owned by Procyon. Any use by any entity or individual is prohibited without written authorization from Procyon.</p>     <h2>4. Website links to</h2>     <p>If the user wishes to link to this site, please contact us; links to this site may be made only with the written permission of Procyon. After a link has been established, permission to link may be revoked if, in the reasonable opinion of Procyon, the link is no longer appropriate. When linking to this Site, please be sure to use text links (the use of Procyon graphics and text is prohibited without the written permission of Procyon); links to this Site should be set to appear in a separate window and not within the frame of the linking party's site.</p>     <h2>5. Disclaimer of Liability</h2>     <p>The User understands and agrees that in no event shall the Miner Leasing Platform be liable for the following.</p>     <ul>       <li>(1) Losses on transactions.</li>       <li>(2) Trading profits or contract losses.</li>       <li>(3) Business interruption.</li>       <li>(4) Loss of information.</li>       <li>(5) Damage or loss of data.</li>       <li>(6) The demise or withdrawal of computing power from the market.</li>       <li>(7) Losses due to policy factors.</li>       <li>(8) Losses due to force majeure.</li>     </ul>     <p>Since its inception, Procyon has been committed to serving the mining industry, providing miners with a full range of services, from mining machine procurement, maintenance, mine deployment, and revenue exchange, etc. The Cloud Mining Service has grown from an internal operation to an official operation today. From its inception to its official operation today, Cloud Power Mining Service is based on the investment philosophy of 'rejecting partial distribution of profits and transparent operation of computing power,' and this innovation aims to build the world's best computing power service platform for users. To provide quality, algorithmic trading services to maximize the profits of our supportive friends and clients.</p>     <p>Anyone who logs in or uses (including direct and indirect use) the Procyon website in any way is deemed to have accepted and approved this statement. The contents of this statement are made in accordance with the relevant laws of the Republic of Seychelles, and the contents of this statement will be interpreted and applied in accordance with the relevant laws of the Republic of Seychelles.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "43734c10-b37f-4ab3-a304-3e5a6f1ca1be",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEGAL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Legal",
+		"BatchGet": false
+	}, {
+		"ID": "75402e78-1354-4197-bdb9-7b59a215c4e1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEARN_MORE_AND_PURCHASE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Learn More",
+		"BatchGet": false
+	}, {
+		"ID": "5592a095-79f8-405f-b87f-b1154d3a6ef7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LEARN_MORE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Learn More",
+		"BatchGet": false
+	}, {
+		"ID": "2fd6c533-6056-4cb7-b9f5-2f5cdc2f4b5c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LAST_NAME_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "c44bdc55-ea8c-4283-89cf-d696cfdf03c6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LAST_NAME_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "ca637cd8-747b-4c5f-8594-56511f05e349",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LAST_NAME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Last Name",
+		"BatchGet": false
+	}, {
+		"ID": "05997fa1-58de-4362-9231-98ad9527575e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LAST_24_HOURS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Last 24 hours",
+		"BatchGet": false
+	}, {
+		"ID": "8a9290ca-5442-49ac-8a4e-7976f152d22d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LANGUAGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Language",
+		"BatchGet": false
+	}, {
+		"ID": "fb9fb61f-ebee-45b5-8d15-d2518b20f5a5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_LABEL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Label",
+		"BatchGet": false
+	}, {
+		"ID": "5b1689d3-8b19-4846-a123-4cd7fb57f90d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_KYC_VERIFICATION_STATUS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "KYC Verification Status",
+		"BatchGet": false
+	}, {
+		"ID": "d132db28-4a91-46f4-a5d3-9715b9a6f5b2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_KYC_CONFIRMATION_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Confirm before you submit",
+		"BatchGet": false
+	}, {
+		"ID": "e2908dae-145b-4da3-9193-cca58724cedf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_KYC_CONFIRMATION_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<ul>                         <li>We do not accept scanned documents, <strong>only photos.</strong></li>                         <li>Please be sure to take a photo with your smartphone in good lighting.</li>                         <li>We only accept <strong>JPG/PNG files under 5MB</strong>.</li>                     </ul>",
+		"BatchGet": false
+	}, {
+		"ID": "0332c8b1-0f9e-4357-ba55-17493ff019b3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_KYC",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "KYC",
+		"BatchGet": false
+	}, {
+		"ID": "2f6d555c-275b-400b-9278-8700ae9ef9f6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_JOIN_DATE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Date Joined",
+		"BatchGet": true
+	}, {
+		"ID": "b3b82f7b-5d18-4433-8ba4-a3bb3cc5e619",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_I_UNDERSTAND",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "I understand",
+		"BatchGet": false
+	}, {
+		"ID": "aa8e5a44-91cf-4d60-b0ff-8486e810f164",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IP_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "IP Address",
+		"BatchGet": false
+	}, {
+		"ID": "cc9ac7c3-4dc6-4858-bb0c-9cf10cec4019",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IN_SERVICE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Mining Active",
+		"BatchGet": false
+	}, {
+		"ID": "479ccc7e-c52a-4e97-8920-1f045b927a5e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IN_CARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "ID Card",
+		"BatchGet": false
+	}, {
+		"ID": "9f41901b-bf76-46ac-8363-50e38939d8cc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_INVITATION_CODE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "710118e5-bd4e-4cb5-a89e-06e168259cc2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_INVITATION_CODE_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "inv-code",
+		"BatchGet": false
+	}, {
+		"ID": "55de389d-abbe-4bb7-9865-38828a7667c6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_INVITATION_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Invitation Code",
+		"BatchGet": false
+	}, {
+		"ID": "320fc322-5843-4926-a1c7-3c04336945d6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_INVALID_PAYMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Canceled",
+		"BatchGet": false
+	}, {
+		"ID": "43ff25e3-2cae-40b2-bf21-01726d91f2d9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IMPORTANT_INFORMATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Important Information",
+		"BatchGet": true
+	}, {
+		"ID": "bf22c612-e6ea-43a5-88ee-0472f3d830b4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_VERIFICATION_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Upload a photo ID to verify your identity.",
+		"BatchGet": false
+	}, {
+		"ID": "2a46e404-97a3-4e87-8086-2313e7919414",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_VERIFICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "ID Verification",
+		"BatchGet": false
+	}, {
+		"ID": "b878135f-e862-402d-a9cb-57ab42b862ed",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_FRONT_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Take a photo of the <strong>front side</strong> of your ID (e.g. Passport or Residence Card).",
+		"BatchGet": false
+	}, {
+		"ID": "dd2b5e08-c96f-43dd-92bf-e3e331643cee",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_FRONT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "ID Front",
+		"BatchGet": false
+	}, {
+		"ID": "44ef7668-b429-4d4a-9e7c-7cc1d1bdbb83",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_CARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Driver's License / ID Card",
+		"BatchGet": false
+	}, {
+		"ID": "cc59e81d-778d-48c7-9525-98a58dc28ede",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_BACK_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Take a photo of the <strong>back side</strong> of your ID (e.g. Passport or Residence Card).",
+		"BatchGet": false
+	}, {
+		"ID": "686d2276-eb11-4828-8e62-cc700b3116f6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ID_BACK",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "ID Back",
+		"BatchGet": false
+	}, {
+		"ID": "1bba1791-5fa4-4edc-bdac-65e1bb938ab9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_IDENTIFICATION_DOCUMENTS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Identification Documents",
+		"BatchGet": false
+	}, {
+		"ID": "4e5fa46d-fdb6-4a45-9444-e4f981c53659",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_HOWARD_WU_BACKGROUND",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p class=\"bio\">Former engineer at Google after graduating from Berkeley. Worked in Blockchain at Berkeley (a blockchain accelerator at Berkeley University) and Dekrypt Capital for over 10 years.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "6b6f779d-b742-4eeb-8224-8a74a1f80e24",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_HOMEPAGE_WITH_RIGHT_ARROW",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "{COIN_NAME} Homepage >>",
+		"BatchGet": false
+	}, {
+		"ID": "299f2868-9245-4f03-bc23-6705c89356b5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_HOME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Home",
+		"BatchGet": false
+	}, {
+		"ID": "0b083f1c-902d-4620-ae37-4c97bf5acd63",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_HELP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Help",
+		"BatchGet": false
+	}, {
+		"ID": "05796e5b-296c-486a-9569-733c5c2a5494",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GUIDE_AND_FAQ",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Guide & FAQ",
+		"BatchGet": true
+	}, {
+		"ID": "26bd7801-0cf4-4b63-a456-486307ea04d1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GO_BACK",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Go Back",
+		"BatchGet": false
+	}, {
+		"ID": "a22d052c-24f4-484f-8bf5-1fc5248c1b02",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOTO_SIGNIN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Already have an account? <a href=\"{SIGNIN_PATH}\">Click here to sign in.</ a>",
+		"BatchGet": false
+	}, {
+		"ID": "bbca6eb0-12e9-4e49-a460-38ea7cf61831",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_VERIFICATION_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Google Verification Code",
+		"BatchGet": true
+	}, {
+		"ID": "86bcf0e5-612a-4dfe-a2c2-83c7331f44d2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_VERIFICATION_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "You have choose to verify by google authenticate. Please enter your verification code in your google authenticator.",
+		"BatchGet": false
+	}, {
+		"ID": "f8e4c2d6-ea2e-461b-8e62-7ba993b5b2cf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_VERIFICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Google Verification Code",
+		"BatchGet": false
+	}, {
+		"ID": "285683f0-b233-4434-955d-ece17c00b4e8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_SECRET",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Google Secret",
+		"BatchGet": false
+	}, {
+		"ID": "0ef0d21a-dc0c-4391-afab-98a4b8156b87",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_LOGIN_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Google Login Authentication",
+		"BatchGet": false
+	}, {
+		"ID": "e33e1221-b286-41e0-9a02-9c76881a690a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_AUTHENTICATOR_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please scan the QR code above through the Google Authenticator app on your smartphone.<br /> After scanning and connecting the app to your Procyon account, click the \"next step\" button below on this page to enter the verification code shown in your Google Authenticator app to finish verifying your Google Authenticator app.<br /> If you are unable to scan the QR code above on your Google Authenticator app, please follow the steps below:<br /> 1. Open your Google Authenticator app on your smartphone<br /> 2. Choose \"Enter a setup key\" at the bottom right of the screen<br /> 3. Set the \"Account Name\" as, for example, [Procyon: example{'@'}gmail.com]<br /> 4. Copy the Google Secret above and click \"Add.\"",
+		"BatchGet": false
+	}, {
+		"ID": "fe1f21ff-dd2e-4687-8dd7-d5cc4c8f200f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_AUTHENTICATOR",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Google Authenticator",
+		"BatchGet": false
+	}, {
+		"ID": "3e7c4ef2-37cf-4733-8dfc-d53258340167",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GOOGLE_AUTHENTICATE_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Two-factor Authentication (2FA) secures your account by adding a second security check when logging in and making transfers.",
+		"BatchGet": false
+	}, {
+		"ID": "82e583bd-293f-496e-8d90-042f6565975f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GITHUB",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Github",
+		"BatchGet": false
+	}, {
+		"ID": "062ddcea-6e70-42c1-a0a7-2a90f6016243",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_WITHDRAW_ACCOUNTS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get withdraw accounts",
+		"BatchGet": true
+	}, {
+		"ID": "a8529319-324b-4947-adfc-fa8eeeedf8f3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_WITHDRAWS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get withdraws",
+		"BatchGet": true
+	}, {
+		"ID": "9d20edc3-257a-4e7a-99dd-cea31a404780",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_WITHDRAWS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get withdraws",
+		"BatchGet": true
+	}, {
+		"ID": "146af946-facd-4c1f-9dc1-7f92284fba98",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_TRANSACTIONS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get transactions",
+		"BatchGet": true
+	}, {
+		"ID": "7c5d663e-d76b-40fb-9f7a-b1d01d3bd184",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_TRANSACTIONS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get transactions",
+		"BatchGet": true
+	}, {
+		"ID": "ea45c7b5-249a-4bd7-9d13-d10287c109de",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_SPACEMESH_NETWORK_INFOS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "919c10bf-4038-460b-977a-7a1f88ada7c8",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_SPACEMESH_NETWORKS_INFO_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get spacemesh networks info",
+		"BatchGet": false
+	}, {
+		"ID": "4084f8d9-6a82-463e-9c9f-bf4cbd5536ac",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_SPACEMESH_NETWORKS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get spacemesh networks",
+		"BatchGet": false
+	}, {
+		"ID": "aaf933a5-37b7-4f3f-9443-3970aa1751b2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_SPACEMESH_NETWORKS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "cb2af1e7-fea2-4afb-b434-ad5bb1eb87ab",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_REFERRALS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get referrals",
+		"BatchGet": true
+	}, {
+		"ID": "2aa1ec46-26c5-416e-9446-bc2b9ed27a34",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_RECOMMENDS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get recommends",
+		"BatchGet": true
+	}, {
+		"ID": "4a397bdd-4217-4a1f-8548-203644bb4ad0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_PROMOTIONS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get good promotions",
+		"BatchGet": true
+	}, {
+		"ID": "d31fd5be-de1a-463e-92dd-f429041a60de",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_ORDER_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get order",
+		"BatchGet": true
+	}, {
+		"ID": "1226ed7e-6bd9-4123-9fb2-bc73b43a6e06",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_ORDERS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get orders",
+		"BatchGet": true
+	}, {
+		"ID": "214ae3aa-26dd-47e2-ab75-ab7ee109b3d3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_ORDERS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get orders",
+		"BatchGet": true
+	}, {
+		"ID": "74fd53f5-ab59-40ba-bbd7-cce2beaca038",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_ORDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get order",
+		"BatchGet": true
+	}, {
+		"ID": "ca6697ad-ff46-4858-9bf8-7cee8e967134",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_LOGIN_HISTORIES_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get login history",
+		"BatchGet": true
+	}, {
+		"ID": "a31fc957-0e73-43a8-84af-4ab2e998ea82",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_LANG_MESSAGES_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get frontend messages",
+		"BatchGet": true
+	}, {
+		"ID": "92ea8a98-50ea-4888-919a-7e30470a9a87",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_LANG_MESSAGES",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get frontend messages",
+		"BatchGet": true
+	}, {
+		"ID": "eafc3d1f-1aa8-453d-a5fe-d2491fad139d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_LANGS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get langs",
+		"BatchGet": true
+	}, {
+		"ID": "c310fe60-4cee-4c02-b8b4-04754b348ee2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_LANGS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get langs",
+		"BatchGet": true
+	}, {
+		"ID": "fcedc547-a86d-4f69-8c4c-52e541e7dccc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_KYC_HANDING_IMAGE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get kyc handing image",
+		"BatchGet": true
+	}, {
+		"ID": "08141d22-ae6a-4581-93d1-d57bc8311a3c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_KYC_FRONT_IMAGE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get kyc front image",
+		"BatchGet": true
+	}, {
+		"ID": "f035d680-813c-4068-bf6f-3c46829e6fd1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_KYC_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get kyc",
+		"BatchGet": true
+	}, {
+		"ID": "b34c0fac-5120-45fb-b7a5-f045c15842c5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_KYCS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get kycs",
+		"BatchGet": false
+	}, {
+		"ID": "29ea905d-66e1-4630-ada5-96e34606c4d6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_INVITATION_CODE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get invitation code",
+		"BatchGet": true
+	}, {
+		"ID": "5a7f481d-5661-4960-b0f4-7c4f9e0ceaea",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOOGLE_TOKEN_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get google token",
+		"BatchGet": true
+	}, {
+		"ID": "58d37af1-bd9c-4635-bdc5-2aa0a0198ea5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOOGLE_TOKEN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get google token",
+		"BatchGet": true
+	}, {
+		"ID": "b181fcab-3d68-4c81-81f0-1ead9060599b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOOD_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get good",
+		"BatchGet": true
+	}, {
+		"ID": "475da928-4e7b-4935-84bd-2485bfe18ab9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOODS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get goods",
+		"BatchGet": true
+	}, {
+		"ID": "830dbe59-b443-4891-984a-5441458477cd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOODS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get goods",
+		"BatchGet": true
+	}, {
+		"ID": "1cca6ea9-30fe-495f-8884-88c241df1449",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_GOOD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get good",
+		"BatchGet": true
+	}, {
+		"ID": "71aa4181-9b6a-4937-b6bf-3412d2633502",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_CURRENCIES_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get currencies",
+		"BatchGet": true
+	}, {
+		"ID": "2efbb7a0-9477-416b-be52-1ef04b8e458d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_CURRENCIES",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get currencies",
+		"BatchGet": true
+	}, {
+		"ID": "3e3992b6-9b77-470b-820c-e637e9409bde",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COUNTRIES_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get country code",
+		"BatchGet": true
+	}, {
+		"ID": "2428fa09-5026-4b02-be15-0eddf13253b6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COUNTRIES_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get country code",
+		"BatchGet": true
+	}, {
+		"ID": "c0dd6f71-d5c9-401c-8716-5b930d06caa0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COMMISSION_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get commission",
+		"BatchGet": true
+	}, {
+		"ID": "83ca8aa1-f76b-4050-a50f-13e81afc3e5e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COIN_DESCRIPTION_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get coin description",
+		"BatchGet": true
+	}, {
+		"ID": "c57c3b37-edf2-4f6f-8882-ab8c08c5a359",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COIN_DESCRIPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get coin description",
+		"BatchGet": true
+	}, {
+		"ID": "d4e06201-6e1d-4cec-8317-b1d96fd772ef",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COINS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get coins",
+		"BatchGet": true
+	}, {
+		"ID": "4ca10eee-2628-48df-af30-4925dfb67374",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_COINS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get coins",
+		"BatchGet": true
+	}, {
+		"ID": "c6fe39aa-9572-4fd1-b98c-53c92f5c0f84",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_BENEFITS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get benefits",
+		"BatchGet": true
+	}, {
+		"ID": "8573930c-e5ff-4614-99aa-6608b0dd67a7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_BENEFITS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Get benefits",
+		"BatchGet": true
+	}, {
+		"ID": "c9b21c5b-3847-4767-b138-e092e7f4c9db",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_APP_GOODS_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get app goods",
+		"BatchGet": true
+	}, {
+		"ID": "443b7610-60da-4804-876a-673acc75e560",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GET_APP_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to get app",
+		"BatchGet": true
+	}, {
+		"ID": "e6826e6b-f64c-4597-8e4a-7daa75c48068",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_GENDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Gender",
+		"BatchGet": false
+	}, {
+		"ID": "7be4dbc8-7a6f-4ed0-9cea-1a176dfe9a82",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FORGOT_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Forgot password",
+		"BatchGet": false
+	}, {
+		"ID": "5178ba6d-9f5e-43ef-bd16-c6cef6cc2034",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FIRST_NAME_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "7c0e684c-dad6-495f-af44-84e17556d18a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FIRST_NAME_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "57e3ff40-1018-4682-9fcb-25071552a81c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FIRST_NAME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "First Name",
+		"BatchGet": false
+	}, {
+		"ID": "a75b8947-3ceb-4c5f-97dd-9115dbc519d7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FAQ_SUPPORT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<div id='hero'>         <h1>Support &amp; FAQ</h1>         <h2>If you do not see your question below, please <a href=\"#/contact\">contact us</a>.</h2>         <h2>Or connect with Procyon on LINE <a class='line-account' href='https://lin.ee/g4JEj66'><img src='https://scdn.line-apps.com/n/line_add_friends/btn/ja.png' alt='友だち追加' height='36' border='0'></a></h2>       </div>       <h2>The Procyon Platform</h2>       <h3>I looked up your company on Google, but nothing came up. Is PRCN Technology Ltd. a company set up just for this platform? Are you backed by any large capital investors?</h3>       <p>As with the whole cryptocurrency industry, PRCN Technology is a relatively new venture. We understand if you feel that such a new field of investment deserves scrutiny. However, please know that our team has over a decade of collective industry experience in blockchain and cryptocurrency technologies.</p>       <h3>I see that the company is registered offshore in Seychelles, Africa. Is this for tax incentive purposes?</h3>       <p>As you may know, some countries are more friendly than others to the new industry of cryptocurrencies and blockchain. Seychelles was selected for its crypto-friendly policies.</p>       <h3>Where are Procyon’s mining servers located?</h3>       <p>Currently, our mining servers are located in Hong Kong.</p>       <h3>What happens in the event of a flood or blackout in Hong Kong? Will my mining machine be okay?</h3>       <p>Hong Kong has one of the best electricity reliability rankings in the world, <a href='https://www.hkelectric.com/en/our-operations/supply-reliability' target='_blank'>as you can see from the official Hong Kong Electric website</a>.</p>       <h3>In case the server is damaged by a natural disaster, or is subject to robbery, Procyon is responsible for compensation, right?</h3>       <p>As indicated in Clause 6.7 of our entrustment agreement, Party A cannot be responsible for natural disasters such as a typhoon. As for Party A's responsibility to prevent robbery, that is part of our duty to our customers.</p>       <h3>What is the \"Technical Service Fee?\"</h3>       <p>The technical service fee covers the maintenance and operation costs of your mining machine, and is deducted from your daily mining rewards.</p>       <h3>Does Procyon have a mobile app?</h3>       <p>We plan to launch an official mobile app for our platform in the future, but will first launch on our browser-based website.</p>       <h2>Platform Functions and Troubleshooting</h2>       <h3>Does the platform include some sort of wallet function as well? Do I need to open an account?</h3>       <p>Yes. All of your mining rewards will be deposited directly into your Procyon wallet, which is unique to you and automatically created when you register an account on our platform.</p>       <h3>How do I sell my mining rewards or convert them into other currencies?</h3>       <p>Mining rewards will be distributed to your Procyon account's wallet, which you can then transfer to the wallet of the cryptocurrency exchange of your choice and freely trade or sell them however you wish.</p>       <h3>What happens if I have a Google Authenticator linked to my account, but I lose my phone?</h3>       <p>We strongly recommend all users to save their Google backup codes in a safe location offline (such as on a piece of paper) so that the account can be recovered in the event that their phone is lost or stolen. If you cannot access your Google Authenticator, please <a href='#/contact'>contact us</a> and we will help you through the process of unbinding your Google Authenticator from your account.</p>       <h2>Payments, Contracts, and Receipts</h2>       <h3>When does my contract period officially begin? From the date I signed it?</h3>       <p>Your contract period begins from the date your machine begins mining.</p>       <h3>My contract and receipt show the payment amount in USDT, but I paid with BTC. Why is this?</h3>       <p>Due to the daily price fluctuation of BTC and other cryptocurrencies, our sales partners convert payments to USDT (also known as Tether) — a stablecoin whose price is fixed to the US Dollar and does not fluctuate. This is to maintain stability and accuracy for our customers' payments. For any specific inquiries about your payment amount, please <a href='#/contact'>contact us</a></p>       <h3>I see the term \"TiB\" written in my contract, but I don't quite understand what that means.</h3>       <p>TiB stands for Terabyte, a unit used to measure computer hard disk storage space. For cryptocurrencies mined via hard disk space, such as Spacemesh, the storage power (also known as hash power for non-storaged based cryptocurrency mining) is measured in units of TiB.</p>       <h3>I don’t know much about digital currencies. Can you explain how Japanese tax law works regarding Digital Assets?</h3>       <p>For a detailed breakdown on Japanese Digital Currency Tax Law, please <a href='https://www.freee.co.jp/kb/kb-kakuteishinkoku/virtual_currency_tax/' target='_blank'>refer to the information provided here</a>.</p>       <h2>Spacemesh &amp; Spacemesh Mining</h2>       <h3>What is Spacemesh?</h3>       <p>Spacemesh is an open-source programmable cryptocurrency platform powered by a novel proof-of-space-time (PoST) consensus protocol. Spacemesh does not use proof-of-stake (PoS) or proof-of-work (PoW) protocols, thus it avoids some of their inherent issues, such as massive energy waste and centralization of mining power.</p>       <p>Spacemesh is designed to achieve three main objectives:</p>       <ul>         <li>Create and maintain the ledger for the Spacemesh coin (SMH). Spacemesh is a fair cryptocurrency and a global means of payment.</li>         <li>Ensure fair, wide distribution of SMH.</li>         <li>Establish a global programmable infrastructure for tokenized apps, communities and economies.</li>       </ul>       <h3>Who is building Spacemesh?</h3>       <p>Spacemesh was created by a top-class team of leaders and developers with decades of experience in startups, blockchain, and venture captial investing.</p>       <p>The co-founders, Tomer Afek and Aviv Eyal, have founded numerous startup ventures which went on to be acquired by the likes of Sony and Taboola.</p>       <h3>Who is backing Spacemesh?</h3>       <p>In September 2018, Spacemesh concluded a massive $18.5 million investment round led by Polychain Capital, with another round raising $4 million, bringing the total fundraising amount to over $22.5 million.</p>       <p>Other notable Spacemesh backer, Paradigm capital, has previously invested in hugely successful startups and large organizations, such as Uniswap, Coinbase, and Amber Group (leading crypto asset management firm).</p>       <p>Since 2012, Coinbase Ventures, a VC arm under Coinbase, and as of March 2021 is considered the largest exchange in the U.S by trading volume and 3rd largest worldwide.</p>       <p>Furthermore, in an unprecedented announcement on June 12th, 2020, Japanese mobile game and venture capital giant gumi Inc., through its blockchain-focused subsidiary gumi Cryptos Capital, unveiled their partnership with Spacemesh’s parent company, Unruly Technologies Ltd., to assist with market entry in Japan.</p>       <h3>When will the Spacemesh network officially launch?</h3>       <p>At the moment, the Spacemesh mainnet launch is scheduled for early 2022, but no specific date has been decided as of yet. We will notify all registered users of any updates regarding the Spacemesh mainnet launch as soon as new information becomes available.</p>       <h3>When will I start receiving Spacemesh mining rewards?</h3>       <p>If you purchased TB from the exclusive first mining batch, you will begin receiving rewards the day the Spacemesh main network launches.</p>       <h3>On which exchanges will Spacemesh be listed?</h3>       <p>SMH is certain to be on Coinbase as Coinbase directly invested in the project. It will also definitely be listed on Huobi and OKEx, and is very likely to be listed on Binance as well.</p>       <h2>Mining &amp; General Cryptocurrency Information</h2>       <h3>What is mining?</h3>       <p>'Mining' is the term used to describe how cryptocurrencies are produced. In order to \"mine\" a cryptocurrency, computers must solve complex mathematicl equations and if successful, the operators of the computers (also known as mining machines) are given cryptocurrency as a reward.</p>       <p>Much like mining for gold, it takes effort to procure (in the case of cryptocurrencies, computing power or hard disk space), there is a finite supply, and the more that is mined, or the more people attempt to mine it at the same time, the more difficult it is to mine more (this is known as Mining Difficulty, explained below).</p>       <h3>What is a mining pool?</h3>       <p>A 'mining pool' is a large-scale cryptocurrency mining operation that combines a large number of mining machines together to increase their probability of finding a 'block' on the blockchain and thus gaining cryptocurrencies as a reward (explained below).</p>       <h3>What is a Block?</h3>       <p>A block is like a page in a bank transaction ledger, which records all past and present transactions on a blockchain and can not be changed. Computers around the world are constantly recording these transactions, and when a block is completed, rewards are given out as an incentive for miners to continue validating the blockchain.</p>       <p>The more computing power you have, the greater your chances of gaining block rewards become.</p>       <h3>What is Mining Difficulty?</h3>       <p>Mining Difficulty refers to the rate at which cryptocurrencies can be mined. Much like mining for gold in the real world, the more miners, the greater the total network-wide hash power, the higher the mining difficulty, and the lower the mining output per miner. The total mineable supply is fixed, so the more hash power that flows into mining, the less mining output is released per unit (TB) of hash power. The mining output of the first-batch mining is usually much greater in comparison to regular mining as a result.</p>       <h3>What is a cryptocurrency wallet? What is a cold wallet? What is the difference?</h3>       <p>A cryptocurrency 'wallet' is where your digital currencies are kept, much in the same way you keep fiat currency cash in your wallet in your pocket. Normal online wallets, known as 'hot' wallets, store your cryptocurrencies online. 'Cold' wallets, or hardware wallets, are physical devices that store your cryptocurrencies offline. Though more secure than online 'hot' wallets, if a 'cold' wallet is damaged or lost, the digital assets inside are lost forever.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "bb2f8e3f-88a2-4574-83e6-40c9e92ccda9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FAQ",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "FAQs",
+		"BatchGet": false
+	}, {
+		"ID": "84c1b7e7-d3ef-4640-ad71-5dbf9647e553",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_FAMALE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Female",
+		"BatchGet": false
+	}, {
+		"ID": "66ce0dad-3c27-4d3e-bcd2-0cec47cb329b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EXPORT_ORDER_CSV",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Export Order History (CSV)",
+		"BatchGet": false
+	}, {
+		"ID": "5617fa06-c98e-4c38-a9fc-c0f21e06bc8b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EXPORT_DAILY_OUTPUT_CSV",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Export Daily Output (CSV)",
+		"BatchGet": false
+	}, {
+		"ID": "3bbf0b27-070f-4381-9833-0c760e97f714",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ENABLE_2FA_AUTH",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Enable Two-Factor Auth",
+		"BatchGet": false
+	}, {
+		"ID": "34c9f4d2-39ee-4cf5-9536-b63a75e2fd58",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_VERIFICATION_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "E-mail Verification Code",
+		"BatchGet": false
+	}, {
+		"ID": "0e09423a-aff3-4392-9f62-ae252645620d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_VERIFICATION_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter the verification code we sent to your email",
+		"BatchGet": false
+	}, {
+		"ID": "04b1834a-4189-4003-8fa1-78b0efda58ce",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_VERIFICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Email Verification",
+		"BatchGet": false
+	}, {
+		"ID": "60eb4dc6-6581-45bc-bafa-43d1b12aabb3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please fill email address",
+		"BatchGet": true
+	}, {
+		"ID": "2d98e819-37c2-4013-9552-e416b5410633",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "email",
+		"BatchGet": false
+	}, {
+		"ID": "e6f1d925-fe55-400f-aea0-58feeec2ed92",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_LOGIN_AUTHENTICATION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "E-mail Login Verification",
+		"BatchGet": false
+	}, {
+		"ID": "383fa12b-1e0d-4e83-96ab-bf21b6430a4b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EMAIL_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "E-mail Address",
+		"BatchGet": false
+	}, {
+		"ID": "98d41676-9d42-4acf-93a0-24c3116bcacb",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_EARNINGS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Earnings",
+		"BatchGet": false
+	}, {
+		"ID": "500481bb-30f2-49a1-a3b7-bfd39de43d14",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DREAM_TEAM_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Dream Team",
+		"BatchGet": false
+	}, {
+		"ID": "fad4f4a6-535a-4240-b9d8-57e7df24772c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DREAM_TEAM",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Procyon’s founders have over 10 years of cryptocurrency market experience with a track record that includes investment projects with average ROI of over 100x. Our tech team has over 5 years of experience managing assets totalling over 160 million USD. Our Japan-based team provides exceptional, localized, and reliable customer service within 24 hours.",
+		"BatchGet": false
+	}, {
+		"ID": "600dded1-4c5d-493b-8158-aca1fdeffd58",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DOCUMENT_TYPE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Document Type",
+		"BatchGet": false
+	}, {
+		"ID": "5239bd01-ee77-4d38-82ca-084aee26d8d0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DISCORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Discord",
+		"BatchGet": false
+	}, {
+		"ID": "175df659-f31b-48b6-b980-bb182d22c1c4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DIRECT_AFFILIATES",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Direct Referrals",
+		"BatchGet": true
+	}, {
+		"ID": "8290a8c7-a01a-4a66-b3aa-c19ffe6afafa",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DELETE_WITHDRAW_ACCOUNT_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to delete withdraw account",
+		"BatchGet": true
+	}, {
+		"ID": "56584ddc-3a69-408e-ab2c-891abc8808da",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DAYS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "days",
+		"BatchGet": false
+	}, {
+		"ID": "c5f56be7-fd7d-4cc1-a68c-e0138ca09ddd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DAY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " day",
+		"BatchGet": false
+	}, {
+		"ID": "df1a9d5d-ea08-4f41-aecb-f594a1e32def",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DATE_ADDED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Date Added",
+		"BatchGet": false
+	}, {
+		"ID": "19542e96-9af1-411e-b07d-8fec94a21614",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DATE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Date",
+		"BatchGet": false
+	}, {
+		"ID": "ffaf8980-02a2-4064-9824-1a9a3a716a86",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DASHBOARD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Dashboard",
+		"BatchGet": false
+	}, {
+		"ID": "894d18ce-a33e-4165-8518-a77c739ca6df",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DAILY_REWARD_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Daily mining rewards are calculated based on the average of the previous 24 hours. Prior to mining start the rewards cannot be calculated so you will an * instead.",
+		"BatchGet": false
+	}, {
+		"ID": "a343d88e-98d4-4633-b8b0-aae9d641f06b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_DAILY_MINING_REWARDS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Daily Mining Rewards",
+		"BatchGet": false
+	}, {
+		"ID": "b8e0f9de-ea77-4452-a29e-0a811ff0d720",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CURRENT_BALANCE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Current Balance",
+		"BatchGet": false
+	}, {
+		"ID": "d4ba6a13-af6c-40e6-9a45-a4e865771b77",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_PAYMENT_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to create payment",
+		"BatchGet": true
+	}, {
+		"ID": "e520cc74-5835-4f7e-8417-b59e5ac707bc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_PAYMENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Create payment",
+		"BatchGet": true
+	}, {
+		"ID": "a6991db2-5361-4e28-b4d1-eca0d41525bf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_ORDER_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to create order",
+		"BatchGet": true
+	}, {
+		"ID": "64a31024-0dcf-409a-a6ee-4687c6a02996",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_ORDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Create order",
+		"BatchGet": true
+	}, {
+		"ID": "1678b099-e5f3-43e3-8da0-a5605047689f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_KYC_SUCCESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Succeed to create kyc",
+		"BatchGet": false
+	}, {
+		"ID": "0d1ad611-d728-439c-88ff-afd169ac774f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_KYC_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to create kyc",
+		"BatchGet": true
+	}, {
+		"ID": "763031d1-1597-4440-a3d3-c4dddedec7ec",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_EXTRA_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to create user extra",
+		"BatchGet": true
+	}, {
+		"ID": "dad62235-dcb8-4c48-9e93-352cb2b0605d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CREATE_EXTRA",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Create user extra",
+		"BatchGet": true
+	}, {
+		"ID": "2f73e625-8cd9-437a-829d-81804b30f48d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CO_FOUNDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Co-founder",
+		"BatchGet": false
+	}, {
+		"ID": "cd65b297-11cf-4213-8009-0a669fe9bdbf",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COUNTRY_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": true
+	}, {
+		"ID": "293e5660-4ddf-49ec-8dc0-306b60de255d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COUNTRY_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "3d86d63d-026e-471c-8ad8-e3c8b1f64f42",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COUNTRY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Country",
+		"BatchGet": false
+	}, {
+		"ID": "fe1fbad1-6550-47dc-b9c4-d4f9b9578de4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COPY_CODE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Copy Code",
+		"BatchGet": true
+	}, {
+		"ID": "ba5c2b61-cec3-497a-b3a4-c8037f0750f0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COPY_AMOUNT_SUCCESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "0a8875c2-f9ec-4e0a-85d1-4655e42dd798",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COPY_ADDRESS_SUCCESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "926342bb-ff4e-477d-b07d-699ca1e92936",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTINUE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "NEXT STEP",
+		"BatchGet": false
+	}, {
+		"ID": "b2d66fc8-4718-495d-9ec9-d65a48ab07fa",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_VIA_LINE_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Feel free to contact us with questions about our platform, support issues, or just to say hi. We look forward to hearing from you!",
+		"BatchGet": false
+	}, {
+		"ID": "6fcb29e9-775c-403f-bd39-ff624e07da97",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_VIA_LINE_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "To scan the QR code below, open <strong>LINE</strong> on your phone and tap the <strong>'Add Friends'</strong> icon. Then select <strong>'QR code'</strong> at the top.",
+		"BatchGet": false
+	}, {
+		"ID": "ba5c0bf2-3221-4b74-8716-f7242168d0b2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_VIA_LINE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Contact Procyon via LINE",
+		"BatchGet": false
+	}, {
+		"ID": "b25a8e97-133e-4789-8c73-e0af94d53cac",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_VIA_EMAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Contact Procyon via Email",
+		"BatchGet": false
+	}, {
+		"ID": "51753467-4203-4c1d-b1e7-cfed228339e1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_SUPPORT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "CONTACT PROCYON SUPPORT",
+		"BatchGet": false
+	}, {
+		"ID": "aef06c6b-49e1-4d25-82a8-8e5a8b51bd05",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_SIGNATURE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "—Procyon Support Team",
+		"BatchGet": false
+	}, {
+		"ID": "67674bbf-49d8-4366-98a9-7882d58373db",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT_NAME",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Name",
+		"BatchGet": false
+	}, {
+		"ID": "f12fb55a-3f06-443e-b14b-d60d95cb7147",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONTACT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Contact",
+		"BatchGet": false
+	}, {
+		"ID": "020595e1-3645-442a-a37e-573e4f9b9b23",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONFIRM_PASSWORD_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please enter a password 8-20 alphanumeric characters",
+		"BatchGet": true
+	}, {
+		"ID": "eea09b47-1c4c-4e11-9e89-cda073a65a51",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CONFIRM_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Confirm Password",
+		"BatchGet": false
+	}, {
+		"ID": "5f550b5c-3609-47cc-86dd-592cb88471ea",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COMPRESS_IMAGE_FAIL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Failed to compress image",
+		"BatchGet": true
+	}, {
+		"ID": "45c31424-f6d8-404c-b16a-50944aa17a58",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COMPLETE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Completed",
+		"BatchGet": true
+	}, {
+		"ID": "5e2200d3-6327-4e49-b67d-acd905c44ed1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COMMISSION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Commission Balance",
+		"BatchGet": true
+	}, {
+		"ID": "049c306b-4d40-40d0-98e6-109ff1643287",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_COLLIN_CHIN_BACKGROUND",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p class=\"bio\">Interned as a smart contract developer at ConsenSys while at Berkeley. Worked as a technical advisor and security consultant at Blockchain at Berkeley and Argus.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "31062f2c-6db6-4505-a962-16738a76fbfa",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CLOSE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "CLOSE",
+		"BatchGet": false
+	}, {
+		"ID": "1d2c4cce-68f0-4ae4-abcc-fd3f4b3f4ea9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CITY_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "c2c36849-82e4-4974-be48-c096c1ae161d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CITY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "City",
+		"BatchGet": false
+	}, {
+		"ID": "249140ff-3132-4ccc-a7b7-1a42f0847601",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CHANGE_PASSWORD_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Your password must be at least 8 characters in length and must include numbers and letters.",
+		"BatchGet": false
+	}, {
+		"ID": "95d12e16-56e7-475f-b36d-e05456e2084e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CHANGE_PASSWORD",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Change Password",
+		"BatchGet": false
+	}, {
+		"ID": "239deb94-1f97-417b-8abd-1e12d07d5d91",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CFO",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "CFO",
+		"BatchGet": false
+	}, {
+		"ID": "a451314a-29ce-4563-b61a-2450a675ce1b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CAUTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Caution",
+		"BatchGet": false
+	}, {
+		"ID": "7d9e45a3-dca7-40b2-8a19-4dd1c834739f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CAPACITY",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Capacity",
+		"BatchGet": false
+	}, {
+		"ID": "1f55345a-975e-4d6d-bbac-940b1295744b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CANCEL_ORDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Cancel Order",
+		"BatchGet": false
+	}, {
+		"ID": "d6d8a2a0-67d5-4ee2-94b8-d143c02cc8d1",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CANCELED_BY_TIMEOUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Canceled",
+		"BatchGet": false
+	}, {
+		"ID": "51a143d5-b602-46ec-b782-3c28e3cbbd0d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_CANCEL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Cancel",
+		"BatchGet": true
+	}, {
+		"ID": "12b5640f-e6d1-4805-a99b-c3dd3d576877",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_BLOG",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Blog",
+		"BatchGet": false
+	}, {
+		"ID": "9fcd7d53-97e8-4c9c-bbcb-8c59eb75c19f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_BLOCKCHAIN",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Blockchain:",
+		"BatchGet": false
+	}, {
+		"ID": "25e61201-23ba-4bb2-be71-5c0814ed6af5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_BIG_PICTURE_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "The Big Picture",
+		"BatchGet": false
+	}, {
+		"ID": "4006075b-cefe-4e0f-bf57-97110949bf90",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_BIG_PICTURE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "The market flows from R&amp;D to VC funds to Miners to Exchanges and is finally distributed to general investors. At Procyon we aim to find opportunities that are usually only available to institutional investors and make them equally accessible to individual investors. Join our exclusive community of wealth generation!",
+		"BatchGet": false
+	}, {
+		"ID": "0861763b-ba29-4527-895b-76e2f5598fde",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_BALANCE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Balance",
+		"BatchGet": false
+	}, {
+		"ID": "83f2b559-1f7b-4e4b-b809-51f216872672",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AVAILABLE_FOR_WITHDRAWAL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Available for Withdrawal",
+		"BatchGet": true
+	}, {
+		"ID": "c60f3558-3822-4117-b1aa-ef004058bb4a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ASSET_WITHDRAWAL",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Asset Withdrawal",
+		"BatchGet": true
+	}, {
+		"ID": "dfa023c2-5295-47c4-97f8-bb5a051aad4d",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ASSETS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Assets",
+		"BatchGet": false
+	}, {
+		"ID": "da4cd09d-209d-4e06-b743-372f909d5c60",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_APPROVED_ADDRESSES",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "APPROVED ADDRESSES",
+		"BatchGet": false
+	}, {
+		"ID": "8902121e-b5e3-4852-a602-47b953ce077f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_WILL_RECEIVE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Ammount You Will Receive",
+		"BatchGet": false
+	}, {
+		"ID": "3330d8db-85f8-4bdb-a00b-dad6079a1055",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_TO_WITHDRAW",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Amount to Withdraw",
+		"BatchGet": true
+	}, {
+		"ID": "8c89e37e-a3b5-478c-a15f-21537d0d79e4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "09cdb9b8-9147-4b27-91c7-e986c1e3189c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "5efa633e-4c33-4230-9fa2-3f8afd5122f5",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_DUE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Amount Due",
+		"BatchGet": true
+	}, {
+		"ID": "a0f835e2-e189-413a-af4d-36f8806c63df",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT_COPIED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Amount copied",
+		"BatchGet": false
+	}, {
+		"ID": "2626c4ca-4b9f-497f-86f3-f90232bbfe0b",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AMOUNT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Amount",
+		"BatchGet": false
+	}, {
+		"ID": "c2d50b8a-feba-4235-aeb6-664c72d1f432",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_VS_COMPETITORS_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Aleo has the potential to be the next Ethereum or Solana through its Layer 1 technology. Long-term development is expected as privacy protection grows over the next 10 years. Aleo is intended to be used for privacy protection of information of all applications, allowing it to be implemented in various cases.</p> ",
+		"BatchGet": false
+	}, {
+		"ID": "3082e9bb-9a38-42ce-b5ff-05a71395da74",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_VS_COMPETITORS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo vs Competitors",
+		"BatchGet": false
+	}, {
+		"ID": "42182961-e1bc-4817-8a80-1893aaac6008",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_UNIT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Unit",
+		"BatchGet": false
+	}, {
+		"ID": "3f78c161-524f-4070-95a9-ec9397842550",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_TOKENOMICS_COINGENIUS_NEWS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Tokenomics Aleo (coingenius.news)",
+		"BatchGet": false
+	}, {
+		"ID": "d4e51abb-1b72-4912-8b0a-3de1ad6cf336",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_TOKENOMICS_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Aleo's tokenonomics are engineered to align incentives across all stakeholders in a simple way that serves and benefits the Aleo network. To achieve this, Aleo has the following objectives:</p> <ul>     <li>Ensure the token maintains meaningful value</li>     <li>Incentivize all participants to contribute to network security</li>     <li>Prevent incentives from leading to dishonest behavior</li>     <li>Build an ecosystem of useful applications</li>     <li>Foster decentralization</li> </ul> <p>To that end, Aleo plans to start mining rewards at 100 Aleo credits per block, which they estimate would result in about 160 million Aleo mined per year, for the first 3 years. As shown in the chart above, the rewards will halve in the fourth year, then again in the seventh year, and they will halve for the final time in the tenth year of the blockchain’s existence.</p> <p>Along with an initial supply of 1 billion Aleo generated at the start of the blockchain, this would mean that the supply should level off around 2 billion Aleo. Although this means there is no hard cap on the Aleo supply, the ‘tail emissions’ beyond the first decade are a healthy small amount of token inflation, according to the Aleo team.</p> <p>For first-batch miners this means that in the first 3 years Aleo mining will generate the most rewards. Combined with the common trend that new tokens tend to start at a high valuation and gradually decline, first-batch mining should prove to be most rewarding.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "ea96f004-77c7-4416-acfd-ebd569e6d81f",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_TOKENOMICS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo Tokenomics",
+		"BatchGet": false
+	}, {
+		"ID": "1ed8c2e9-4f8d-4e9b-ba1e-3c693b9af517",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_TEAM_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Aleo is built by a stellar team! The company was officially launched in 2019 by Howard Wu, Michael Beller, Collin Chin and Raymond Chu. Aleo’s team contains the world's top cryptographers, engineers, designers and operators from companies such as Google, Amazon and Facebook, as well as from research universities such as UC Berkeley, Johns Hopkins, New York University and Cornell University.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "2758f93a-7ee6-4995-8d95-dd93e6e99ebe",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_TEAM",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo Team",
+		"BatchGet": false
+	}, {
+		"ID": "c83e1d72-3bf4-456e-9378-2ebaa2b5d93e",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_PURCHASE_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo is the first platform to offer fully private applications by leveraging decentralized systems and zero-knowledge cryptography to protect user data on the web.",
+		"BatchGet": false
+	}, {
+		"ID": "e8c6cb1c-301d-4577-ac50-ccd8dad930c0",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_PRODUCT_DETAIL_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Why did we choose Aleo?",
+		"BatchGet": false
+	}, {
+		"ID": "eff94a40-b5fa-4af9-b74c-437a5a07b7ea",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_PRODUCT_DETAIL_CONTENT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Aleo is the first platform to offer fully private applications. Aleo achieves privacy by leveraging decentralized systems and zero-knowledge cryptography to protect user data on the web.</p> <p>Using zero-knowledge cryptography, Aleo moves smart contract execution off-chain to enable a diverse range of decentralized applications that are both entirely private and can scale to tens of thousands of transactions per second. Built on an open, public blockchain; Aleo brings all the flexibility of Ethereum but with a more scalable architecture in which miners don’t need to re-run every transaction, but simply verify their correctness.</p> <h4>Think Filecoin, but in the New Age of Web3</h4> <p>Aleo has raised $200 million in a Series B funding round, and its pre-listed valuation is now at $1.45 billion. The funding stands as the largest fundraising round ever in the zero-knowledge industry.</p> <p>As of April 2022, the total funding of Aleo is over $228 million. Competitive to Filecoin’s $257 million, which breaks a new all-time record for funding.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "b21c60a8-ac80-4006-9431-e2696b2c70d3",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_HOMEPAGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo Homepage",
+		"BatchGet": false
+	}, {
+		"ID": "12c74cfe-b04c-40ba-85cf-70b7ff2c0082",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_FUTURE_CAPTION_2",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Due to Aleo’s competitive attributes and the fact that it is a Layer 1 with attractive features for developers, we expect high adoption of Aleo.</p>     <p>Regarding mining output and ROI, typically new mining projects see their highest value in the first year. Coupled with the high mining rewards in the first year of Aleo’s mainnet, conditions should be favorable for mining.</p>     <p>Procyon’s mining machines are already operating on the testnet. Aleo has stated that the hashpower will carry over from testnet to mainnet, which is an important advantage for first-batch mining. The same team managing Procyon’s mining machines has a proven track record with Chia mining. Our mining specialists are world class!</p>",
+		"BatchGet": false
+	}, {
+		"ID": "3be65030-9a83-4b90-90db-47e52f5b0ff4",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_FUTURE_CAPTION_1",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "<p>Currently, Aleo is in its second testnet phase, which began in late 2021, with a third testnet planned for 2022. The mainnet launch is also currently scheduled for 2022 Q3. As of June 2022, Procyon has been researching Aleo for more than 12 months, and our nodes have been running on Aleo’s testnet since January 2022.</p>     <p>With investments from top global investors, Aleo is proving to be as attractive as Filecoin for the world-leading exchanges. After the launch of the main net, Aleo is expected to be listed on Coinbase, Gemini, Kraken, Binance, Huobi, OKEx, and many other exchanges.</p>",
+		"BatchGet": false
+	}, {
+		"ID": "742d3e68-5d89-49e3-b466-a89745d5acb2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ALEO_FUTURE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Aleo's Future",
+		"BatchGet": false
+	}, {
+		"ID": "be3d2aa9-c81c-4e00-897b-93609fe5a7b9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AGREE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Confirm",
+		"BatchGet": true
+	}, {
+		"ID": "7a59fe8c-bf4d-4158-871d-3ec6aa6d84d2",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_AFFILIATE_TREE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Affiliate",
+		"BatchGet": true
+	}, {
+		"ID": "74ec6655-00f8-4816-9273-bf6513b1f9a7",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADD_NEW_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Add New Address",
+		"BatchGet": false
+	}, {
+		"ID": "4539de1a-e3ec-4a2e-9c26-8af2bc4e1a6c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADD_MOBILE_NUMBER_CAPTION",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Please add your mobile number to ensure the security of your account. You can use your phone number to recover your account in case your cannot access your email.",
+		"BatchGet": true
+	}, {
+		"ID": "15e34cce-a370-4d98-a013-6d1533f75ee9",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADD_MOBILE_NUMBER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Add Mobile Number",
+		"BatchGet": true
+	}, {
+		"ID": "cfb3ef02-a5db-40b3-8dfe-04328ce918ca",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADDRESS_TIP",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "9d621aa9-8070-4c61-93ab-f8f9053087cc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADDRESS_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "642845a6-03aa-4b95-8fa1-bd2ec433dedd",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADDRESS_LABELS_PLACEHOLDER",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": " ",
+		"BatchGet": false
+	}, {
+		"ID": "1271ed12-5e29-4298-8430-b1bee40fae27",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADDRESS_COPIED",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Receiving address copied",
+		"BatchGet": false
+	}, {
+		"ID": "a1e44ecb-20d9-470d-ae5d-35fd99a365a6",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ADDRESS",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Address",
+		"BatchGet": false
+	}, {
+		"ID": "67d75ffe-a8cc-4a1a-9ecf-7a760adc9e34",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ACCOUNT_TITLE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Account",
+		"BatchGet": false
+	}, {
+		"ID": "5c7ff27e-e257-4e66-b6a8-df35fd040ebc",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ACCOUNT_BALANCE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Account Balance",
+		"BatchGet": false
+	}, {
+		"ID": "9a10d193-4082-4296-a4b1-ffe8d2767b0c",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_ACCOUNT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Account",
+		"BatchGet": false
+	}, {
+		"ID": "8d3df749-b8b2-4936-a5ec-db96814b9551",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_30_DAYS_AVERAGE_OUTPUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Daily Output (30 day avg.)",
+		"BatchGet": false
+	}, {
+		"ID": "a4b091bb-5ede-4a86-a3f3-32df599e2b8a",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_30_DAYS_AVERAGE_NET_OUTPUT",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "Net daily output (30 day avg.)",
+		"BatchGet": false
+	}, {
+		"ID": "ab34f1d6-c0c3-46b0-8715-d6930e157024",
+		"AppID": "ff2c5d50-be56-413e-aba5-9c7ad888a769",
+		"MessageID": "MSG_24_HOUR_CHANGE",
+		"LangID": "48af217f-8534-444c-b42a-b30fc80d8a93",
+		"Message": "24 Hour Change",
+		"BatchGet": false
+	}]
+}
